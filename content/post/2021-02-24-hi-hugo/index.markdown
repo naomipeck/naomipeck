@@ -16,3 +16,18 @@ image:
   preview_only: no
 projects: []
 ---
+
+Here is some text to display on the page.
+
+
+```r
+#here is some code
+1 + 1
+```
+
+```
+## [1] 2
+```
+
+
+<img src="{{< blogdown/postref >}}index_files/figure-html/unnamed-chunk-1-1.png" width="672" />
