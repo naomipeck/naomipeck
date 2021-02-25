@@ -4,7 +4,7 @@ new_site(theme = "wowchemy/starter-academic")
 blogdown::serve_site()
 blogdown::stop_server()
 
-blogdown::new_post(title = "Hi Hugo",
+blogdown::new_post(title = "Starting Fresh",
                    ext = '.Rmarkdown',
                    subdir = "post")
 

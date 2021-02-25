@@ -1,0 +1,32 @@
+---
+title: Starting Fresh
+author: Naomi Peck
+date: '2021-02-25'
+slug: starting-fresh
+categories: [R]
+tags: [R]
+subtitle: 'my first academic website!'
+summary: 'Detailing the process that led to me making an academic website with R.'
+authors: [admin]
+lastmod: '2021-02-25T16:57:50+01:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+
+Making an academic site has been an item on my to-do list for a very long time, but it is only now - during a conference - that I find myself free enough to chip away at this task. It is also thanks to this conference that I finally found a suitable platform with enough flexibility that I can host both posts and publications, as well as keep it up-to-date with little-to-no effort (famous last words!).
+
+Let me explain myself a little. The conference I am attending is the 43rd Annual Conference of the German Linguistic Society (DGfS), hosted by my home university. Thanks to the pandemic, I am sitting in front of my brand new work computer at home with a teapot of T2 chai. And here I am typing into a fresh .Rmarkdown file in between talks after being 'infected' (in the nicest sense) by the R bug following the R workshop run as the Doktorand Forum for DGfS this year by a couple of local [R-Ladies](https://twitter.com/rladiesfreiburg).
+
+Learning to use R has been a real journey. I first started to code during my undergraduate degree at the first CoeDL summer school, where Evan Kidd taught us some basic statistics for psycholinguistic research. However, without a need to use it in my classes, I left this knowledge by the wayside. The second time I tried R was over a year later, when my boss Hedvig Skirgård was learning R. She was keen to share this knowledge around, including to the students she was mentoring and even ended up teaching an introductory R course at a future CoeDL summer school herself with Siva Kalyan. My reason for not continuing to use R this time was very similar - without my own data and a real need to do data science, my motivation soon withered and RStudio was left to gather dust once more.
+
+This is the third time that I have picked R up again, and it has been immensely rewarding to find so many different uses for the language in so many different areas of my research. I originally started using R again for [EMU-SDMS](https://ips-lmu.github.io/The-EMU-SDMS-Manual/), after being inspired by seeing it in work by [Amos Teo](amosbteo.com). I started using this to answer phonetics and phonology questions in my field data, although Praat still remains useful for a first look. I also started to properly learn data wrangling in order to run intercoder reliability tests for my study with Kirsten Culhane and Maria Vollmer on intonation unit boundary cues. And finally, I have made my site with the blogspot package following Alison Hill's [great instructions](https://alison.rbind.io/post/new-year-new-blogdown/), which was a lot easier than I had feared.
+
+So, I now have myself a brand-spanking-new academic website. This will be a place where I will share my experiences, my thoughts, and my opinions on a wide range of topics in a friendly way and in a casual setting. It will be a sort of quasi-diary for my academic journey, however long it may last - and even longer past any sort of expiration date I may encounter. I hope that what I immortalise in this site - for everything is eternal on the Internet, one way or another - can be of help to at least one person confronted by some of the same problems, and I hope it can be of comfort to at least one person who needs it. 
+
+To anyone who has made it to the end - congratulations on finding the first post and getting through what is a very clumsy attempt at putting my thoughts in a blog-style format for the first time in many a year. I do very hope you'll stick around.
+
+:wave: :wave:
