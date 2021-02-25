@@ -1,27 +1,28 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: My research interests include linguistic typology, Trans-Himalayan languages and serial verb constructions.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-email: ""
+  - course: PhD Student in Linguistik
+    institution: Albert-Ludwigs-Universität Freiburg (previously Johannes Gutenberg-Universität Mainz)
+    year: 2019-
+  - course: BA (Honours, First Class)
+    institution: Australian National University
+    year: 2017
+  - course: BAsia-Pacific Studies (Year in Asia)
+    institution: Australian National University
+    year: 2017
+email: "naomi.peck@linguistik.uni-freiburg.de"
 highlight_name: false
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- linguistic typology
+- Trans-Himalayan languages
+- serial verb constructions
+- unithood
+- prosody-syntax interface
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
+- name: Albert-Ludwigs-Universität Freiburg
+  url: https://www.linguistik.uni-freiburg.de/personal/naomi-peck
+role: PhD Student; Wissenschaftliche Mitarbeiterin
 social:
 - icon: envelope
   icon_pack: fas
@@ -31,22 +32,19 @@ social:
   icon: twitter
   icon_pack: fab
   label: Follow me on Twitter
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/NaomiPeckLing
 - icon: graduation-cap
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=Q5nhXfkAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://github.com/naomipeck
 superuser: true
-title: Nelson Bighetti
+title: Naomi Peck
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a PhD student of linguistics at Albert-Ludwigs-Universität Freiburg and member of the ![Emmy-Noether-Gruppe Non-Hierarchicality in Grammar (NonGram)](https://www.linguistik.uni-freiburg.de/research/nongram), along with Prof. Dr. Uta Reinöhl, Kirsten Culhane and Maria Vollmer. I am currently researching how complex verbal constructions are realised by speakers in Northeast India for my dissertation.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am fascinated by how we 'group' bits of languages together, whether this be how we construct noun phrases, chain verbs in serial verb constructions or clause chains, or chunk information together prosodically. My research aims to investigate the reasons why we group bits of languages together, whether this be cognitive, physiological, historical or something completely different.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
