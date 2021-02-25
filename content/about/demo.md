@@ -18,7 +18,7 @@ subtitle:
 design:
   columns: "1"
   background:
-    image: banner3.jpg
+    image: melbourne-banner.jpg
     image_darken: 1.0
     image_parallax: true
     image_position: center
