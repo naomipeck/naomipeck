@@ -8,3 +8,7 @@ blogdown::new_post(title = "Hi Hugo",
                    subdir = "post")
 
 blogdown::config_Rprofile() 
+
+blogdown::check_gitignore()
+blogdown::check_config()
+blogdown::check_site()
