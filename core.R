@@ -12,3 +12,6 @@ blogdown::config_Rprofile()
 blogdown::check_gitignore()
 blogdown::check_config()
 blogdown::check_site()
+blogdown::check_netlify()
+
+rstudioapi::navigateToFile("config.yaml", line = 3)
