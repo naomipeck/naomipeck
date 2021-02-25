@@ -20,3 +20,4 @@ blogdown::remove_hugo()
 rstudioapi::navigateToFile("config.yaml", line = 3)
 
 rstudioapi::navigateToFile("config/_default/params.toml")
+rstudioapi::navigateToFile("config/_default/menus.toml")
