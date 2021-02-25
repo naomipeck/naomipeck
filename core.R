@@ -13,5 +13,10 @@ blogdown::check_gitignore()
 blogdown::check_config()
 blogdown::check_site()
 blogdown::check_netlify()
+blogdown::check_hugo()
+
+blogdown::remove_hugo()
 
 rstudioapi::navigateToFile("config.yaml", line = 3)
+
+rstudioapi::navigateToFile("config/_default/params.toml")
