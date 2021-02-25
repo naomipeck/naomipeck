@@ -2,13 +2,13 @@
 bio: My research interests include linguistic typology, Trans-Himalayan languages and serial verb constructions.
 education:
   courses:
-  - course: PhD Student in Linguistik
+  - course: PhD Student in Linguistics
     institution: Albert-Ludwigs-Universität Freiburg (previously Johannes Gutenberg-Universität Mainz)
     year: 2019-
-  - course: BA (Honours, First Class)
+  - course: Bachelor of Arts (Honours, First Class)
     institution: Australian National University
     year: 2017
-  - course: BAsia-Pacific Studies (Year in Asia)
+  - course: Bachelor of Asia-Pacific Studies (Year in Asia)
     institution: Australian National University
     year: 2017
 email: "naomi.peck@linguistik.uni-freiburg.de"
@@ -43,7 +43,7 @@ superuser: true
 title: Naomi Peck
 ---
 
-I am a PhD student of linguistics at Albert-Ludwigs-Universität Freiburg and member of the {{< staticref "https://www.linguistik.uni-freiburg.de/research/nongram" "newtab" >}}Emmy-Noether-Gruppe Non-Hierarchicality in Grammar (NonGram){{< /staticref >}}, along with Prof. Dr. Uta Reinöhl, Kirsten Culhane and Maria Vollmer. I am currently researching how complex verbal constructions are realised by speakers in Northeast India for my dissertation.
+I am a PhD student of linguistics at Albert-Ludwigs-Universität Freiburg and member of the {{< staticref "https://www.linguistik.uni-freiburg.de/research/nongram" "newtab" >}}Emmy-Noether-Gruppe Non-Hierarchicality in Grammar (NonGram){{< /staticref >}}. I am currently researching how complex verbal constructions are realised by speakers in Northeast India for my dissertation.
 
 I am fascinated by how we 'group' bits of languages together, whether this be how we construct noun phrases, chain verbs in serial verb constructions or clause chains, or chunk information together prosodically. My research aims to investigate the reasons why we group bits of languages together, whether this be cognitive, physiological, historical or something completely different.
 
