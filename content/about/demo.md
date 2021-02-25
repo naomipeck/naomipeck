@@ -19,13 +19,13 @@ design:
   columns: "1"
   background:
     image: melbourne-banner.jpg
-    image_darken: 1.0
+    image_darken: 5.0
     image_parallax: true
     image_position: center
     image_size: cover
-    text_color_light: false
+    text_color_light: true
   spacing:
-    padding: ["20px", "0", "20px", "0"]
+    padding: ["100px", "0", "100px", "0"]
 ---
 
 My name is Naomi Peck and I originally hail from Melbourne, Australia. I currently live in Freiburg, where I do my PhD, but I have also previously lived and worked in Canberra (Australia), Seoul (South Korea) and Mainz (Germany). I also have done fieldwork in Roing and Anini (Arunachal Pradesh, India).
