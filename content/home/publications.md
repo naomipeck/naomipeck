@@ -38,5 +38,5 @@ design:
 ---
 
 {{% callout note %}}
-Quickly discover relevant content by [filtering publications](./publication/).
+Please [contact me](./about/#contact) if you cannot access any of my publications.
 {{% /callout %}}
