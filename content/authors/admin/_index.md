@@ -26,7 +26,7 @@ role: PhD Student; Wissenschaftliche Mitarbeiterin
 social:
 - icon: envelope
   icon_pack: fas
-  link: /#contact
+  link: about/#contact
 - display:
     header: true
   icon: twitter
