@@ -1,5 +1,5 @@
 ---
-bio: My research interests include linguistic typology, Trans-Himalayan languages and serial verb constructions.
+bio: PhD linguist who is interested in how units are formed, wherever they are found in language.
 education:
   courses:
   - course: PhD Student in Linguistics
