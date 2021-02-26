@@ -6,7 +6,7 @@ date: "2017"
 doi: "https://doi.org/10.25911/5d6fa1396037b"
 featured: true
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: 'Image credit: [**Christopher J. Fynn**](https://commons.wikimedia.org/w/index.php?curid=3344180)'
   focal_point: ""
   preview_only: false
 #links:
