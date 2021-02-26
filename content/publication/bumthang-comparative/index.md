@@ -29,10 +29,10 @@ featured: false
 #  url: http://example.org
 #projects:
 #- internal-project
-publication: "2018 Annual Meeting of the LInguistics Association of Great Britain, University of Sheffield"
+publication: "Poster presentation at 2018 Annual Meeting of the LInguistics Association of Great Britain, University of Sheffield"
 publication_short: "LAGB 2018"
 publication_types:
-- "12"
+- "0"
 publishDate: "2018-12-01T00:00:00Z"
 #slides: example
 summary: The comparative verb in Bumthang provides us with a counterexample to acknowledged typological tendencies and an additional strategy of coding comparison cross-linguistically.

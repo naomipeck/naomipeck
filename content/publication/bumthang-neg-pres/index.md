@@ -5,7 +5,7 @@ authors:
 - admin
 - Mark Donohue
 - Thomas Wyatt
-date: "2017-12-05T00:00:00Z"
+date: "2016-12-05T00:00:00Z"
 #doi: ""
 #featured: false
 #image:
@@ -18,7 +18,7 @@ date: "2017-12-05T00:00:00Z"
 #projects:
 #- internal-project
 publication: "46th Annual Meeting of the Australian Linguistics Society, Monash University"
-publication_short: ""
+publication_short: "ALS46"
 publication_types:
 - "8"
 publishDate: "2016-12-05T00:00:00Z"
@@ -39,4 +39,4 @@ url_slides: ""
 #url_source: '#'
 #url_video: '#'
 ---
-This talk was later published as [an article]()
+This talk was later published as [an article]({{< relref "/publication/bumthang-negation" >}}).

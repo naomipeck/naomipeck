@@ -1,48 +1,36 @@
 ---
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
-  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed
-  ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis
-  sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida
-  egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id
-  dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.
-  Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Language is used universally by humans, yet each and every language differs in principled ways. The field of linguistic typology is centred on making sense of these differences, in order to form generalisations about how we use Language. One commonly-examined parameter of variation is word order. In particular, much research has been conducted on how different languages code the roles of subjects, verbs and objects at a sentence level. However, work into how languages order words at lower levels is often neglected. Noun phrases are groups of words centred on an obligatory noun which can be extended to include other types of words such as adjectives and numerals. These ‘modifiers’ will generally either precede the noun as in English and Japanese or follow it like in Indonesian and Arabic. More rarely, a language may position some modifiers before the noun, and others after it. Through data collected in a Field Methods class in 2015, I found that Bumthang, a language from central Bhutan, exhibits characteristics of this rare type with no single prevalent order. After comparing to other noun phrase structures worldwide, I discovered that Bumthang is similar to only one other language – Zhang-Zhung, an extinct language from a millennium-old Tibetan empire. This thus implies a previously unsuspected shared social and linguistic history between the two societies. The discovery of this rare structure will prove invaluable for linguistic typology and also help fill in the blanks of Himalayan and central Asian history.
 authors:
 - admin
-date: "2019-04-07T00:00:00Z"
+date: "2016-07-14T00:00:00Z"
 doi: ""
-featured: false
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
-  focal_point: ""
-  preview_only: false
-links:
-- name: Custom Link
-  url: http://example.org
-projects:
-- internal-project
-publication: ""
-publication_short: ""
+#featured: false
+#image:
+#  caption: 'Image credit: #[**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+#  focal_point: ""
+#  preview_only: false
+#links:
+#- name: Custom Link
+#  url: http://example.org
+#projects:
+#- internal-project
+publication: "Poster presentation at the 2nd ANU Student Research Conference"
+publication_short: "ANUSRC 2"
 publication_types:
-- "3"
-publishDate: "2017-01-01T00:00:00Z"
-slides: example
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
-  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+- "0"
+publishDate: "2016-07-14T00:00:00Z"
+#slides: example
+summary: The noun phrase structure in Bumthang can help us fill in the blanks of Himalayan and central Asian history.
 tags:
-- Source Themes
-title: An example preprint / working paper
-url_code: '#'
-url_dataset: '#'
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_poster: '#'
-url_project: ""
-url_slides: ""
-url_source: '#'
-url_video: '#'
+- Bumthang
+- Areal
+title: Learning linguistics and history from Bhutanese Noun Phrases
+#url_code: '#'
+#url_dataset: '#'
+#url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_poster: 'https://openresearch-repository.anu.edu.au/bitstream/1885/108974/1/Naomi%20Peck.pdf'
+#url_project: ""
+#url_slides: ""
+#url_source: '#'
+#url_video: '#'
 ---
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
