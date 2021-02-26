@@ -9,7 +9,7 @@ authors:
 - Stephanie Yam
 date: "to appear"
 doi: ""
-#featured: false
+featured: false
 #image:
 #  caption: 'Image credit: #[**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
 #  focal_point: ""
@@ -25,7 +25,7 @@ publication: ""
 publication_short: ""
 publication_types:
 - "9"
-publishDate: "2022-01-01T00:00:00Z"
+publishDate: "2020-01-01T00:00:00Z"
 #slides: example
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
   ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
