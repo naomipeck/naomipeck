@@ -194,6 +194,18 @@
 
 - id: pub_patent
   translation: Patent
+  
+- id: pub_conftalk
+  translation: Conference talk
+  
+- id: pub_archive
+  translation: Archive
+  
+- id: pub_seminar
+  translation: Seminar
+  
+- id: pub_poster
+  translation: Conference poster
 
 # Project details
 
