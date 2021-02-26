@@ -9,9 +9,9 @@ headless: true
 active: true
 
 # Order that this section appears on the page.
-weight: 150
+weight: 50
 
-title: Experience
+title: Education
 subtitle:
 
 # Date format for experience
@@ -24,24 +24,18 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: PhD in Linguistics
+    company: Albert-Ludwigs-Universität Freiburg
     company_url: ''
-    location: California
-    date_start: '2017-01-01'
+    location: Freiburg
+    date_start: '2019-05-01'
     date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor
-    company: University X
+    description: Complex verbal constructions in the languages of the Eastern Himalayas (working title)
+  - title: Bachelor of Arts (Honours)/Bachelor of Asia-Pacific Studies (Year in Asia)
+    company: Australian National University
     company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Canberra
+    date_start: '2012-02-01'
+    date_end: '2017-12-15'
+    description: Predication, reference and modification - Major word classes in Bumthang, a Tibeto-Burman language
 ---
