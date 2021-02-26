@@ -1,52 +1,42 @@
 ---
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
-  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed
-  ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis
-  sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida
-  egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id
-  dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.
-  Vestibulum sit amet erat at nulla eleifend gravida.
-author_notes:
-- Equal contribution
-- Equal contribution
+abstract: Less inflectional categories are found in negated clauses than are found in affirmative clauses in Bumthang, a Tibeto-Burman language of Bhutan. It is common cross-linguistically for languages to make fewer contrasts in negative clauses than in affirmative ones. In this paper we focus on the less expected appearance of the ergative case in certain negated irrealis clauses, where the use of this case would be ungrammatical in the corresponding affirmative clauses. We sketch the aspectual and case-marking systems of the language, and then present data exemplifying the interaction of case, aspect and polarity, including the use of the ergative with arguments of monovalent verbs in negated irrealis clauses. We conclude by offering an account for the behaviour observed in terms of the pragmatics of implicature.
+#author_notes:
+#- Equal contribution
+#- Equal contribution
 authors:
 - admin
-- Robert Ford
-date: "2015-09-01T00:00:00Z"
-doi: ""
-featured: false
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
-  focal_point: ""
-  preview_only: false
-projects: []
-publication: '*Journal of Source Themes, 1*(1)'
-publication_short: ""
+- Thomas Wyatt
+- Mark Donohue
+date: "2020-06-01T00:00:00Z"
+doi: "https://doi.org/10.5070/H919139421"
+#featured: false
+#image:
+#  caption: 'Image credit: #[**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+#  focal_point: ""
+#  preview_only: false
+links:
+- name: Journal
+  url: https://escholarship.org/uc/item/59j3g8rw
+#projects: []
+publication: '*Himalayan Linguistics 19*(1)'
+publication_short: "Himalayan Linguistics"
 publication_types:
 - "2"
-publishDate: "2017-01-01T00:00:00Z"
-slides: example
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
-  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+publishDate: "2020-06-01T00:00:00Z"
+#slides: example
+summary: Less inflectional categories are found in negated clauses than are found in affirmative clauses in Bumthang, a Tibeto-Burman language of Bhutan.
 tags:
-- Source Themes
-title: An example journal article
-url_code: ""
-url_dataset: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_poster: ""
-url_project: ""
-url_slides: ""
-url_source: ""
-url_video: ""
+- Bumthang
+- Trans-Himalayan
+- TAME
+- Negation
+title: The asymmetrical categories of negation in Bumthang
+#url_code: ""
+#url_dataset: ""
+url_pdf: https://escholarship.org/content/qt59j3g8rw/qt59j3g8rw.pdf?t=qfplux
+#url_poster: ""
+#url_project: ""
+#url_slides: ""
+#url_source: ""
+#url_video: ""
 ---
-
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
