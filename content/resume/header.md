@@ -10,9 +10,9 @@ active: true
 headless: true
 
 # Order that this section appears on the page.
-weight: 100
+weight: 10
 
-title: 
+title: Resumé
 subtitle:
 
 design:
@@ -27,3 +27,7 @@ design:
   spacing:
     padding: ["100px", "0", "20px", "100px"]
 ---
+
+You can download my full resumé here.
+
+Below is a summary of my relevant skills, experiences and publications.
