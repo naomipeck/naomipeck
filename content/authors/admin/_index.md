@@ -39,6 +39,15 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/naomipeck
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0003-3567-813X
+- icon: academia
+  icon_pack: ai
+  link: https://uni-freiburg.academia.edu/NaomiPeck
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Naomi-Peck
 superuser: true
 title: Naomi Peck
 ---
