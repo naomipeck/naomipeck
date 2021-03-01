@@ -27,6 +27,8 @@ design:
     padding: ["100px", "0", "20px", "100px"]
 ---
 
-{{< icon name="download" pack="fas" >}} Download my full {{< staticref "media/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}} here.
+Curious about what I've done? 
 
-Below is a summary of my relevant skills, experiences and publications.
+Here you can find a summary of my skills, accomplishments, work experience and publications. 
+
+You can find a full list of my {{< staticref "publication/" >}}publications{{< /staticref >}} here and  download my full {{< icon name="download" pack="fas" >}}{{< staticref "media/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}} here.
