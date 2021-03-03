@@ -4,7 +4,7 @@ new_site(theme = "wowchemy/starter-academic")
 blogdown::serve_site()
 blogdown::stop_server()
 
-blogdown::new_post(title = "Starting Fresh",
+blogdown::new_post(title = "Boundary Cues Coding in Praat",
                    ext = '.Rmarkdown',
                    subdir = "post")
 
