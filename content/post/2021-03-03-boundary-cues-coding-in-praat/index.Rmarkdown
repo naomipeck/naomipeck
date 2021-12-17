@@ -28,7 +28,7 @@ image:
 ---
 
 In 2020, my colleagues (Kirsten Culhane and Maria Vollmer) and I decided to investigate prosodic boundary cues in the languages we work on, hoping to take part in the 'Prosodic boundary phenomena' workshop at DGfS 2021. 
-This resulted in a talk in the aforementioned workshop, which you can find here. <!-- add link here -->
+This resulted in a talk in the aforementioned workshop, which you can find [here](http://naomipeck.com/publication/comparing-ius/). <!-- add link here -->
 This study was a way for us to investigate what prosodic cues were most important in our languages, and explore the range of variation both inter- and intra-linguistically. 
 This was particularly useful as we are all relatively new to the study of our respective languages, and this gave us an opportunity to be more hands-on with our data and focus solely on prosodic aspects that we hadn't had the time to look at beforehand.
 
