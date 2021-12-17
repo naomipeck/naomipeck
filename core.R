@@ -8,7 +8,7 @@ blogdown::serve_site()
 blogdown::stop_server()
 
 #Create new post
-blogdown::new_post(title = "LDLT6",
+blogdown::new_post(title = "LDLT6-2",
                    ext = '.Rmarkdown',
                    subdir = "publication")
 
