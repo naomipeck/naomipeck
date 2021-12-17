@@ -3,7 +3,7 @@ abstract: In this thesis, I investigate the word class system in Bumthang, a Tib
 authors:
 - admin
 date: "2017"
-doi: "https://doi.org/10.25911/5d6fa1396037b"
+doi: "10.25911/5d6fa1396037b"
 featured: true
 image:
   caption: 'Image credit: [**Christopher J. Fynn**](https://commons.wikimedia.org/w/index.php?curid=3344180)'

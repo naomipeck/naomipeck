@@ -36,7 +36,7 @@ subtitle: A mixed methods study of intonation unit boundaries in three typologic
 #url_pdf: http://arxiv.org/pdf/1512.04133v1
 #url_poster: '#'
 #url_project: ""
-url_slides: 
+url_slides: "https://docs.google.com/presentation/d/e/2PACX-1vQhaWaLWA9Ia9rvVgnUhVCakPzz_EfXbLPiDqXyj83kGsIx22e4IrcTFTfMlyE2P9vI4gP3nt4qQhem/pub?start=false&loop=false&delayms=10000"
 #url_source: '#'
-url_video: '#'
+#url_video: ''
 ---
