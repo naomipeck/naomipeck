@@ -8,9 +8,9 @@ blogdown::serve_site()
 blogdown::stop_server()
 
 #Create new post
-blogdown::new_post(title = "Boundary Cues Coding in Praat",
+blogdown::new_post(title = "LDLT6",
                    ext = '.Rmarkdown',
-                   subdir = "post")
+                   subdir = "publication")
 
 # adjust settings 
 # make sure to restart R session for changes to take affect

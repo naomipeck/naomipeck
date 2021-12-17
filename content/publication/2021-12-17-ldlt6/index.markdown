@@ -1,0 +1,27 @@
+---
+title: Multi-verbal expressions and the "one intonation unit" constraint
+date: '2021-12-17'
+slug: ldlt6
+#categories: []
+tags: [Himalayas, typology, Kera'a, intonation, serial verb constructions]
+subtitle: ''
+summary: 'In this talk, I address how the "one intonation unit" constraint interacts with the formal realisation of serial verb constructions and clause-chaining, as well as processes of grammaticalisation. The effects of discourse, verbal meaning, and weakening of prosodic boundaries are discussed.'
+authors: 
+- admin
+lastmod: '2021-12-17T15:16:36+01:00'
+featured: no
+#image:
+#  caption: ''
+#  focal_point: ''
+#  preview_only: no
+#projects: []
+abstract: In this talk, I will address the intonational realisation of serial verb constructions and the related converb construction. In the Himalayas, a process has been documented for a number of languages whereby clause-chaining constructions develop into serial verb constructions (Matisoff 1967, DeLancey 1991, Hyslop 2013). A prerequisite for the process of grammaticalisation is hypothesised to be the co-occurrence of a non-final marked verb and a main verb (a "converb construction") within a single intonation unit, similar to how serial verb constructions are posited to prototypically occur within one intonation unit (cf. Givón 1991). Through an investigation using corpora of four languages of Northeast India, I will discuss initial results showing that perhaps these generalisations are not as straightforward as claimed.
+  Duhumbi, Galo, Karbi, and Kera'a are four languages spoken in Northeast India which exhibit both converb and serial verb constructions. Using open access corpus data (Duhumbi, Galo, Karbi) and fieldwork data (Kera'a), I explore the relation between single intonation unit occurrence and construction type in naturalistic data. At first glance, all serial verb constructions appear to occur within single intonation units, while converb constructions exhibit more variation. However, when examined in context, there appear to be a number of factors influencing this distribution, including discourse structure, verbal meaning, and weakening of prosodic boundaries. Verb serialisation occurred in a single intonation unit when both verbs were used in previous discourse; similarly, converb constructions alternated with SVCs in this same context. Both serial verb constructions and converb constructions involving a verb with a primarily grammatical function were realised within single intonation units, regardless of whether the verbs were previously introduced in discourse. A number of converb constructions were also distributed over two intonation units which were either "latched" or exhibited minimal pausing in between.
+  The picture painted by the distribution of serial verb and converb constructions in discourse suggest that a simple "one intonation unit" generalisation does not fully account for the range of possible constructional realisations in everyday language use. Taking a wider lens and examining the distribution of serial verb and converb constructions in discourse is crucial for a deeper understanding of how prosody interacts with syntax, and how constructional realisation within a single intonation unit can influence processes of grammaticalisation.
+publication: "Language Documentation and Linguistic Theory 6"
+publication_short: "LDLT6"
+publication_types:
+- "8"
+url_slides: ""
+slides: Slides
+---
