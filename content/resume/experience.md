@@ -30,12 +30,12 @@ experience:
     location: Freiburg
     date_start: '2019-05-01'
     date_end: ''
-    description: Complex verbal constructions in the languages of the Eastern Himalayas (working title)
+    description: Contextualising serialisation -- Multi-verbal expressions in the East Himalaya (working title)
   - title: Bachelor of Arts (Honours)/Bachelor of Asia-Pacific Studies (Year in Asia)
     company: Australian National University
     company_url: ''
     location: Canberra
     date_start: '2012-02-01'
     date_end: '2017-12-15'
-    description: Predication, reference and modification - Major word classes in Bumthang, a Tibeto-Burman language
+    description: Predication, reference and modification -- Major word classes in Bumthang, a Tibeto-Burman language
 ---
