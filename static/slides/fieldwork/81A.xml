@@ -1,0 +1,1397 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feature number="81A" base_url="https://wals.info/" name="Order of Subject, Object and Verb">
+  <description>
+    <url>https://wals.info/feature/81A.xml</url>
+    <timestamp>2021-11-23T14:27:33.110723+01:00</timestamp>
+  </description>
+    <v numeric="1" description="SOV" icon_id="c0000dd" icon_url="https://wals.info/clld-static/icons/c0000dd.png" zindex="0">
+      <l c="aba" n="Abau" lng="141.25" lat="-4.0"/>
+      <l c="abk" n="Abkhaz" lng="41.0" lat="43.0833333333"/>
+      <l c="abv" n="Abui" lng="124.666666667" lat="-8.25"/>
+      <l c="adg" n="Adang" lng="124.0" lat="-8.2"/>
+      <l c="ady" n="Adyghe (Abzakh)" lng="40.5833333333" lat="45.2333333333"/>
+      <l c="awi" n="Aekyom" lng="141.416666667" lat="-5.75"/>
+      <l c="aga" n="Agarabi" lng="146.0" lat="-6.16666666667"/>
+      <l c="ain" n="Ainu" lng="143.0" lat="43.0"/>
+      <l c="akh" n="Akha" lng="99.8333333333" lat="21.8333333333"/>
+      <l c="all" n="Ala&amp;#39;ala" lng="146.75" lat="-8.91666666667"/>
+      <l c="ala" n="Alamblak" lng="143.333333333" lat="-4.66666666667"/>
+      <l c="ale" n="Aleut" lng="-166.0" lat="54.0"/>
+      <l c="aly" n="Alyawarra" lng="135.0" lat="-22.5"/>
+      <l c="amn" n="Amanab" lng="141.25" lat="-3.58333333333"/>
+      <l c="amb" n="Ambulas" lng="143.0" lat="-3.83333333333"/>
+      <l c="ame" n="Amele" lng="145.583333333" lat="-5.25"/>
+      <l c="amh" n="Amharic" lng="38.0" lat="10.0"/>
+      <l c="agm" n="Angami" lng="94.5" lat="25.6666666667"/>
+      <l c="ang" n="Anggor" lng="141.166666667" lat="-3.75"/>
+      <l c="agt" n="Anguthimri" lng="141.833333333" lat="-12.3333333333"/>
+      <l c="ano" n="Anong" lng="98.75" lat="27.3333333333"/>
+      <l c="ao" n="Ao" lng="94.6666666667" lat="26.5833333333"/>
+      <l c="apw" n="Apache (Western)" lng="-110.0" lat="33.75"/>
+      <l c="apt" n="Apatani" lng="93.75" lat="27.5"/>
+      <l c="api" n="Apinayé" lng="-48.0" lat="-5.5"/>
+      <l c="abn" n="Arabana" lng="136.25" lat="-28.25"/>
+      <l c="abo" n="Arbore" lng="36.75" lat="5.0"/>
+      <l c="arc" n="Archi" lng="46.8333333333" lat="42.0"/>
+      <l c="arw" n="Armenian (Western)" lng="43.5" lat="38.5"/>
+      <l c="amp" n="Arrernte (Mparntwe)" lng="136.0" lat="-24.0"/>
+      <l c="asm" n="Asmat" lng="138.5" lat="-5.5"/>
+      <l c="ass" n="Assamese" lng="93.0" lat="26.0"/>
+      <l c="atm" n="Atacameño" lng="-69.0" lat="-23.0"/>
+      <l c="ath" n="Athpare" lng="87.3333333333" lat="27.0"/>
+      <l c="ava" n="Avar" lng="46.5" lat="42.5"/>
+      <l c="awa" n="Awa" lng="145.75" lat="-6.66666666667"/>
+      <l c="awp" n="Awa Pit" lng="-78.25" lat="1.5"/>
+      <l c="awt" n="Awtuw" lng="142.0" lat="-3.58333333333"/>
+      <l c="awy" n="Awyi" lng="140.583333333" lat="-2.91666666667"/>
+      <l c="aym" n="Aymara (Central)" lng="-69.0" lat="-17.0"/>
+      <l c="azi" n="Azari (Iranian)" lng="47.0" lat="37.5"/>
+      <l c="aze" n="Azerbaijani" lng="48.5" lat="40.5"/>
+      <l c="bdm" n="Badimaya" lng="118.0" lat="-27.6666666667"/>
+      <l c="bdw" n="Baham" lng="132.666666667" lat="-3.16666666667"/>
+      <l c="blt" n="Balti" lng="76.0" lat="35.0"/>
+      <l c="bam" n="Bambara" lng="-7.5" lat="12.5"/>
+      <l c="bgm" n="Bangime" lng="-3.83333333333" lat="14.9166666667"/>
+      <l c="bao" n="Bao&amp;#39;an" lng="102.833333333333" lat="35.75"/>
+      <l c="brl" n="Baragaunle" lng="83.8333333333" lat="28.8333333333"/>
+      <l c="baa" n="Barai" lng="148.083333333" lat="-9.33333333333"/>
+      <l c="brp" n="Barupu" lng="142.083333333" lat="-3.08333333333"/>
+      <l c="bsq" n="Basque" lng="-3.0" lat="43.0"/>
+      <l c="bzi" n="Bauzi" lng="137.5" lat="-2.5"/>
+      <l c="baw" n="Bawm" lng="92.25" lat="22.5"/>
+      <l c="bej" n="Beja" lng="36.0" lat="18.0"/>
+      <l c="ben" n="Bengali" lng="90.0" lat="24.0"/>
+      <l c="zag" n="Beria" lng="23.0" lat="16.0"/>
+      <l c="bti" n="Betoi" lng="-71.25" lat="7.16666666667"/>
+      <l c="bkb" n="Betta Kurumba" lng="76.75" lat="11.5"/>
+      <l c="bho" n="Bhojpuri" lng="84.0" lat="26.0"/>
+      <l c="bhu" n="Bhumij" lng="86.5" lat="21.3333333333"/>
+      <l c="blx" n="Biloxi" lng="-88.6666666667" lat="30.5"/>
+      <l c="bin" n="Binandere" lng="148.0" lat="-8.25"/>
+      <l c="biu" n="Bisu" lng="100.0" lat="19.75"/>
+      <l c="boa" n="Boazi" lng="141.333333333" lat="-7.0"/>
+      <l c="boq" n="Bokar" lng="94.6666666667" lat="28.5"/>
+      <l c="bok" n="Boko" lng="3.5" lat="10.5"/>
+      <l c="bon" n="Bongu" lng="145.916666667" lat="-5.5"/>
+      <l c="bri" n="Bribri" lng="-83.0" lat="9.41666666667"/>
+      <l c="bkt" n="Brokskat" lng="76.5" lat="35.3333333333"/>
+      <l c="ghr" n="Bunan" lng="77.0" lat="32.5"/>
+      <l c="bua" n="Burarra" lng="134.583333333" lat="-12.25"/>
+      <l c="but" n="Buriat" lng="108.0" lat="52.0"/>
+      <l c="brm" n="Burmese" lng="96.0" lat="21.0"/>
+      <l c="bur" n="Burushaski" lng="74.5" lat="36.5"/>
+      <l c="bus" n="Busa" lng="4.0" lat="9.66666666667"/>
+      <l c="cah" n="Cahuilla" lng="-116.25" lat="33.5"/>
+      <l c="cml" n="Camling" lng="86.6666666667" lat="27.0"/>
+      <l c="can" n="Candoshi" lng="-77.0" lat="-4.16666666667"/>
+      <l c="cnl" n="Canela" lng="-45.0" lat="-7.0"/>
+      <l c="car" n="Carib" lng="-56.0" lat="5.5"/>
+      <l c="cde" n="Carib (De&amp;#39;kwana)" lng="-65.0" lat="5.5"/>
+      <l c="cas" n="Cashibo" lng="-75.5" lat="-8.5"/>
+      <l c="ctw" n="Catawba" lng="-80.5" lat="35.5"/>
+      <l c="cay" n="Cayapa" lng="-79.0" lat="0.666666666667"/>
+      <l c="chh" n="Chaha" lng="37.93267" lat="8.112935"/>
+      <l c="chb" n="Chambri" lng="143.083333333" lat="-4.16666666667"/>
+      <l c="chg" n="Chang" lng="94.75" lat="26.3333333333"/>
+      <l c="chd" n="Chaudangsi" lng="80.25" lat="30.0"/>
+      <l c="chc" n="Chechen" lng="45.8333333333" lat="43.25"/>
+      <l c="cpn" n="Chepang" lng="84.75" lat="27.6666666667"/>
+      <l c="cpy" n="Chipaya" lng="-67.8333333333" lat="-18.75"/>
+      <l c="chp" n="Chipewyan" lng="-106.0" lat="59.0"/>
+      <l c="ctm" n="Chitimacha" lng="-91.0" lat="29.6666666667"/>
+      <l c="cct" n="Choctaw" lng="-88.5" lat="32.25"/>
+      <l c="cln" n="Cholón" lng="-77.5" lat="-8.0"/>
+      <l c="chv" n="Chuvash" lng="47.5" lat="55.5"/>
+      <l c="coa" n="Coahuilteco" lng="-100.0" lat="28.0"/>
+      <l c="cmn" n="Comanche" lng="-101.5" lat="33.5"/>
+      <l c="cro" n="Crow" lng="-108.0" lat="47.0"/>
+      <l c="cui" n="Cuiba" lng="-70.0" lat="6.5"/>
+      <l c="cup" n="Cupeño" lng="-116.5" lat="33.1666666667"/>
+      <l c="dag" n="Daga" lng="149.333333333" lat="-10.0"/>
+      <l c="dgr" n="Dagur" lng="124.0" lat="48.0"/>
+      <l c="dan" n="Dan" lng="-8.0" lat="7.5"/>
+      <l c="dni" n="Dani (Lower Grand Valley)" lng="138.833333333" lat="-4.33333333333"/>
+      <l c="drg" n="Dargwa" lng="47.4166666667" lat="42.25"/>
+      <l c="drm" n="Darma" lng="79.75" lat="30.0"/>
+      <l c="des" n="Desano" lng="-69.8333333333" lat="0.833333333333"/>
+      <l c="deu" n="Deuri" lng="90.25" lat="26.0"/>
+      <l c="dha" n="Dhaasanac" lng="36.3333333333" lat="4.66666666667"/>
+      <l c="dhb" n="Dharumbal" lng="150.5" lat="-22.75"/>
+      <l c="dhm" n="Dhimal" lng="87.75" lat="26.6666666667"/>
+      <l c="die" n="Diegueño (Mesa Grande)" lng="-116.166666667" lat="32.6666666667"/>
+      <l c="dig" n="Digaro" lng="96.0" lat="28.4166666667"/>
+      <l c="dim" n="Dime" lng="36.25" lat="6.16666666667"/>
+      <l c="diy" n="Diyari" lng="139.0" lat="-28.0"/>
+      <l c="dja" n="Djabugay" lng="145.583333333" lat="-16.75"/>
+      <l c="djp" n="Djapu" lng="136.0" lat="-12.6666666667"/>
+      <l c="dji" n="Djingili" lng="134.0" lat="-17.75"/>
+      <l c="der" n="Dla (Proper)" lng="141.0" lat="-3.58333333333"/>
+      <l c="dds" n="Donno So" lng="-3.58333333333" lat="14.3333333333"/>
+      <l c="dum" n="Dumo" lng="141.3" lat="-2.68333333333"/>
+      <l c="dun" n="Duna" lng="142.5" lat="-5.5"/>
+      <l c="daw" n="Dâw" lng="-67.0833333333" lat="-0.25"/>
+      <l c="edo" n="Edolo" lng="142.666666667" lat="-6.16666666667"/>
+      <l c="eip" n="Eipo" lng="140.083333333" lat="-4.33333333333"/>
+      <l c="eka" n="Ekari" lng="135.5" lat="-3.83333333333"/>
+      <l c="ene" n="Enets" lng="86.5" lat="67.5"/>
+      <l c="epe" n="Epena Pedee" lng="-77.0" lat="3.0"/>
+      <l c="ese" n="Ese Ejja" lng="-66.0" lat="-11.0"/>
+      <l c="eud" n="Eudeve" lng="-109.666666667" lat="29.1666666667"/>
+      <l c="evn" n="Even" lng="130.0" lat="68.0"/>
+      <l c="eve" n="Evenki" lng="125.0" lat="56.0"/>
+      <l c="foe" n="Foe" lng="143.5" lat="-6.5"/>
+      <l c="pdp" n="Folopa" lng="144.5" lat="-7.0"/>
+      <l c="for" n="Fore" lng="145.5" lat="-6.75"/>
+      <l c="fur" n="Fur" lng="25.0" lat="13.5"/>
+      <l c="gds" n="Gadsup" lng="146.0" lat="-6.25"/>
+      <l c="gah" n="Gahuku" lng="145.416666667" lat="-6.0"/>
+      <l c="gal" n="Galo" lng="94.6666666667" lat="28.1666666667"/>
+      <l c="gam" n="Gamo" lng="37.25" lat="6.66666666667"/>
+      <l c="gap" n="Gapapaiwa" lng="149.833333333" lat="-9.75"/>
+      <l c="gar" n="Garo" lng="90.5" lat="25.6666666667"/>
+      <l c="geo" n="Georgian" lng="44.0" lat="42.0"/>
+      <l c="gim" n="Gimira" lng="35.75" lat="7.0"/>
+      <l c="gog" n="Gogodala" lng="142.833333333" lat="-8.08333333333"/>
+      <l c="gln" n="Golin" lng="144.75" lat="-6.33333333333"/>
+      <l c="gon" n="Gondi" lng="81.0" lat="19.0"/>
+      <l c="gan" n="Great Andamanese" lng="92.6666666667" lat="12.0"/>
+      <l c="grw" n="Greenlandic (West)" lng="-51.0" lat="64.0"/>
+      <l c="ghb" n="Guahibo" lng="-69.0" lat="5.0"/>
+      <l c="gug" n="Gugada" lng="134.0" lat="-30.0"/>
+      <l c="guh" n="Guhu-Samane" lng="147.333333333" lat="-8.0"/>
+      <l c="guj" n="Gujarati" lng="72.0" lat="23.0"/>
+      <l c="gmw" n="Gumawana" lng="150.833333333" lat="-9.25"/>
+      <l c="gur" n="Gurung" lng="84.3333333333" lat="28.3333333333"/>
+      <l c="guu" n="Guugu Yimidhirr" lng="144.833333333" lat="-15.0"/>
+      <l c="hai" n="Haida" lng="-132.0" lat="53.0"/>
+      <l c="ham" n="Hamtai" lng="146.25" lat="-7.5"/>
+      <l c="hhu" n="Hanga Hundi" lng="142.916666667" lat="-3.83333333333"/>
+      <l c="hay" n="Hayu" lng="86.0" lat="27.25"/>
+      <l c="hid" n="Hidatsa" lng="-102.5" lat="47.0"/>
+      <l c="hin" n="Hindi" lng="77.0" lat="25.0"/>
+      <l c="hop" n="Hopi" lng="-110.0" lat="36.0"/>
+      <l c="hua" n="Hua" lng="145.333333333" lat="-6.33333333333"/>
+      <l c="hlp" n="Hualapai" lng="-113.75" lat="35.5"/>
+      <l c="hui" n="Huichol" lng="-104.0" lat="22.0"/>
+      <l c="hmi" n="Huitoto (Minica)" lng="-74.0" lat="-0.333333333333"/>
+      <l c="hum" n="Huitoto (Murui)" lng="-73.5" lat="-1.0"/>
+      <l c="hzb" n="Hunzib" lng="46.25" lat="42.1666666667"/>
+      <l c="hpd" n="Hup" lng="-69.25" lat="0.166666666667"/>
+      <l c="isa" n="I&amp;#39;saka" lng="141.283333333" lat="-2.83333333333"/>
+      <l c="iat" n="Iatmul" lng="143.25" lat="-4.25"/>
+      <l c="idn" n="Iduna" lng="150.25" lat="-9.33333333333"/>
+      <l c="iha" n="Iha" lng="132.25" lat="-2.91666666667"/>
+      <l c="ijo" n="Ijo (Kolokuma)" lng="5.66666666667" lat="4.91666666667"/>
+      <l c="ika" n="Ika" lng="-73.75" lat="10.6666666667"/>
+      <l c="inn" n="Innamincka" lng="140.75" lat="-27.75"/>
+      <l c="irx" n="Iranxe" lng="-58.0" lat="-13.0"/>
+      <l c="irq" n="Iraqw" lng="35.5" lat="-4.0"/>
+      <l c="isi" n="Isirawa" lng="138.5" lat="-1.83333333333"/>
+      <l c="ite" n="Itelmen" lng="157.5" lat="57.0"/>
+      <l c="iwm" n="Iwam" lng="142.0" lat="-4.33333333333"/>
+      <l c="jbt" n="Jabutí" lng="-62.25" lat="-12.25"/>
+      <l c="jad" n="Jad" lng="79.0" lat="30.8333333333"/>
+      <l c="jms" n="Jamsay" lng="-2.5" lat="14.4166666667"/>
+      <l c="jpn" n="Japanese" lng="140.0" lat="37.0"/>
+      <l c="jrw" n="Jarawa (in Andamans)" lng="92.5833333333" lat="12.0"/>
+      <l c="jng" n="Jingpho" lng="97.0" lat="25.4166666667"/>
+      <l c="jin" n="Jino" lng="101.0" lat="22.0"/>
+      <l c="jiv" n="Jivaro" lng="-78.0" lat="-2.5"/>
+      <l c="joh" n="Johari" lng="80.0" lat="30.6666666667"/>
+      <l c="kab" n="Kabardian" lng="43.5" lat="43.5"/>
+      <l c="kac" n="Kachari" lng="91.0" lat="26.5"/>
+      <l c="kng" n="Kaingang" lng="-52.0" lat="-26.0"/>
+      <l c="krr" n="Kairiru" lng="143.583333333" lat="-3.33333333333"/>
+      <l c="kae" n="Kaki Ae" lng="145.833333333" lat="-8.0"/>
+      <l c="kgu" n="Kalkatungu" lng="139.5" lat="-21.0"/>
+      <l c="kll" n="Kaluli" lng="142.75" lat="-6.5"/>
+      <l c="kma" n="Kamaiurá" lng="-52.5833333333" lat="-12.0833333333"/>
+      <l c="kmz" n="Kamasau" lng="143.666666667" lat="-3.91666666667"/>
+      <l c="kms" n="Kamass" lng="92.0" lat="52.0"/>
+      <l c="kbo" n="Kambot" lng="144.133333333" lat="-4.25"/>
+      <l c="kmr" n="Kamoro" lng="136.0" lat="-4.33333333333"/>
+      <l c="xns" n="Kanashi" lng="77.25" lat="32.0833333333"/>
+      <l c="kbu" n="Kanembu" lng="15.0" lat="14.0"/>
+      <l c="knd" n="Kannada" lng="76.0" lat="14.0"/>
+      <l c="kno" n="Kanoê" lng="-61.0" lat="-13.25"/>
+      <l c="knb" n="Kanum (Bädi)" lng="140.75" lat="-8.83333333333"/>
+      <l c="knr" n="Kanuri" lng="13.0" lat="12.0"/>
+      <l c="krc" n="Karachay-Balkar" lng="42.0" lat="43.5"/>
+      <l c="jva" n="Karajá" lng="-50.3333333333" lat="-10.0"/>
+      <l c="kkp" n="Karakalpak" lng="60.0" lat="43.0"/>
+      <l c="kyr" n="Karkar-Yuri" lng="141.083333333" lat="-3.75"/>
+      <l c="kaa" n="Karó (Arára)" lng="-62.0" lat="-10.3333333333"/>
+      <l c="kti" n="Kati (in West Papua, Indonesia)" lng="140.916666667" lat="-5.75"/>
+      <l c="kyz" n="Kayabí" lng="-55.5" lat="-11.0"/>
+      <l c="kyp" n="Kayapó" lng="-52.0" lat="-9.0"/>
+      <l c="kem" n="Kemant" lng="37.4166666667" lat="12.6666666667"/>
+      <l c="ket" n="Ket" lng="87.0" lat="64.0"/>
+      <l c="kew" n="Kewa" lng="143.833333333" lat="-6.5"/>
+      <l c="khl" n="Khalaj" lng="50.0" lat="35.0"/>
+      <l c="khg" n="Khaling" lng="86.6666666667" lat="27.5"/>
+      <l c="kha" n="Khalkha" lng="105.0" lat="47.0"/>
+      <l c="kmh" n="Kham" lng="82.75" lat="28.5"/>
+      <l c="khd" n="Kham (Dege)" lng="98.5833333333" lat="31.8333333333"/>
+      <l c="knz" n="Kham (Tibetan) (Nangchen)" lng="96.5" lat="32.5"/>
+      <l c="kty" n="Khanty" lng="65.0" lat="65.0"/>
+      <l c="khw" n="Khowar" lng="72.0" lat="36.0"/>
+      <l c="klw" n="Kiliwa" lng="-115.666666667" lat="31.3333333333"/>
+      <l c="kim" n="Kimaghama" lng="138.5" lat="-8.0"/>
+      <l c="knn" n="Kinnauri" lng="78.0" lat="31.5"/>
+      <l c="kio" n="Kiowa" lng="-99.0" lat="37.0"/>
+      <l c="kie" n="Kire" lng="144.75" lat="-4.25"/>
+      <l c="kiw" n="Kiwai (Southern)" lng="143.5" lat="-8.0"/>
+      <l c="koa" n="Koasati" lng="-85.1666666667" lat="34.8333333333"/>
+      <l c="kob" n="Kobon" lng="144.333333333" lat="-5.16666666667"/>
+      <l c="kmo" n="Koiali (Mountain)" lng="147.5" lat="-9.0"/>
+      <l c="kta" n="Koita" lng="147.083333333" lat="-9.33333333333"/>
+      <l c="kok" n="Kokborok" lng="92.5" lat="24.3333333333"/>
+      <l c="kol" n="Kolami" lng="78.5" lat="20.0"/>
+      <l c="kmb" n="Kombai" lng="140.0" lat="-5.58333333333"/>
+      <l c="kor" n="Korean" lng="128.0" lat="37.5"/>
+      <l c="kku" n="Korku" lng="78.5" lat="22.5"/>
+      <l c="krw" n="Korowai" lng="140.0" lat="-5.25"/>
+      <l c="kry" n="Koryak" lng="167.0" lat="61.0"/>
+      <l c="koy" n="Koya" lng="81.3333333333" lat="17.5"/>
+      <l c="kse" n="Koyraboro Senni" lng="0.0" lat="16.0"/>
+      <l c="krh" n="Krahô" lng="-48.0" lat="-8.0"/>
+      <l c="kqq" n="Krenak" lng="-41.0" lat="-15.5"/>
+      <l c="krz" n="Kryz" lng="48.0" lat="41.0833333333"/>
+      <l c="kya" n="Kuku-Yalanji" lng="145.0" lat="-16.0"/>
+      <l c="kmn" n="Kuman" lng="145.0" lat="-5.91666666667"/>
+      <l c="kum" n="Kumauni" lng="80.0" lat="30.0"/>
+      <l c="kun" n="Kuna" lng="-77.3333333333" lat="8.0"/>
+      <l c="knm" n="Kunama" lng="37.0" lat="14.5"/>
+      <l c="kmp" n="Kunimaipa" lng="146.833333333" lat="-8.0"/>
+      <l c="krd" n="Kurdish (Central)" lng="44.0" lat="36.0"/>
+      <l c="kus" n="Kusunda" lng="84.6666666667" lat="28.0"/>
+      <l c="thy" n="Kuuk Thaayorre" lng="141.833333333" lat="-14.5833333333"/>
+      <l c="kuv" n="Kuvi" lng="82.6666666667" lat="18.75"/>
+      <l c="kwo" n="Kwoma" lng="142.75" lat="-4.16666666667"/>
+      <l c="kwt" n="Kwomtari" lng="141.5" lat="-3.5"/>
+      <l c="kyk" n="Kyaka" lng="144.083333333" lat="-5.55"/>
+      <l c="lad" n="Ladakhi" lng="78.0" lat="34.0"/>
+      <l c="lah" n="Lahu" lng="98.1666666667" lat="20.0"/>
+      <l c="lai" n="Lai" lng="93.6666666667" lat="22.6666666667"/>
+      <l c="lkt" n="Lakhota" lng="-101.833333333" lat="43.8333333333"/>
+      <l c="lal" n="Lalo" lng="100.25" lat="25.0"/>
+      <l c="lmn" n="Lamani" lng="77.0" lat="17.0"/>
+      <l c="lav" n="Lavukaleve" lng="159.2" lat="-9.08333333333"/>
+      <l c="lep" n="Lepcha" lng="88.5" lat="27.1666666667"/>
+      <l c="lez" n="Lezgian" lng="47.8333333333" lat="41.6666666667"/>
+      <l c="lis" n="Lisu" lng="98.0" lat="26.0"/>
+      <l c="lot" n="Lotha" lng="94.25" lat="26.5"/>
+      <l c="mab" n="Maba" lng="20.8333333333" lat="13.75"/>
+      <l c="mgh" n="Magahi" lng="85.5" lat="23.5"/>
+      <l c="mag" n="Magar" lng="83.0" lat="28.0"/>
+      <l c="mgi" n="Magi" lng="149.333333333" lat="-10.3333333333"/>
+      <l c="mne" n="Maidu (Northeast)" lng="-120.666666667" lat="40.0"/>
+      <l c="mrs" n="Mairasi" lng="134.0" lat="-3.5"/>
+      <l c="msn" n="Maisin" lng="149.166666667" lat="-9.5"/>
+      <l c="mkj" n="Makasae" lng="126.5" lat="-8.66666666667"/>
+      <l c="mkl" n="Maklew" lng="139.416666667" lat="-7.66666666667"/>
+      <l c="mym" n="Malayalam" lng="76.5" lat="10.0"/>
+      <l c="mto" n="Malto" lng="87.3333333333" lat="25.0"/>
+      <l c="mnm" n="Manam" lng="145.0" lat="-4.0"/>
+      <l c="mnc" n="Manchu" lng="127.5" lat="49.5"/>
+      <l c="mdn" n="Mandan" lng="-102.5" lat="46.5"/>
+      <l c="mkg" n="Mandinka (Gambian)" lng="-16.0" lat="13.4166666667"/>
+      <l c="mem" n="Manem" lng="140.833333333" lat="-3.0"/>
+      <l c="mgg" n="Mangghuer" lng="102.0" lat="36.0"/>
+      <l c="maw" n="Maninka (Western)" lng="-11.0" lat="13.0"/>
+      <l c="man" n="Mano" lng="-9.0" lat="7.0"/>
+      <l c="mns" n="Mansi" lng="62.0" lat="62.0"/>
+      <l c="mku" n="Maranungku" lng="130.0" lat="-13.6666666667"/>
+      <l c="mhi" n="Marathi" lng="76.0" lat="19.0"/>
+      <l c="mrc" n="Marchha" lng="79.5833333333" lat="30.25"/>
+      <l c="mny" n="Margany" lng="144.5" lat="-27.0"/>
+      <l c="mar" n="Maricopa" lng="-113.166666667" lat="33.1666666667"/>
+      <l c="mrd" n="Marind" lng="140.166666667" lat="-7.83333333333"/>
+      <l c="mrr" n="Maringarr" lng="130.0" lat="-14.25"/>
+      <l c="mrh" n="Marrithiyel" lng="130.0" lat="-13.8333333333"/>
+      <l c="mru" n="Maru" lng="98.5" lat="23.5"/>
+      <l c="msl" n="Masalit" lng="22.0" lat="13.3333333333"/>
+      <l c="mts" n="Matis" lng="-70.25" lat="-4.41666666667"/>
+      <l c="mdl" n="Matngele" lng="130.416666667" lat="-13.8333333333"/>
+      <l c="myr" n="Matsés" lng="-73.25" lat="-5.41666666667"/>
+      <l c="mka" n="Mauka" lng="-7.5" lat="8.33333333333"/>
+      <l c="max" n="Maxakalí" lng="-40.0" lat="-18.0"/>
+      <l c="mek" n="Mekens" lng="-61.5" lat="-12.5"/>
+      <l c="mde" n="Mende" lng="-11.5" lat="7.83333333333"/>
+      <l c="mey" n="Menya" lng="146.0" lat="-7.25"/>
+      <l c="mer" n="Meryam Mir" lng="144.083333333" lat="-9.91666666667"/>
+      <l c="mpt" n="Mian" lng="141.5" lat="-4.75"/>
+      <l c="mij" n="Miju" lng="96.0" lat="29.0"/>
+      <l c="mki" n="Mikasuki" lng="-85.0" lat="32.0"/>
+      <l c="mik" n="Mikir" lng="93.5" lat="26.3333333333"/>
+      <l c="mnv" n="Minaveha" lng="150.466666667" lat="-9.6"/>
+      <l c="msg" n="Mising" lng="94.8333333333" lat="28.5"/>
+      <l c="mis" n="Miskito" lng="-83.6666666667" lat="14.0"/>
+      <l c="miz" n="Mizo" lng="92.8333333333" lat="23.1666666667"/>
+      <l c="mog" n="Moghol" lng="62.0" lat="35.0"/>
+      <l c="mom" n="Mombum" lng="138.75" lat="-8.25"/>
+      <l c="fqs" n="Momu" lng="141.583333333" lat="-3.0"/>
+      <l c="mqf" n="Momuna" lng="139.25" lat="-4.83333333333"/>
+      <l c="mkh" n="Mongol (Khamnigan)" lng="117.0" lat="49.0"/>
+      <l c="mni" n="Moni" lng="137.0" lat="-3.66666666667"/>
+      <l c="mno" n="Mono (in United States)" lng="-119.0" lat="38.0"/>
+      <l c="mri" n="Moraori" lng="140.666666667" lat="-8.58333333333"/>
+      <l c="mtu" n="Motu" lng="147.0" lat="-9.33333333333"/>
+      <l c="msc" n="Muisca" lng="-74.0" lat="5.0"/>
+      <l c="mun" n="Mundari" lng="84.6666666667" lat="23.0"/>
+      <l c="muu" n="Mundurukú" lng="-58.0" lat="-7.0"/>
+      <l c="mpa" n="Murrinh-Patha" lng="129.666666667" lat="-14.6666666667"/>
+      <l c="nab" n="Nabak" lng="147.0" lat="-6.41666666667"/>
+      <l c="nma" n="Naga (Mao)" lng="94.3333333333" lat="25.5"/>
+      <l c="ngt" n="Naga (Tangkhul)" lng="94.5" lat="25.0"/>
+      <l c="nag" n="Nagatman" lng="141.5" lat="-3.75"/>
+      <l c="kho" n="Nama" lng="18.0" lat="-25.5"/>
+      <l c="nmb" n="Nambikuára (Southern)" lng="-59.5" lat="-14.0"/>
+      <l c="nam" n="Namia" lng="141.75" lat="-3.83333333333"/>
+      <l c="nnk" n="Nankina" lng="146.45" lat="-5.78333333333"/>
+      <l c="nar" n="Nara (in Ethiopia)" lng="37.5833333333" lat="15.0833333333"/>
+      <l c="nas" n="Nasioi" lng="155.583333333" lat="-6.33333333333"/>
+      <l c="nat" n="Natchez" lng="-91.3333333333" lat="31.75"/>
+      <l c="nav" n="Navajo" lng="-108.0" lat="36.1666666667"/>
+      <l c="nnd" n="Nend" lng="144.916666667" lat="-5.0"/>
+      <l c="ntu" n="Nenets" lng="76.0" lat="70.0"/>
+      <l c="naj" n="Neo-Aramaic (Arbel Jewish)" lng="44.0" lat="36.3833"/>
+      <l c="nep" n="Nepali" lng="85.0" lat="28.0"/>
+      <l c="nev" n="Nevome" lng="-112.5" lat="31.0"/>
+      <l c="nwd" n="Newar (Dolakha)" lng="86.0" lat="27.3333333333"/>
+      <l c="new" n="Newari (Kathmandu)" lng="85.5" lat="27.6666666667"/>
+      <l c="ntj" n="Ngaanyatjarra" lng="126.5" lat="-26.0"/>
+      <l c="nkb" n="Ngalkbun" lng="134.833333333" lat="-13.5"/>
+      <l c="nga" n="Nganasan" lng="93.0" lat="71.0"/>
+      <l c="nbr" n="Ngäbere" lng="-82.0" lat="8.66666666667"/>
+      <l c="niv" n="Nivkh" lng="142.0" lat="53.3333333333"/>
+      <l c="noc" n="Nocte" lng="95.5" lat="27.0"/>
+      <l c="nog" n="Noghay" lng="46.0" lat="44.0"/>
+      <l c="nbd" n="Nubian (Dongolese)" lng="30.75" lat="18.25"/>
+      <l c="nku" n="Nubian (Kunuz)" lng="33.0" lat="23.0"/>
+      <l c="nus" n="Nusu" lng="99.0" lat="26.75"/>
+      <l c="nyk" n="Nyamkad" lng="78.5" lat="32.0"/>
+      <l c="nyi" n="Nyimang" lng="29.3333333333" lat="12.1666666667"/>
+      <l c="oir" n="Oirat" lng="93.0" lat="37.5"/>
+      <l c="oks" n="Oksapmin" lng="142.166666667" lat="-5.16666666667"/>
+      <l c="omh" n="Omaha" lng="-97.25" lat="42.0"/>
+      <l c="ong" n="Onge" lng="92.4166666667" lat="10.75"/>
+      <l c="ord" n="Ordos" lng="109.0" lat="39.0"/>
+      <l c="ori" n="Orig" lng="30.8333333333" lat="12.1666666667"/>
+      <l c="oya" n="Oriya" lng="85.0" lat="21.0"/>
+      <l c="oro" n="Orokaiva" lng="148.25" lat="-8.83333333333"/>
+      <l c="orh" n="Oromo (Harar)" lng="42.0" lat="9.0"/>
+      <l c="orw" n="Oromo (Waata)" lng="39.8333333333" lat="-3.33333333333"/>
+      <l c="ory" n="Orya" lng="139.833333333" lat="-2.75"/>
+      <l c="osa" n="Osage" lng="-94.0" lat="37.0"/>
+      <l c="oss" n="Ossetic" lng="44.0" lat="43.0"/>
+      <l c="owi" n="Owininga" lng="141.75" lat="-4.5"/>
+      <l c="pno" n="Paiute (Northern)" lng="-118.0" lat="42.0"/>
+      <l c="pan" n="Panjabi" lng="74.0" lat="31.0"/>
+      <l c="psh" n="Pashto" lng="67.0" lat="33.0"/>
+      <l c="ptt" n="Pattani" lng="76.75" lat="32.75"/>
+      <l c="paw" n="Pawaian" lng="145.083333333" lat="-7.0"/>
+      <l c="prs" n="Persian" lng="54.0" lat="32.0"/>
+      <l c="pba" n="Pima Bajo" lng="-111.0" lat="29.0"/>
+      <l c="prh" n="Pirahã" lng="-62.0" lat="-7.0"/>
+      <l c="pir" n="Piro" lng="-73.5" lat="-11.0"/>
+      <l c="pis" n="Pisa" lng="139.166666667" lat="-5.16666666667"/>
+      <l c="pme" n="Pomo (Eastern)" lng="-122.666666667" lat="39.0"/>
+      <l c="pso" n="Pomo (Southeastern)" lng="-122.5" lat="39.0"/>
+      <l c="pra" n="Prasuni" lng="71.0" lat="35.5"/>
+      <l c="pum" n="Pumi" lng="101.0" lat="28.0"/>
+      <l c="pun" n="Pungupungu" lng="130.416666667" lat="-13.5"/>
+      <l c="prk" n="Purki" lng="76.0" lat="34.6666666667"/>
+      <l c="pae" n="Páez" lng="-76.0" lat="2.66666666667"/>
+      <l c="qaf" n="Qafar" lng="42.0" lat="12.0"/>
+      <l c="qhu" n="Quechua (Huallaga)" lng="-75.5" lat="-9.5"/>
+      <l c="qim" n="Quechua (Imbabura)" lng="-78.0" lat="0.333333333333"/>
+      <l c="ral" n="Ralte" lng="92.75" lat="23.75"/>
+      <l c="ram" n="Rama" lng="-83.75" lat="11.75"/>
+      <l c="rpa" n="Rang Pas" lng="79.3333333333" lat="30.3333333333"/>
+      <l c="rao" n="Rao" lng="144.5" lat="-4.75"/>
+      <l c="ras" n="Rashad" lng="31.05" lat="11.8333333333"/>
+      <l c="rwa" n="Rawa" lng="146.0" lat="-5.83333333333"/>
+      <l c="raw" n="Rawang" lng="97.5" lat="27.5"/>
+      <l c="rmb" n="Rembarnga" lng="134.583333333" lat="-12.8333333333"/>
+      <l c="res" n="Resígaro" lng="-71.5" lat="-2.41666666667"/>
+      <l c="ret" n="Retuarã" lng="-70.6666666667" lat="-0.5"/>
+      <l c="ria" n="Riantana" lng="138.5" lat="-7.5"/>
+      <l c="rik" n="Rikbaktsa" lng="-57.5" lat="-11.8333333333"/>
+      <l c="rum" n="Rumu" lng="144.25" lat="-7.16666666667"/>
+      <l c="run" n="Runga" lng="21.0" lat="10.3333333333"/>
+      <l c="rut" n="Rutul" lng="47.4166666667" lat="41.5"/>
+      <l c="slb" n="Saliba (in Papua New Guinea)" lng="150.716666667" lat="-10.5833333333"/>
+      <l c="syu" n="Salt-Yui" lng="145.033333333" lat="-6.28333333333"/>
+      <l c="nmd" n="Samo" lng="142.25" lat="-6.16666666667"/>
+      <l c="sdw" n="Sandawe" lng="35.0" lat="-5.0"/>
+      <l c="sta" n="Santa" lng="107.5" lat="31.5"/>
+      <l c="stl" n="Santali" lng="87.0" lat="24.5"/>
+      <l c="snm" n="Sanuma" lng="-64.6666666667" lat="4.5"/>
+      <l c="src" n="Sarcee" lng="-116.0" lat="52.5"/>
+      <l c="sar" n="Sare" lng="143.166666667" lat="-4.5"/>
+      <l c="sav" n="Savi" lng="71.5" lat="35.0"/>
+      <l c="svs" n="Savosavo" lng="159.8" lat="-9.13333333333"/>
+      <l c="skp" n="Selkup" lng="82.0" lat="65.0"/>
+      <l c="sme" n="Seme" lng="-4.91666666667" lat="11.0"/>
+      <l c="smn" n="Seminole" lng="-84.0" lat="33.0"/>
+      <l c="snt" n="Sentani" lng="140.583333333" lat="-2.58333333333"/>
+      <l c="ser" n="Seri" lng="-112.0" lat="29.0"/>
+      <l c="shb" n="Shabo" lng="35.4166666667" lat="7.58333333333"/>
+      <l c="shh" n="Sharanahua" lng="-70.0" lat="-11.0"/>
+      <l c="skw" n="Shekhawati" lng="75.5" lat="28.0"/>
+      <l c="she" n="Sherpa" lng="86.8333333333" lat="27.75"/>
+      <l c="sna" n="Shina" lng="74.0" lat="36.0"/>
+      <l c="shk" n="Shipibo-Konibo" lng="-75.0" lat="-7.5"/>
+      <l c="shi" n="Shiriana" lng="-62.8333333333" lat="3.5"/>
+      <l c="sho" n="Shoshone" lng="-114.0" lat="41.0"/>
+      <l c="sia" n="Siane" lng="145.2" lat="-6.08333333333"/>
+      <l c="sid" n="Sidaama" lng="38.5" lat="6.66666666667"/>
+      <l c="sil" n="Sila" lng="21.75" lat="12.3333333333"/>
+      <l c="sng" n="Sinaugoro" lng="147.833333333" lat="-9.83333333333"/>
+      <l c="snh" n="Sinhala" lng="80.5" lat="7.0"/>
+      <l c="srn" n="Sirionó" lng="-64.0" lat="-15.5833333333"/>
+      <l c="sro" n="Siroi" lng="146.0" lat="-5.5"/>
+      <l c="sko" n="Skou" lng="140.916666667" lat="-2.66666666667"/>
+      <l c="sla" n="Slave" lng="-125.0" lat="67.0"/>
+      <l c="sod" n="Soddo" lng="38.5" lat="8.5"/>
+      <l c="som" n="Somali" lng="45.0" lat="3.0"/>
+      <l c="snn" n="Soninke" lng="-10.5" lat="15.0"/>
+      <l c="srb" n="Sorbian" lng="14.0" lat="51.5"/>
+      <l c="spi" n="Spitian" lng="78.0" lat="32.25"/>
+      <l c="sue" n="Suena" lng="147.55" lat="-7.75"/>
+      <l c="suk" n="Suki" lng="141.75" lat="-8.0"/>
+      <l c="sup" n="Supyire" lng="-5.58333333333" lat="11.5"/>
+      <l c="sus" n="Susu" lng="-13.0" lat="10.0"/>
+      <l c="tba" n="Tabare" lng="145.0" lat="-6.08333333333"/>
+      <l c="tbl" n="Tabla" lng="140.416666667" lat="-2.45"/>
+      <l c="trr" n="Tairora" lng="146.0" lat="-6.5"/>
+      <l c="taj" n="Tajik" lng="70.0" lat="38.6666666667"/>
+      <l c="tkl" n="Takelma" lng="-123.0" lat="42.5"/>
+      <l c="tak" n="Takia" lng="146.0" lat="-4.66666666667"/>
+      <l c="tma" n="Tama" lng="22.0" lat="14.5"/>
+      <l c="tmg" n="Tamagario" lng="139.25" lat="-6.41666666667"/>
+      <l c="tam" n="Tamang (Eastern)" lng="85.666666666667" lat="27.5"/>
+      <l c="tml" n="Tamil" lng="78.5" lat="11.0"/>
+      <l c="tpt" n="Tapieté" lng="-61.6666666667" lat="-19.75"/>
+      <l c="tce" n="Tarahumara (Central)" lng="-107.5" lat="27.5"/>
+      <l c="twe" n="Tarahumara (Western)" lng="-108.0" lat="27.5"/>
+      <l c="tao" n="Tarao" lng="94.1666666667" lat="24.25"/>
+      <l c="tar" n="Tariana" lng="-69.1666666667" lat="1.0"/>
+      <l c="tvo" n="Tatar" lng="49.5" lat="56.0"/>
+      <l c="tau" n="Tauya" lng="145.333333333" lat="-5.75"/>
+      <l c="taw" n="Tawala" lng="150.666666667" lat="-10.3333333333"/>
+      <l c="tlf" n="Telefol" lng="141.75" lat="-5.0"/>
+      <l c="tel" n="Telugu" lng="79.0" lat="16.0"/>
+      <l c="trb" n="Teribe" lng="-82.6666666667" lat="9.33333333333"/>
+      <l c="thk" n="Thakali" lng="83.75" lat="29.0"/>
+      <l c="thn" n="Thangmi" lng="86.0" lat="27.75"/>
+      <l c="thu" n="Thulung" lng="86.5" lat="27.4166666667"/>
+      <l c="tdi" n="Tibetan (Dingri)" lng="86.5" lat="28.5"/>
+      <l c="tdr" n="Tibetan (Drokpa)" lng="81.25" lat="32.25"/>
+      <l c="tmo" n="Tibetan (Modern Literary)" lng="91.5" lat="29.8333333333"/>
+      <l c="tib" n="Tibetan (Standard Spoken)" lng="91.0" lat="30.0"/>
+      <l c="tig" n="Tigrinya" lng="38.5" lat="14.5"/>
+      <l c="tgr" n="Tigré" lng="38.5" lat="16.5"/>
+      <l c="tja" n="Tiipay (Jamul)" lng="-116.5" lat="32.1666666667"/>
+      <l c="tmc" n="Timucua" lng="-82.5" lat="30.25"/>
+      <l c="tni" n="Tinani" lng="77.1666666667" lat="32.3333333333"/>
+      <l c="tli" n="Tlingit" lng="-135.0" lat="59.0"/>
+      <l c="tlo" n="Tobelo" lng="128.5" lat="1.5"/>
+      <l c="tod" n="Tod" lng="77.25" lat="32.4166666667"/>
+      <l c="trw" n="Torwali" lng="72.0" lat="34.25"/>
+      <l c="tsf" n="Tsafiki" lng="-79.3333333333" lat="-1.0"/>
+      <l c="tsz" n="Tsez" lng="45.75" lat="42.25"/>
+      <l c="tgl" n="Tshangla" lng="92.1666666667" lat="27.8333333333"/>
+      <l c="ttu" n="Tsova-Tush" lng="45.5" lat="42.5"/>
+      <l c="tbu" n="Tubu" lng="15.0" lat="16.0"/>
+      <l c="tul" n="Tulu" lng="75.3333333333" lat="12.75"/>
+      <l c="tnn" n="Tunen" lng="10.6666666667" lat="4.75"/>
+      <l c="tun" n="Tunica" lng="-91.0" lat="32.6666666667"/>
+      <l c="tur" n="Turkish" lng="35.0" lat="39.0"/>
+      <l c="tkm" n="Turkmen" lng="58.0" lat="40.0"/>
+      <l c="tte" n="Tutelo" lng="-78.75" lat="37.6666666667"/>
+      <l c="tuv" n="Tuvan" lng="95.0" lat="52.0"/>
+      <l c="tuy" n="Tuyuca" lng="-70.0833333333" lat="0.5"/>
+      <l c="tye" n="Tyeraity" lng="130.333333333" lat="-13.0"/>
+      <l c="tsh" n="Tümpisa Shoshone" lng="-117.0" lat="37.0"/>
+      <l c="uby" n="Ubykh" lng="39.6666666667" lat="43.6666666667"/>
+      <l c="udi" n="Udi" lng="48.0" lat="41.0"/>
+      <l c="udh" n="Udihe" lng="136.25" lat="47.6666666667"/>
+      <l c="udm" n="Udmurt" lng="52.5" lat="57.5"/>
+      <l c="una" n="Una" lng="140.0" lat="-4.66666666667"/>
+      <l c="uhi" n="Uradhi" lng="142.416666667" lat="-11.9166666667"/>
+      <l c="urd" n="Urdu" lng="67.0" lat="25.0"/>
+      <l c="urk" n="Urubú-Kaapor" lng="-46.5" lat="-2.33333333333"/>
+      <l c="usa" n="Usan" lng="145.166666667" lat="-4.83333333333"/>
+      <l c="usr" n="Usarufa" lng="145.583333333" lat="-6.41666666667"/>
+      <l c="uyg" n="Uyghur" lng="80.0" lat="40.0"/>
+      <l c="uzb" n="Uzbek" lng="66.0" lat="39.0"/>
+      <l c="vai" n="Vai" lng="-11.25" lat="6.91666666667"/>
+      <l c="wag" n="Wagiman" lng="131.25" lat="-14.0"/>
+      <l c="wah" n="Wahgi" lng="144.716666667" lat="-5.83333333333"/>
+      <l c="wak" n="Wakhi" lng="72.0" lat="36.5"/>
+      <l c="wbn" n="Wambon" lng="140.416666667" lat="-5.5"/>
+      <l c="wme" n="Wambule" lng="85.9166666667" lat="29.25"/>
+      <l c="wna" n="Wan" lng="-5.86666666667" lat="7.83333333333"/>
+      <l c="wao" n="Waorani" lng="-76.5" lat="-1.0"/>
+      <l c="wap" n="Wappo" lng="-122.5" lat="38.5"/>
+      <l c="wlw" n="Warluwara" lng="138.5" lat="-22.0"/>
+      <l c="was" n="Washo" lng="-120.0" lat="39.25"/>
+      <l c="wsk" n="Waskia" lng="146.0" lat="-4.5"/>
+      <l c="way" n="Wayampi" lng="-52.0" lat="1.0"/>
+      <l c="wed" n="Wedau" lng="150.166666667" lat="-10.1666666667"/>
+      <l c="wmu" n="Wik Munkan" lng="141.75" lat="-13.9166666667"/>
+      <l c="wly" n="Wolaytta" lng="37.75" lat="6.83333333333"/>
+      <l c="wom" n="Womo" lng="141.833333333" lat="-2.91666666667"/>
+      <l c="xas" n="Xasonga" lng="-10.5" lat="14.25"/>
+      <l c="xer" n="Xerénte" lng="-48.1666666667" lat="-10.0"/>
+      <l c="ygr" n="Yagaria" lng="145.416666667" lat="-6.33333333333"/>
+      <l c="yah" n="Yahgan" lng="-68.0" lat="-55.0"/>
+      <l c="ykt" n="Yakut" lng="130.0" lat="62.0"/>
+      <l c="yal" n="Yale (Kosarek)" lng="139.5" lat="-4.08333333333"/>
+      <l c="yam" n="Yaminahua" lng="-73.0" lat="-8.0"/>
+      <l c="yqy" n="Yaqay" lng="139.25" lat="-6.58333333333"/>
+      <l c="yaq" n="Yaqui" lng="-110.25" lat="27.5"/>
+      <l c="yar" n="Yareba" lng="148.5" lat="-9.5"/>
+      <l c="yei" n="Yei" lng="140.916666667" lat="-7.91666666667"/>
+      <l c="ylm" n="Yelmek" lng="139.166666667" lat="-7.66666666667"/>
+      <l c="yel" n="Yelî Dnye" lng="154.166666667" lat="-11.3666666667"/>
+      <l c="yiw" n="Yi (Wuding-Luquan)" lng="102.5" lat="25.5"/>
+      <l c="yid" n="Yidiny" lng="145.75" lat="-17.0"/>
+      <l c="yuc" n="Yuchi" lng="-86.75" lat="35.75"/>
+      <l c="yko" n="Yukaghir (Kolyma)" lng="150.833333333" lat="65.75"/>
+      <l c="ytu" n="Yukaghir (Tundra)" lng="155.0" lat="69.0"/>
+      <l c="yuw" n="Yuwaalaraay" lng="148.0" lat="-29.5"/>
+      <l c="zay" n="Zayse" lng="37.3333333333" lat="5.91666666667"/>
+      <l c="zaz" n="Zazaki" lng="41.0" lat="39.0"/>
+      <l c="zim" n="Zimakani" lng="141.433333333" lat="-7.43333333333"/>
+      <l c="zun" n="Zuni" lng="-108.833333333" lat="35.0833333333"/>
+      <l c="rgc" n="rGyalrong (Caodeng)" lng="101.75" lat="31.6666666667"/>
+      <l c="eme" n="Émérillon" lng="-52.4166666667" lat="3.16666666667"/>
+  </v>
+    <v numeric="2" description="SVO" icon_id="cdd0000" icon_url="https://wals.info/clld-static/icons/cdd0000.png" zindex="0">
+      <l c="xoo" n="!Xóõ" lng="21.5" lat="-24.0"/>
+      <l c="xam" n="/Xam" lng="21.0" lat="-31.0"/>
+      <l c="huc" n="=|Hoan" lng="25.0" lat="-25.5"/>
+      <l c="abi" n="Abipón" lng="-61.0" lat="-29.0"/>
+      <l c="abu" n="Abun" lng="132.5" lat="-0.5"/>
+      <l c="acg" n="Achagua" lng="-72.25" lat="4.41666666667"/>
+      <l c="acl" n="Acholi" lng="32.6666666667" lat="3.0"/>
+      <l c="acm" n="Achumawi" lng="-121.0" lat="41.5"/>
+      <l c="adi" n="Adioukrou" lng="-4.58333333333" lat="5.41666666667"/>
+      <l c="adz" n="Adzera" lng="146.25" lat="-6.25"/>
+      <l c="agh" n="Aghem" lng="10.0" lat="6.66666666667"/>
+      <l c="aja" n="Aja" lng="25.6666666667" lat="7.33333333333"/>
+      <l c="akn" n="Akan" lng="-1.25" lat="6.5"/>
+      <l c="alb" n="Albanian" lng="20.0" lat="41.0"/>
+      <l c="aln" n="Alune" lng="128.333333333" lat="-3.0"/>
+      <l c="ama" n="Amara" lng="148.5" lat="-5.66666666667"/>
+      <l c="aml" n="Ambae (Lolovoli Northeast)" lng="167.883333333" lat="-15.4166666667"/>
+      <l c="amq" n="Ambai" lng="136.5" lat="-1.83333333333"/>
+      <l c="anc" n="Angas" lng="9.5" lat="9.5"/>
+      <l c="anu" n="Anufo" lng="0.25" lat="10.0833333333"/>
+      <l c="ayi" n="Anyi" lng="-3.5" lat="7.0"/>
+      <l c="ane" n="Anêm" lng="149.083333333" lat="-5.58333333333"/>
+      <l c="apu" n="Apurinã" lng="-67.0" lat="-9.0"/>
+      <l c="aeg" n="Arabic (Egyptian)" lng="31.0" lat="30.0"/>
+      <l c="arg" n="Arabic (Gulf)" lng="49.0" lat="26.0"/>
+      <l c="arq" n="Arabic (Iraqi)" lng="44.0" lat="33.0"/>
+      <l c="arj" n="Arabic (Kuwaiti)" lng="47.5" lat="29.5"/>
+      <l c="aab" n="Arapesh (Abu)" lng="142.95" lat="-3.45"/>
+      <l c="arp" n="Arapesh (Mountain)" lng="143.166666667" lat="-3.46666666667"/>
+      <l c="ara" n="Arawak" lng="-55.1666666667" lat="5.5"/>
+      <l c="ari" n="Aribwatsa" lng="147.0" lat="-6.71666666667"/>
+      <l c="alk" n="Arop-Lokep" lng="147.05" lat="-5.38333333333"/>
+      <l c="aro" n="Arosi" lng="161.333333333" lat="-10.25"/>
+      <l c="au" n="Au" lng="142.083333333" lat="-3.58333333333"/>
+      <l c="avk" n="Avikam" lng="-5.5" lat="5.16666666667"/>
+      <l c="ayw" n="Ayiwo" lng="166.25" lat="-10.3333333333"/>
+      <l c="ayr" n="Ayoreo" lng="-59.25" lat="-20.25"/>
+      <l c="bbl" n="Babole" lng="17.25" lat="1.08333333333"/>
+      <l c="bab" n="Babungo" lng="10.4166666667" lat="6.11666666667"/>
+      <l c="baf" n="Bafut" lng="9.91666666667" lat="6.25"/>
+      <l c="bgs" n="Baga Sitemu" lng="-14.5" lat="10.5"/>
+      <l c="bag" n="Bagirmi" lng="16.0" lat="11.6666666667"/>
+      <l c="bgr" n="Bagiro" lng="20.5833333333" lat="4.33333333333"/>
+      <l c="bai" n="Bai" lng="100.0" lat="26.0"/>
+      <l c="bak" n="Baka (in Cameroon)" lng="13.5833333333" lat="2.58333333333"/>
+      <l c="bka" n="Baka (in South Sudan)" lng="29.25" lat="4.83333333333"/>
+      <l c="bku" n="Bakueri" lng="9.25" lat="4.25"/>
+      <l c="blz" n="Balanta" lng="-15.3333333333" lat="12.25"/>
+      <l c="bvi" n="Bali-Vitu" lng="149.116666667" lat="-4.9"/>
+      <l c="bgz" n="Banggi" lng="117.166666667" lat="7.25"/>
+      <l c="bnk" n="Bankon" lng="9.58333333333" lat="4.41666666667"/>
+      <l c="bnn" n="Banoni" lng="155.25" lat="-6.41666666667"/>
+      <l c="bar" n="Bari" lng="31.6666666667" lat="5.0"/>
+      <l c="bae" n="Baré" lng="-67.0" lat="1.0"/>
+      <l c="bas" n="Basaá" lng="10.5" lat="3.91666666667"/>
+      <l c="ble" n="Baule" lng="-5.0" lat="7.0"/>
+      <l c="brq" n="Bera" lng="30.03" lat="1.5"/>
+      <l c="brf" n="Berber (Rif)" lng="-4.0" lat="34.5"/>
+      <l c="ber" n="Berta" lng="34.6666666667" lat="10.3333333333"/>
+      <l c="bik" n="Biak" lng="136.0" lat="-1.0"/>
+      <l c="bid" n="Bidiya" lng="18.75" lat="11.9166666667"/>
+      <l c="bmb" n="Bimoba" lng="0.0" lat="10.5"/>
+      <l c="bni" n="Bini" lng="5.83333333333" lat="6.41666666667"/>
+      <l c="bii" n="Biri" lng="146.5" lat="-20.5"/>
+      <l c="bir" n="Birom" lng="8.83333333333" lat="9.66666666667"/>
+      <l c="bob" n="Bobangi" lng="17.3333333333" lat="-1.33333333333"/>
+      <l c="bol" n="Bolia" lng="18.3333333333" lat="-1.25"/>
+      <l c="bgo" n="Bongo" lng="28.5" lat="7.5"/>
+      <l c="bra" n="Brao" lng="107.5" lat="14.1666666667"/>
+      <l c="bre" n="Breton" lng="-3.0" lat="48.0"/>
+      <l c="bub" n="Bubi" lng="8.66666666667" lat="3.5"/>
+      <l c="bdu" n="Budu" lng="28.0" lat="2.0"/>
+      <l c="bud" n="Buduma" lng="14.5" lat="13.5"/>
+      <l c="bug" n="Bugis" lng="120.0" lat="-4.0"/>
+      <l c="bul" n="Bulgarian" lng="25.0" lat="42.5"/>
+      <l c="buy" n="Buli (in Ghana)" lng="-1.25" lat="10.5"/>
+      <l c="bum" n="Buma" lng="166.833333333" lat="-11.6333333333"/>
+      <l c="pnu" n="Bunu (Younuo)" lng="107.0" lat="24.0"/>
+      <l c="buu" n="Buru" lng="126.5" lat="-3.5"/>
+      <l c="brn" n="Burunge" lng="36.0" lat="-5.33333333333"/>
+      <l c="bsh" n="Bushoong" lng="21.5" lat="-4.5"/>
+      <l c="cnt" n="Cantonese" lng="113.0" lat="23.0"/>
+      <l c="ctl" n="Catalan" lng="2.0" lat="41.75"/>
+      <l c="cga" n="Chaga" lng="37.0" lat="-3.0"/>
+      <l c="cme" n="Cham (Eastern)" lng="108.5" lat="11.3333333333"/>
+      <l c="chw" n="Cham (Western)" lng="105.5" lat="12.0"/>
+      <l c="cic" n="Chichewa" lng="34.0" lat="-14.0"/>
+      <l c="cmy" n="Chontal Maya" lng="-92.5833333333" lat="18.1666666667"/>
+      <l c="chr" n="Chrau" lng="107.5" lat="10.75"/>
+      <l c="coc" n="Cocama" lng="-74.5" lat="-5.0"/>
+      <l c="cop" n="Coptic" lng="32.0" lat="26.0"/>
+      <l c="crn" n="Cornish" lng="-5.0" lat="50.3333333333"/>
+      <l c="cua" n="Cua" lng="108.5" lat="15.25"/>
+      <l c="cuc" n="Cuica" lng="-70.5" lat="9.0"/>
+      <l c="cze" n="Czech" lng="15.0" lat="50.0"/>
+      <l c="dga" n="Dagaare" lng="-2.66666666667" lat="10.5"/>
+      <l c="dgb" n="Dagbani" lng="-0.5" lat="9.58333333333"/>
+      <l c="dsh" n="Danish" lng="10.0" lat="56.0"/>
+      <l c="day" n="Day" lng="17.8333333333" lat="8.75"/>
+      <l c="deg" n="Degema" lng="6.75" lat="4.75"/>
+      <l c="dio" n="Diola-Fogny" lng="-16.25" lat="13.0"/>
+      <l c="dok" n="Doko" lng="23.0833333333" lat="3.0"/>
+      <l c="don" n="Dong (Southern)" lng="109.0" lat="27.0"/>
+      <l c="doy" n="Doyayo" lng="13.0833333333" lat="8.66666666667"/>
+      <l c="dua" n="Duala" lng="9.41666666667" lat="4.0"/>
+      <l c="duk" n="Duka" lng="5.08333333333" lat="11.1666666667"/>
+      <l c="dma" n="Duma" lng="13.0" lat="-0.95"/>
+      <l c="ebi" n="Ebira" lng="7.0" lat="8.16666666667"/>
+      <l c="erk" n="Efate (South)" lng="168.416666667" lat="-17.75"/>
+      <l c="ega" n="Ega" lng="-5.5" lat="5.5"/>
+      <l c="eko" n="Ekoti" lng="39.5" lat="-16.5"/>
+      <l c="ora" n="Emai" lng="5.91666666667" lat="7.08333333333"/>
+      <l c="egn" n="Engenni" lng="6.38333333333" lat="5.16666666667"/>
+      <l c="eno" n="Enggano" lng="102.25" lat="-5.41666666667"/>
+      <l c="eng" n="English" lng="0.0" lat="52.0"/>
+      <l c="err" n="Erromangan" lng="169.166666667" lat="-18.8333333333"/>
+      <l c="est" n="Estonian" lng="26.0" lat="59.0"/>
+      <l c="ewe" n="Ewe" lng="0.416666666667" lat="6.33333333333"/>
+      <l c="ewo" n="Ewondo" lng="12.0" lat="4.0"/>
+      <l c="fin" n="Finnish" lng="25.0" lat="62.0"/>
+      <l c="fon" n="Fongbe" lng="2.16666666667" lat="6.41666666667"/>
+      <l c="fre" n="French" lng="2.0" lat="48.0"/>
+      <l c="fua" n="Fulfulde (Adamawa)" lng="13.5" lat="9.16666666667"/>
+      <l c="fut" n="Futuna-Aniwa" lng="170.216666667" lat="-19.5333333333"/>
+      <l c="fye" n="Fyem" lng="9.33333333333" lat="9.58333333333"/>
+      <l c="gbs" n="Gbaya (Southwest)" lng="14.96" lat="4.7"/>
+      <l c="gbb" n="Gbeya Bossangoa" lng="17.5" lat="6.66666666667"/>
+      <l c="gla" n="Gelao" lng="105.5" lat="22.9166666667"/>
+      <l c="goe" n="Goemai" lng="9.75" lat="8.66666666667"/>
+      <l c="gok" n="Gokana" lng="7.33333333333" lat="4.58333333333"/>
+      <l c="grb" n="Grebo" lng="-8.0" lat="5.0"/>
+      <l c="gua" n="Guaraní" lng="-56.0" lat="-26.0"/>
+      <l c="gul" n="Gula (in Central African Republic)" lng="22.5" lat="9.5"/>
+      <l c="gmz" n="Gumuz" lng="35.8333333333" lat="12.5"/>
+      <l c="gnb" n="Gunbalang" lng="134.0" lat="-12.0"/>
+      <l c="guw" n="Gungbe" lng="2.5" lat="6.5"/>
+      <l c="gwo" n="Gworok" lng="8.16666666667" lat="9.91666666667"/>
+      <l c="ga" n="Gã" lng="-0.166666666667" lat="5.66666666667"/>
+      <l c="hak" n="Hakka" lng="116.0" lat="25.0"/>
+      <l c="hal" n="Halia" lng="154.666666667" lat="-5.25"/>
+      <l c="hat" n="Hatam" lng="134.0" lat="-1.0"/>
+      <l c="hau" n="Hausa" lng="7.0" lat="12.0"/>
+      <l c="hya" n="Haya" lng="31.5" lat="-2.0"/>
+      <l c="heb" n="Hebrew (Modern)" lng="34.8333333333" lat="31.5"/>
+      <l c="heh" n="Hehe" lng="36.0" lat="-8.0"/>
+      <l c="hem" n="Hemba" lng="27.1666666667" lat="-6.25"/>
+      <l c="lic" n="Hlai (Baoding)" lng="109.5" lat="19.0"/>
+      <l c="hmo" n="Hmong Njua" lng="105.0" lat="28.0"/>
+      <l c="hol" n="Holoholo" lng="29.9166666667" lat="-5.16666666667"/>
+      <l c="htc" n="Huastec" lng="-99.3333333333" lat="22.0833333333"/>
+      <l c="hve" n="Huave (San Mateo del Mar)" lng="-95.0" lat="16.2166666667"/>
+      <l c="hnd" n="Hunde" lng="28.8333333333" lat="-1.16666666667"/>
+      <l c="iaa" n="Iaai" lng="166.583333333" lat="-20.4166666667"/>
+      <l c="iba" n="Iban" lng="112.0" lat="2.0"/>
+      <l c="ice" n="Icelandic" lng="-17.0" lat="65.0"/>
+      <l c="mxe" n="Ifira-Mele" lng="168.25" lat="-17.75"/>
+      <l c="ifm" n="Ifumu" lng="15.3333333333" lat="-3.66666666667"/>
+      <l c="igb" n="Igbo" lng="7.33333333333" lat="6.0"/>
+      <l c="ige" n="Igede" lng="8.16666666667" lat="7.0"/>
+      <l c="ila" n="Ila" lng="26.5" lat="-15.5833333333"/>
+      <l c="ind" n="Indonesian" lng="106.0" lat="0.0"/>
+      <l c="igs" n="Ingessana" lng="34.0" lat="11.5"/>
+      <l c="iqu" n="Iquito" lng="-74.0" lat="-3.25"/>
+      <l c="irr" n="Irarutu" lng="133.5" lat="-3.0"/>
+      <l c="ita" n="Italian" lng="12.0" lat="43.0"/>
+      <l c="ito" n="Itonama" lng="-64.3333333333" lat="-12.8333333333"/>
+      <l c="iwa" n="Iwaidja" lng="132.666666667" lat="-11.5"/>
+      <l c="kwy" n="Iwoyo" lng="12.25" lat="-5.5"/>
+      <l c="izi" n="Izi" lng="8.0" lat="6.33333333333"/>
+      <l c="jab" n="Jabêm" lng="147.783333333" lat="-6.58333333333"/>
+      <l c="jar" n="Jarawa (in Nigeria)" lng="10.5" lat="9.5"/>
+      <l c="juk" n="Jukun" lng="10.4166666667" lat="6.91666666667"/>
+      <l c="jmo" n="Jur Mödö" lng="30.0" lat="6.0"/>
+      <l c="juh" n="Ju|&amp;#39;hoan" lng="21.0" lat="-19.0"/>
+      <l c="kby" n="Kabiyé" lng="1.16666666667" lat="9.66666666667"/>
+      <l c="kdw" n="Kadiwéu" lng="-57.0" lat="-20.0"/>
+      <l c="kad" n="Kadugli" lng="29.6666666667" lat="11.0"/>
+      <l c="kba" n="Kamba" lng="38.0" lat="-1.5"/>
+      <l c="kan" n="Kana" lng="7.41666666667" lat="4.75"/>
+      <l c="knk" n="Kanakuru" lng="12.0" lat="10.0"/>
+      <l c="kar" n="Kara (in Central African Republic)" lng="23.0" lat="10.0"/>
+      <l c="kbw" n="Karen (Bwe)" lng="97.0" lat="19.5"/>
+      <l c="kpw" n="Karen (Pwo)" lng="99.1666666667" lat="13.0"/>
+      <l c="ksg" n="Karen (Sgaw)" lng="97.0" lat="18.0"/>
+      <l c="ksm" n="Kasem" lng="-1.25" lat="11.25"/>
+      <l c="kas" n="Kashmiri" lng="76.0" lat="34.0"/>
+      <l c="ksn" n="Kasong" lng="102.116666667" lat="12.75"/>
+      <l c="ktc" n="Katcha" lng="29.6666666667" lat="10.8333333333"/>
+      <l c="ktl" n="Katla" lng="29.3333333333" lat="11.8333333333"/>
+      <l c="kau" n="Kaulong" lng="149.666666667" lat="-6.16666666667"/>
+      <l c="kyl" n="Kayah Li (Eastern)" lng="97.5" lat="19.0"/>
+      <l c="kel" n="Kele" lng="147.083333333" lat="-2.08333333333"/>
+      <l c="ken" n="Kenga" lng="18.0" lat="12.0"/>
+      <l c="ker" n="Kera" lng="15.0833333333" lat="9.83333333333"/>
+      <l c="kte" n="Kete" lng="22.8333333333" lat="-7.0"/>
+      <l c="khs" n="Khasi" lng="92.0" lat="25.5"/>
+      <l c="khm" n="Khmer" lng="105.0" lat="12.5"/>
+      <l c="kmu" n="Khmu&amp;#39;" lng="102.0" lat="21.0"/>
+      <l c="khn" n="Khün" lng="100.0" lat="21.0"/>
+      <l c="kik" n="Kikuyu" lng="36.75" lat="-0.75"/>
+      <l c="kil" n="Kiluba" lng="26.0" lat="-8.0"/>
+      <l c="kga" n="Kinga" lng="34.0" lat="-9.0"/>
+      <l c="kin" n="Kinyarwanda" lng="30.0" lat="-2.0"/>
+      <l c="kir" n="Kirma" lng="-4.83333333333" lat="10.25"/>
+      <l c="kla" n="Klao" lng="-8.75" lat="4.75"/>
+      <l c="koe" n="Koegu" lng="36.0833333333" lat="7.0"/>
+      <l c="xbi" n="Kombio" lng="142.75" lat="-3.5"/>
+      <l c="kzy" n="Komi-Zyrian" lng="55.0" lat="65.0"/>
+      <l c="kom" n="Komo" lng="33.75" lat="8.75"/>
+      <l c="kon" n="Kongo" lng="15.0" lat="-5.0"/>
+      <l c="kni" n="Konni" lng="-1.58333333333" lat="10.25"/>
+      <l c="kfe" n="Koromfe" lng="-0.916666666667" lat="14.25"/>
+      <l c="kos" n="Kosraean" lng="163.0" lat="5.3"/>
+      <l c="kch" n="Koyra Chiini" lng="-3.0" lat="17.0"/>
+      <l c="kre" n="Kresh" lng="24.5" lat="8.5"/>
+      <l c="kwa" n="Kwaio" lng="161.0" lat="-8.95"/>
+      <l c="kwn" n="Kwangali" lng="19.5" lat="-18.0"/>
+      <l c="laa" n="Laal" lng="17.6666666667" lat="10.0"/>
+      <l c="lab" n="Labu" lng="146.916666667" lat="-6.75"/>
+      <l c="lag" n="Lagwan" lng="14.8333333333" lat="11.5"/>
+      <l c="lmh" n="Lamaholot" lng="122.916666667" lat="-8.25"/>
+      <l c="lmu" n="Lamen" lng="168.166666667" lat="-16.5833333333"/>
+      <l c="lmp" n="Lampung" lng="105.0" lat="-5.0"/>
+      <l c="lgi" n="Langi" lng="36.0" lat="-4.5"/>
+      <l c="lan" n="Lango" lng="33.0" lat="2.16666666667"/>
+      <l c="lao" n="Lao" lng="103.0" lat="18.0"/>
+      <l c="lat" n="Latvian" lng="24.0" lat="57.0"/>
+      <l c="leb" n="Lebeo" lng="25.0" lat="1.75"/>
+      <l c="leg" n="Lega" lng="27.1666666667" lat="-2.83333333333"/>
+      <l c="agb" n="Leggbó" lng="8.0" lat="6.0"/>
+      <l c="lel" n="Lele" lng="15.5833333333" lat="9.08333333333"/>
+      <l c="llm" n="Lelemi" lng="0.5" lat="7.33333333333"/>
+      <l c="len" n="Lenakel" lng="169.25" lat="-19.45"/>
+      <l c="let" n="Leti" lng="127.666666667" lat="-8.2"/>
+      <l c="lew" n="Lewo" lng="168.333333333" lat="-16.75"/>
+      <l c="lnd" n="Linda" lng="20.75" lat="6.5"/>
+      <l c="lin" n="Lingala" lng="18.5" lat="2.0"/>
+      <l c="lit" n="Lithuanian" lng="24.0" lat="55.0"/>
+      <l c="ldo" n="Londo" lng="9.16666666667" lat="5.0"/>
+      <l c="lon" n="Loniu" lng="147.333333333" lat="-2.06666666667"/>
+      <l c="lou" n="Lou" lng="147.316666667" lat="-2.38333333333"/>
+      <l c="luc" n="Lucazi" lng="20.0" lat="-14.0"/>
+      <l c="lbu" n="Lunda" lng="24.0" lat="-10.6666666667"/>
+      <l c="luo" n="Luo" lng="34.75" lat="-0.5"/>
+      <l c="kkv" n="Lusi" lng="149.666666667" lat="-5.58333333333"/>
+      <l c="luv" n="Luvale" lng="22.0" lat="-12.0"/>
+      <l c="ma" n="Ma" lng="28.0" lat="3.5"/>
+      <l c="myn" n="Ma&amp;#39;anyan" lng="115.0" lat="-2.0"/>
+      <l c="mcd" n="Macedonian" lng="21.75" lat="41.6666666667"/>
+      <l c="mda" n="Mada (in Cameroon)" lng="14.1666666667" lat="10.8333333333"/>
+      <l c="mae" n="Mae" lng="167.25" lat="-16.0"/>
+      <l c="mpr" n="Maipure" lng="-67.5" lat="5.5"/>
+      <l c="mkz" n="Makaa" lng="12.25" lat="3.41666666667"/>
+      <l c="mkd" n="Makonde" lng="40.0" lat="-11.0"/>
+      <l c="mua" n="Makua" lng="38.6666666667" lat="-15.0"/>
+      <l c="mlu" n="Maleu" lng="148.416666667" lat="-5.71666666667"/>
+      <l c="mlg" n="Malgwa" lng="13.75" lat="11.5"/>
+      <l c="mla" n="Mambila" lng="11.5" lat="6.75"/>
+      <l c="mmv" n="Mamvu" lng="29.0" lat="3.25"/>
+      <l c="mds" n="Manadonese" lng="124.833333333" lat="1.5"/>
+      <l c="mnd" n="Mandarin" lng="110.0" lat="34.0"/>
+      <l c="mmb" n="Mangap-Mbula" lng="148.083333333" lat="-5.66666666667"/>
+      <l c="mbt" n="Mangbetu" lng="26.5" lat="2.5"/>
+      <l c="mng" n="Manggarai" lng="120.333333333" lat="-8.5"/>
+      <l c="mkq" n="Mankon" lng="10.1666666667" lat="6.0"/>
+      <l c="map" n="Mapudungun" lng="-72.0" lat="-38.0"/>
+      <l c="mrg" n="Margi" lng="13.0" lat="11.0"/>
+      <l c="mrt" n="Martuthunira" lng="116.5" lat="-20.8333333333"/>
+      <l c="mas" n="Masa" lng="15.5" lat="10.5"/>
+      <l c="mtb" n="Matuumbi" lng="39.0" lat="-8.5"/>
+      <l c="mau" n="Maung" lng="133.5" lat="-11.9166666667"/>
+      <l c="may" n="Maybrat" lng="132.5" lat="-1.33333333333"/>
+      <l c="myg" n="Mayogo" lng="29.0" lat="3.0"/>
+      <l c="mba" n="Mba" lng="25.0" lat="1.0"/>
+      <l c="mhu" n="Mbalanhu" lng="15.0" lat="-17.5"/>
+      <l c="mbr" n="Mbara" lng="15.4166666667" lat="11.0"/>
+      <l c="mby" n="Mbay" lng="17.5" lat="8.25"/>
+      <l c="mbe" n="Mbere" lng="14.0" lat="-0.5"/>
+      <l c="mbi" n="Mbili" lng="10.2" lat="6.11666666667"/>
+      <l c="mdo" n="Mbodomo" lng="15.5" lat="4.5"/>
+      <l c="mdw" n="Mbosi" lng="15.5" lat="-1.25"/>
+      <l c="mbm" n="Mbum" lng="13.1666666667" lat="7.75"/>
+      <l c="mee" n="Me&amp;#39;en" lng="37.0" lat="5.0"/>
+      <l c="mea" n="Meyah" lng="133.5" lat="-1.16666666667"/>
+      <l c="mie" n="Mien" lng="111.0" lat="25.0"/>
+      <l c="hna" n="Mina" lng="13.8333333333" lat="10.3333333333"/>
+      <l c="mlm" n="Mlabri (Minor)" lng="101.0" lat="18.5"/>
+      <l c="mcv" n="Mocoví" lng="-60.5" lat="-28.0"/>
+      <l c="mof" n="Mofu-Gudur" lng="14.0" lat="10.5"/>
+      <l c="mok" n="Mokilese" lng="159.75" lat="6.66666666667"/>
+      <l c="mon" n="Mon" lng="100.5" lat="14.8333333333"/>
+      <l c="mga" n="Mondunga" lng="21.5" lat="2.25"/>
+      <l c="mgo" n="Mongo" lng="21.0" lat="0.0"/>
+      <l c="moo" n="Mooré" lng="-1.25" lat="12.8333333333"/>
+      <l c="mor" n="Mor" lng="135.75" lat="-2.95"/>
+      <l c="moe" n="Mordvin (Erzya)" lng="45.5" lat="53.0"/>
+      <l c="mro" n="Moro" lng="30.1666666667" lat="11.0"/>
+      <l c="mos" n="Mosetén" lng="-67.8333333333" lat="-14.75"/>
+      <l c="mpu" n="Mpur" lng="133.25" lat="-0.75"/>
+      <l c="aoj" n="Mufian" lng="143.0" lat="-3.5"/>
+      <l c="mum" n="Mumuye" lng="11.6666666667" lat="9.0"/>
+      <l c="mna" n="Muna" lng="122.5" lat="-5.0"/>
+      <l c="mdg" n="Mundang" lng="14.5" lat="9.66666666667"/>
+      <l c="mgk" n="Mungaka" lng="10.0" lat="5.91666666667"/>
+      <l c="mup" n="Mupun" lng="8.83333333333" lat="9.5"/>
+      <l c="mur" n="Mursi" lng="36.0833333333" lat="5.58333333333"/>
+      <l c="mgu" n="Musgu" lng="14.9166666667" lat="10.8333333333"/>
+      <l c="msm" n="Musom" lng="147.0" lat="-6.58333333333"/>
+      <l c="mus" n="Mussau" lng="149.616666667" lat="-1.45"/>
+      <l c="mut" n="Mutsun" lng="-121.5" lat="36.8333333333"/>
+      <l c="mwe" n="Mwera" lng="39.0" lat="-9.0"/>
+      <l c="mwo" n="Mwotlap" lng="167.583333333" lat="-13.5833333333"/>
+      <l c="nhm" n="Nahuatl (Michoacán)" lng="-103.0" lat="18.5"/>
+      <l c="nhn" n="Nahuatl (North Puebla)" lng="-98.25" lat="20.0"/>
+      <l c="nht" n="Nahuatl (Tetelcingo)" lng="-99.0" lat="19.6666666667"/>
+      <l c="nak" n="Nakanai" lng="150.583333333" lat="-5.58333333333"/>
+      <l c="nal" n="Nalik" lng="151.333333333" lat="-2.95"/>
+      <l c="ncm" n="Ncàm" lng="0.666666666667" lat="9.33333333333"/>
+      <l c="ndb" n="Ndebele (in South Africa)" lng="29.0" lat="-25.3333333333"/>
+      <l c="ndo" n="Ndonga" lng="17.0" lat="-18.0"/>
+      <l c="ndu" n="Ndumu" lng="13.5833333333" lat="-1.66666666667"/>
+      <l c="ndt" n="Ndut" lng="-16.9166666667" lat="14.9166666667"/>
+      <l c="ndy" n="Ndyuka" lng="-54.5" lat="4.5"/>
+      <l c="neh" n="Nehan" lng="154.2" lat="-4.5"/>
+      <l c="nne" n="Nengone" lng="168.0" lat="-21.5"/>
+      <l c="ngd" n="Ngad&amp;#39;a" lng="121.0" lat="-8.83333333333"/>
+      <l c="ngm" n="Ngambay" lng="16.0" lat="8.66666666667"/>
+      <l c="ngw" n="Ngawun" lng="141.5" lat="-19.0"/>
+      <l c="nbm" n="Ngbaka (Ma&amp;#39;bo)" lng="18.36" lat="3.56"/>
+      <l c="ngb" n="Ngbaka (Minagende)" lng="20.0" lat="3.5"/>
+      <l c="ndi" n="Ngbandi" lng="22.0" lat="3.75"/>
+      <l c="ngz" n="Ngizim" lng="10.9166666667" lat="12.0833333333"/>
+      <l c="nbe" n="Ngombe" lng="23.0" lat="3.0"/>
+      <l c="ngo" n="Ngoni" lng="36.0" lat="-11.0"/>
+      <l c="ngu" n="Nguna" lng="168.5" lat="-16.9166666667"/>
+      <l c="nke" n="Nkem" lng="8.58333333333" lat="6.58333333333"/>
+      <l c="nkn" n="Nkonya" lng="0.25" lat="7.16666666667"/>
+      <l c="nko" n="Nkore-Kiga" lng="29.8333333333" lat="-0.916666666667"/>
+      <l c="non" n="Noni" lng="10.5833333333" lat="6.41666666667"/>
+      <l c="noo" n="Noon" lng="-16.8333333333" lat="14.8333333333"/>
+      <l c="nor" n="Norwegian" lng="8.0" lat="61.0"/>
+      <l c="nse" n="Nsenga" lng="30.8333333333" lat="-14.5"/>
+      <l c="nto" n="Ntomba" lng="18.3333333333" lat="-2.0"/>
+      <l c="nua" n="Nuaulu" lng="129.166666667" lat="-3.25"/>
+      <l c="nun" n="Nung (in Vietnam)" lng="106.416666667" lat="21.9166666667"/>
+      <l c="nup" n="Nupe" lng="5.41666666667" lat="9.16666666667"/>
+      <l c="nng" n="Nyanga" lng="28.1666666667" lat="-1.25"/>
+      <l c="nza" n="Nzakara" lng="23.0" lat="5.0"/>
+      <l c="obo" n="Obolo" lng="7.83333333333" lat="4.58333333333"/>
+      <l c="ocu" n="Ocuilteco" lng="-99.6666666667" lat="18.9166666667"/>
+      <l c="obg" n="Ogbronuagum" lng="6.86666666667" lat="4.75"/>
+      <l c="olo" n="Olo" lng="142.0" lat="-3.41666666667"/>
+      <l c="one" n="One" lng="141.916666667" lat="-3.25"/>
+      <l c="otr" n="Otoro" lng="30.5" lat="11.1666666667"/>
+      <l c="paa" n="Pa&amp;#39;a" lng="9.25" lat="11.0"/>
+      <l c="pkn" n="Paakantyi" lng="142.5" lat="-32.5"/>
+      <l c="pms" n="Paamese" lng="168.25" lat="-16.5"/>
+      <l c="pal" n="Palauan" lng="134.583333333" lat="7.5"/>
+      <l c="plg" n="Palaung" lng="96.6666666667" lat="22.6666666667"/>
+      <l c="plk" n="Palikur" lng="-51.0" lat="3.0"/>
+      <l c="pam" n="Pame" lng="-99.5" lat="22.0"/>
+      <l c="png" n="Pangwa" lng="34.75" lat="-10.0"/>
+      <l c="pre" n="Pare" lng="36.5" lat="-4.0"/>
+      <l c="pat" n="Patep" lng="146.583333333" lat="-6.91666666667"/>
+      <l c="plh" n="Paulohi" lng="128.75" lat="-3.25"/>
+      <l c="pau" n="Paumarí" lng="-64.0" lat="-6.0"/>
+      <l c="per" n="Pero" lng="11.0" lat="9.58333333333"/>
+      <l c="pga" n="Pilagá" lng="-60.0" lat="-25.0"/>
+      <l c="pog" n="Pogoro" lng="36.5" lat="-8.75"/>
+      <l c="poh" n="Pohnpeian" lng="158.25" lat="6.88333333333"/>
+      <l c="pol" n="Polish" lng="20.0" lat="52.0"/>
+      <l c="zqs" n="Popoluca (Sierra)" lng="-95.1666666667" lat="18.3333333333"/>
+      <l c="psw" n="Port Sandwich" lng="167.75" lat="-16.5"/>
+      <l c="por" n="Portuguese" lng="-8.0" lat="39.0"/>
+      <l c="pul" n="Puluwat" lng="149.333333333" lat="7.33333333333"/>
+      <l c="pur" n="Purépecha" lng="-101.666666667" lat="19.5"/>
+      <l c="rag" n="Raga" lng="168.166666667" lat="-15.5"/>
+      <l c="rim" n="Rimi" lng="34.6666666667" lat="-5.0"/>
+      <l c="rom" n="Romanian" lng="25.0" lat="46.0"/>
+      <l c="rsu" n="Romansch (Sursilvan)" lng="8.83333333333" lat="46.6666666667"/>
+      <l c="ron" n="Ron" lng="8.75" lat="9.0"/>
+      <l c="rga" n="Ronga" lng="32.5" lat="-26.0"/>
+      <l c="rot" n="Rotuman" lng="177.066666667" lat="-12.5"/>
+      <l c="rny" n="Runyankore" lng="30.5" lat="-0.5"/>
+      <l c="rru" n="Runyoro-Rutooro" lng="31.3333333333" lat="1.5"/>
+      <l c="rus" n="Russian" lng="38.0" lat="56.0"/>
+      <l c="sno" n="Saami (Northern)" lng="24.0" lat="69.0"/>
+      <l c="sah" n="Sahu" lng="127.5" lat="1.16666666667"/>
+      <l c="sak" n="Sakao" lng="167.083333333" lat="-15.1666666667"/>
+      <l c="sal" n="Salinan" lng="-121.0" lat="36.0"/>
+      <l c="sle" n="Samba Leko" lng="12.5" lat="8.5"/>
+      <l c="san" n="Sango" lng="18.0" lat="5.0"/>
+      <l c="sgu" n="Sangu" lng="11.8333333333" lat="-1.5"/>
+      <l c="sap" n="Sapuan" lng="106.833333333" lat="15.1666666667"/>
+      <l c="srd" n="Sardinian" lng="9.0" lat="40.0"/>
+      <l c="sed" n="Sedang" lng="108.0" lat="14.8333333333"/>
+      <l c="sgl" n="Sengele" lng="17.3333333333" lat="-1.83333333333"/>
+      <l c="scr" n="Serbian-Croatian" lng="19.0" lat="44.0"/>
+      <l c="ses" n="Sesotho" lng="27.0" lat="-28.0"/>
+      <l c="shm" n="Shambala" lng="38.25" lat="-4.25"/>
+      <l c="sha" n="Shan" lng="98.0" lat="22.0"/>
+      <l c="sht" n="Shatt" lng="30.0" lat="10.8333333333"/>
+      <l c="shl" n="Shilluk" lng="31.75" lat="9.66666666667"/>
+      <l c="shn" n="Shona" lng="31.0" lat="-18.0"/>
+      <l c="sir" n="Siar" lng="152.916666667" lat="-4.66666666667"/>
+      <l c="sio" n="Sio" lng="147.333333333" lat="-5.95"/>
+      <l c="ssa" n="Sisaala" lng="-2.66666666667" lat="10.8333333333"/>
+      <l c="sis" n="Sisiqa" lng="156.833333333" lat="-7.0"/>
+      <l c="slo" n="Slovene" lng="15.0" lat="46.0"/>
+      <l c="sob" n="Sobei" lng="138.75" lat="-1.91666666667"/>
+      <l c="son" n="Sonsorol-Tobi" lng="132.25" lat="5.33333333333"/>
+      <l c="stn" n="Sotho (Northern)" lng="29.0" lat="-24.0"/>
+      <l c="sgb" n="Sougb" lng="134.0" lat="-1.5"/>
+      <l c="sea" n="Southeast Ambrym" lng="168.216666667" lat="-16.3"/>
+      <l c="spa" n="Spanish" lng="-4.0" lat="40.0"/>
+      <l c="sre" n="Sre" lng="108.0" lat="11.5"/>
+      <l c="sti" n="Stieng" lng="106.75" lat="11.8333333333"/>
+      <l c="sud" n="Sudest" lng="153.45" lat="-11.5"/>
+      <l c="sku" n="Suku" lng="17.6666666667" lat="-6.0"/>
+      <l c="skm" n="Sukuma" lng="32.0" lat="-2.83333333333"/>
+      <l c="sul" n="Sulka" lng="151.916666667" lat="-5.08333333333"/>
+      <l c="sun" n="Sundanese" lng="107.0" lat="-7.0"/>
+      <l c="swa" n="Swahili" lng="39.0" lat="-6.5"/>
+      <l c="swe" n="Swedish" lng="15.0" lat="60.0"/>
+      <l c="tab" n="Taba" lng="127.5" lat="0.0"/>
+      <l c="tbw" n="Tabwa" lng="29.5" lat="-8.0"/>
+      <l c="taf" n="Taiof" lng="154.633333333" lat="-5.53333333333"/>
+      <l c="tal" n="Talinga" lng="29.6666666667" lat="0.416666666667"/>
+      <l c="tmm" n="Tamabo" lng="167.166666667" lat="-15.6666666667"/>
+      <l c="tan" n="Tangale" lng="11.3333333333" lat="9.75"/>
+      <l c="tmn" n="Temein" lng="29.4166666667" lat="11.9166666667"/>
+      <l c="tmr" n="Temiar" lng="101.5" lat="5.0"/>
+      <l c="tne" n="Temne" lng="-13.0833333333" lat="8.66666666667"/>
+      <l c="teo" n="Teop" lng="155.0" lat="-5.66666666667"/>
+      <l c="tep" n="Tepehua (Tlachichilco)" lng="-98.25" lat="20.5833333333"/>
+      <l c="ter" n="Tera" lng="11.8333333333" lat="11.0"/>
+      <l c="tet" n="Tetela" lng="24.0" lat="-4.0"/>
+      <l c="ttn" n="Tetun" lng="126.0" lat="-9.0"/>
+      <l c="ttd" n="Tetun Dili" lng="125.583333333" lat="-8.58333333333"/>
+      <l c="tha" n="Thai" lng="101.0" lat="16.0"/>
+      <l c="tid" n="Tidore" lng="127.5" lat="0.75"/>
+      <l c="tgk" n="Tigak" lng="150.8" lat="-2.71666666667"/>
+      <l c="tia" n="Tima" lng="29.25" lat="11.6666666667"/>
+      <l c="trm" n="Tirmaga" lng="35.25" lat="5.75"/>
+      <l c="tiv" n="Tiv" lng="9.0" lat="7.5"/>
+      <l c="tiw" n="Tiwi" lng="131.0" lat="-11.5"/>
+      <l c="tla" n="Tolai" lng="152.083333333" lat="-4.25"/>
+      <l c="toz" n="Tonga (in Zambia)" lng="27.0" lat="-17.0"/>
+      <l c="txj" n="Totonac (Xicotepec de Juárez)" lng="-97.8333333333" lat="20.4166666667"/>
+      <l c="tgn" n="Tugun" lng="126.75" lat="-7.71666666667"/>
+      <l c="tki" n="Tuki" lng="11.5" lat="4.58333333333"/>
+      <l c="tum" n="Tumleo" lng="142.416666667" lat="-3.08333333333"/>
+      <l c="tnk" n="Tungak" lng="150.25" lat="-2.55"/>
+      <l c="tpr" n="Tupuri" lng="14.75" lat="10.1666666667"/>
+      <l c="ukr" n="Ukrainian" lng="33.0" lat="49.0"/>
+      <l c="uld" n="Uldeme" lng="14.1166666667" lat="10.95"/>
+      <l c="uli" n="Ulithian" lng="139.583333333" lat="9.91666666667"/>
+      <l c="ura" n="Ura" lng="169.083333333" lat="-18.6666666667"/>
+      <l c="url" n="Urak Lawoi&amp;#39;" lng="98.3333333333" lat="8.0"/>
+      <l c="urt" n="Urat" lng="142.833333333" lat="-3.66666666667"/>
+      <l c="ven" n="Venda" lng="30.0" lat="-22.0"/>
+      <l c="vie" n="Vietnamese" lng="106.5" lat="10.5"/>
+      <l c="vnm" n="Vinmavis" lng="167.416666667" lat="-16.1666666667"/>
+      <l c="wwa" n="Waama" lng="1.66666666667" lat="10.5833333333"/>
+      <l c="wal" n="Walman" lng="142.5" lat="-3.21666666667"/>
+      <l c="wry" n="Waray (in Australia)" lng="131.25" lat="-13.1666666667"/>
+      <l c="wrk" n="Warekena" lng="-67.5" lat="1.5"/>
+      <l c="wrm" n="Warembori" lng="137.583333333" lat="-1.66666666667"/>
+      <l c="wrn" n="Warndarang" lng="135.583333333" lat="-14.4166666667"/>
+      <l c="wma" n="West Makian" lng="127.583333333" lat="0.5"/>
+      <l c="wch" n="Wichí" lng="-62.5833333333" lat="-22.5"/>
+      <l c="wol" n="Woleaian" lng="143.833333333" lat="7.33333333333"/>
+      <l c="wlf" n="Wolof" lng="-16.0" lat="15.25"/>
+      <l c="xho" n="Xhosa" lng="27.0" lat="-32.0"/>
+      <l c="xar" n="Xârâcùù" lng="166.0" lat="-21.6666666667"/>
+      <l c="yao" n="Yao (in Malawi)" lng="35.5" lat="-14.5"/>
+      <l c="yay" n="Yay" lng="104.75" lat="22.4166666667"/>
+      <l c="yin" n="Yindjibarndi" lng="117.916666667" lat="-21.75"/>
+      <l c="yng" n="Yingkarta" lng="114.833333333" lat="-25.1666666667"/>
+      <l c="yor" n="Yoruba" lng="4.33333333333" lat="8.0"/>
+      <l c="ycn" n="Yucuna" lng="-71.0" lat="-0.75"/>
+      <l c="yuk" n="Yukulta" lng="138.833333333" lat="-17.3333333333"/>
+      <l c="yul" n="Yulu" lng="25.25" lat="8.5"/>
+      <l c="zan" n="Zande" lng="26.0" lat="4.0"/>
+      <l c="zpr" n="Zaparo" lng="-76.3333333333" lat="-2.0"/>
+      <l c="zhn" n="Zhuang (Northern)" lng="108.0" lat="24.0"/>
+      <l c="zch" n="Zoque (Chimalapa)" lng="-94.75" lat="16.75"/>
+      <l c="zul" n="Zulu" lng="30.0" lat="-30.0"/>
+  </v>
+    <v numeric="3" description="VSO" icon_id="cffff00" icon_url="https://wals.info/clld-static/icons/cffff00.png" zindex="0">
+      <l c="agc" n="Agta (Central)" lng="121.833333333" lat="17.9666666667"/>
+      <l c="agd" n="Agta (Dupaningan)" lng="122.083333333" lat="18.0"/>
+      <l c="ams" n="Arabic (Modern Standard)" lng="42.0" lat="25.0"/>
+      <l c="bco" n="Bella Coola" lng="-126.666666667" lat="52.5"/>
+      <l c="bfg" n="Berber (Figuig)" lng="-1.5" lat="32.5"/>
+      <l c="bma" n="Berber (Middle Atlas)" lng="-5.0" lat="33.0"/>
+      <l c="ceb" n="Cebuano" lng="124.0" lat="10.0"/>
+      <l c="cha" n="Chamorro" lng="144.75" lat="13.45"/>
+      <l c="cso" n="Chatino (Sierra Occidental)" lng="-97.3333333333" lat="16.25"/>
+      <l c="cya" n="Chatino (Yaitepec)" lng="-97.25" lat="16.25"/>
+      <l c="ccm" n="Chinantec (Comaltepec)" lng="-96.4166666667" lat="17.5833333333"/>
+      <l c="cpl" n="Chinantec (Palantla)" lng="-96.75" lat="18.8333333333"/>
+      <l c="chq" n="Chinantec (Quiotepec)" lng="-96.6666666667" lat="17.5833333333"/>
+      <l c="cor" n="Cora" lng="-104.833333333" lat="22.1666666667"/>
+      <l c="did" n="Didinga" lng="33.5" lat="4.5"/>
+      <l c="gae" n="Gaelic (Scots)" lng="-4.0" lat="57.0"/>
+      <l c="grf" n="Garífuna" lng="-88.0" lat="15.6666666667"/>
+      <l c="goa" n="Goajiro" lng="-72.0" lat="12.0"/>
+      <l c="gjj" n="Guajajara" lng="-46.0" lat="-5.0"/>
+      <l c="gto" n="Guató" lng="-58.0" lat="-17.0"/>
+      <l c="gud" n="Gude" lng="13.4166666667" lat="10.4166666667"/>
+      <l c="hlu" n="Halkomelem (Upriver)" lng="-121.916666667" lat="49.25"/>
+      <l c="haw" n="Hawaiian" lng="-155.5" lat="19.5833333333"/>
+      <l c="hdi" n="Hdi" lng="13.7166666667" lat="11.8666666667"/>
+      <l c="hei" n="Heiltsuk" lng="-127.5" lat="52.0"/>
+      <l c="hil" n="Hiligaynon" lng="123.0" lat="10.25"/>
+      <l c="hoa" n="Hoava" lng="157.5" lat="-8.08333333333"/>
+      <l c="ik" n="Ik" lng="34.1666666667" lat="3.75"/>
+      <l c="ilo" n="Ilocano" lng="121.0" lat="16.0"/>
+      <l c="iri" n="Irish" lng="-8.0" lat="53.0"/>
+      <l c="ixi" n="Ixil" lng="-91.0" lat="15.5"/>
+      <l c="jak" n="Jakaltek" lng="-91.6666666667" lat="15.6666666667"/>
+      <l c="kbl" n="Kabyle" lng="5.0" lat="36.5"/>
+      <l c="kdz" n="Kadazan" lng="117.166666667" lat="5.91666666667"/>
+      <l c="kls" n="Kalispel" lng="-117.0" lat="48.0"/>
+      <l c="kmj" n="Karimojong" lng="34.1666666667" lat="3.0"/>
+      <l c="kkt" n="Kokota" lng="159.133333333" lat="-8.0"/>
+      <l c="kje" n="Koreguaje" lng="-75.5" lat="1.0"/>
+      <l c="kro" n="Krongo" lng="30.0" lat="10.5"/>
+      <l c="kuo" n="Kuot" lng="151.5" lat="-3.05"/>
+      <l c="kyq" n="Kyuquot" lng="-127.166666667" lat="50.1666666667"/>
+      <l c="lmg" n="Lamang" lng="13.5833333333" lat="11.25"/>
+      <l c="lil" n="Lillooet" lng="-122.0" lat="50.75"/>
+      <l c="maa" n="Maasai" lng="36.0" lat="-3.0"/>
+      <l c="maj" n="Majang" lng="35.0" lat="6.75"/>
+      <l c="mak" n="Makah" lng="-124.666666667" lat="48.3333333333"/>
+      <l c="mam" n="Mam" lng="-91.8333333333" lat="15.0"/>
+      <l c="mmn" n="Mamanwa" lng="125.5" lat="9.41666666667"/>
+      <l c="mwb" n="Manobo (Western Bukidnon)" lng="124.75" lat="7.66666666667"/>
+      <l c="mao" n="Maori" lng="176.0" lat="-40.0"/>
+      <l c="mrq" n="Marquesan" lng="-140.083333333" lat="-8.91666666667"/>
+      <l c="mxc" n="Mixtec (Chalcatongo)" lng="-97.5833333333" lat="17.05"/>
+      <l c="mxj" n="Mixtec (Jicaltepec)" lng="-98.0" lat="16.3333333333"/>
+      <l c="mxo" n="Mixtec (Ocotepec)" lng="-97.75" lat="17.1666666667"/>
+      <l c="mxp" n="Mixtec (Peñoles)" lng="-96.9166666667" lat="17.0833333333"/>
+      <l c="mxy" n="Mixtec (Yosondúa)" lng="-97.5833333333" lat="16.9166666667"/>
+      <l c="mrl" n="Murle" lng="33.5" lat="6.5"/>
+      <l c="msq" n="Musqueam" lng="-123.0" lat="49.1666666667"/>
+      <l c="nhh" n="Nahuatl (Huasteca)" lng="-99.0" lat="22.0"/>
+      <l c="nan" n="Nandi" lng="35.0" lat="0.25"/>
+      <l c="nsg" n="Nisgha" lng="-130.0" lat="55.0"/>
+      <l c="nif" n="Niuafo&amp;#39;ou" lng="-175.616666667" lat="-15.5666666667"/>
+      <l c="niu" n="Niuean" lng="-170.116666667" lat="-19.05"/>
+      <l c="pnn" n="Pangasinan" lng="120.333333333" lat="15.9166666667"/>
+      <l c="pod" n="Podoko" lng="14.0833333333" lat="11.0"/>
+      <l c="pkt" n="Pokot" lng="35.5" lat="1.5"/>
+      <l c="qui" n="Quileute" lng="-124.25" lat="47.9166666667"/>
+      <l c="rap" n="Rapanui" lng="-109.366666667" lat="-27.1166666667"/>
+      <l c="rov" n="Roviana" lng="157.333333333" lat="-8.25"/>
+      <l c="shp" n="Sahaptin (Northern)" lng="-120.0" lat="46.5"/>
+      <l c="seb" n="Sebei" lng="34.5833333333" lat="1.33333333333"/>
+      <l c="smp" n="Shompen" lng="93.75" lat="7.0"/>
+      <l c="qum" n="Sipakapense" lng="-91.75" lat="15.25"/>
+      <l c="so" n="So" lng="34.75" lat="2.58333333333"/>
+      <l c="squ" n="Squamish" lng="-123.166666667" lat="49.6666666667"/>
+      <l c="tag" n="Tagalog" lng="121.0" lat="15.0"/>
+      <l c="tah" n="Tahitian" lng="-149.583333333" lat="-17.6666666667"/>
+      <l c="tsk" n="Tamashek" lng="-2.0" lat="20.0"/>
+      <l c="tsr" n="Taushiro" lng="-75.5" lat="-3.25"/>
+      <l c="tbo" n="Tboli" lng="124.5" lat="6.16666666667"/>
+      <l c="ten" n="Tennet" lng="32.5" lat="4.41666666667"/>
+      <l c="tpn" n="Tepehuan (Northern)" lng="-107.0" lat="26.3333333333"/>
+      <l c="tes" n="Teso" lng="33.8333333333" lat="1.83333333333"/>
+      <l c="tim" n="Timugon" lng="116.0" lat="5.0"/>
+      <l c="tlp" n="Tlapanec" lng="-99.0" lat="17.0833333333"/>
+      <l c="tri" n="Trique (Copala)" lng="-97.9166666667" lat="17.1666666667"/>
+      <l c="tsi" n="Tsimshian (Coast)" lng="-129.0" lat="52.5"/>
+      <l c="tna" n="Turkana" lng="35.5" lat="3.0"/>
+      <l c="wel" n="Welsh" lng="-3.0" lat="52.0"/>
+      <l c="wec" n="Welsh (Colloquial)" lng="-3.5833" lat="52.75"/>
+      <l c="wlo" n="Wolio" lng="122.75" lat="-5.5"/>
+      <l c="yap" n="Yapese" lng="138.166666667" lat="9.58333333333"/>
+      <l c="zai" n="Zapotec (Isthmus)" lng="-95.0" lat="16.416667"/>
+      <l c="zap" n="Zapotec (Mitla)" lng="-96.25" lat="16.8"/>
+      <l c="zzo" n="Zapotec (Zoogocho)" lng="-96.25" lat="17.25"/>
+  </v>
+    <v numeric="4" description="VOS" icon_id="dffff00" icon_url="https://wals.info/clld-static/icons/dffff00.png" zindex="0">
+      <l c="anj" n="Anejom" lng="169.8" lat="-20.2"/>
+      <l c="bto" n="Batak (Toba)" lng="99.0" lat="2.5"/>
+      <l c="baq" n="Baure" lng="-64.1666666667" lat="-13.0833333333"/>
+      <l c="cak" n="Cakchiquel" lng="-91.0" lat="14.5"/>
+      <l c="cyv" n="Cayuvava" lng="-65.5" lat="-13.5"/>
+      <l c="cle" n="Chinantec (Lealao)" lng="-95.9166666667" lat="17.3333333333"/>
+      <l c="ckl" n="Chinook (Lower)" lng="-123.5" lat="46.25"/>
+      <l c="chj" n="Chuj" lng="-91.5833333333" lat="15.9166666667"/>
+      <l c="cba" n="Chumash (Barbareño)" lng="-120.25" lat="34.5"/>
+      <l c="cem" n="Cèmuhî" lng="165.166666667" lat="-20.8333333333"/>
+      <l c="gel" n="Gela" lng="160.25" lat="-9.08333333333"/>
+      <l c="kri" n="Kipea" lng="-37.0" lat="-10.0"/>
+      <l c="krb" n="Kiribati" lng="173.0" lat="1.33333333333"/>
+      <l c="lgu" n="Longgu" lng="160.666666667" lat="-9.75"/>
+      <l c="mal" n="Malagasy" lng="47.0" lat="-20.0"/>
+      <l c="nia" n="Nias" lng="97.75" lat="1.0"/>
+      <l c="nca" n="Nicobarese (Car)" lng="93.0" lat="9.0"/>
+      <l c="otm" n="Otomí (Mezquital)" lng="-99.1666666667" lat="20.1666666667"/>
+      <l c="see" n="Seediq" lng="121.416666667" lat="24.1666666667"/>
+      <l c="tuk" n="Tukang Besi" lng="123.5" lat="-5.5"/>
+      <l c="tzo" n="Tzotzil" lng="-92.6666666667" lat="16.5"/>
+      <l c="war" n="Wari&amp;#39;" lng="-65.0" lat="-11.3333333333"/>
+      <l c="wth" n="Wathawurrung" lng="144.0" lat="-38.0"/>
+      <l c="wem" n="Wembawemba" lng="144.0" lat="-35.3333333333"/>
+      <l c="zqc" n="Zoque (Copainalá)" lng="-93.25" lat="17.0"/>
+  </v>
+    <v numeric="5" description="OVS" icon_id="ddd0000" icon_url="https://wals.info/clld-static/icons/ddd0000.png" zindex="0">
+      <l c="asu" n="Asuriní" lng="-49.5" lat="-3.5"/>
+      <l c="cub" n="Cubeo" lng="-70.5" lat="1.33333333333"/>
+      <l c="hix" n="Hixkaryana" lng="-59.0" lat="-1.0"/>
+      <l c="kkq" n="Kuikúro" lng="-53.0833333333" lat="-12.4166666667"/>
+      <l c="myi" n="Mangarrayi" lng="133.5" lat="-14.6666666667"/>
+      <l c="par" n="Päri" lng="32.5" lat="5.0"/>
+      <l c="sel" n="Selknam" lng="-70.0" lat="-53.0"/>
+      <l c="tir" n="Tiriyo" lng="-55.75" lat="3.25"/>
+      <l c="tvl" n="Tuvaluan" lng="179.166666667" lat="-8.5"/>
+      <l c="ung" n="Ungarinjin" lng="126.0" lat="-16.3333333333"/>
+      <l c="urn" n="Urarina" lng="-75.5" lat="-4.5"/>
+  </v>
+    <v numeric="6" description="OSV" icon_id="d0000dd" icon_url="https://wals.info/clld-static/icons/d0000dd.png" zindex="0">
+      <l c="kxo" n="Kxoe" lng="22.5" lat="-17.5"/>
+      <l c="nad" n="Nadëb" lng="-66.5" lat="-1.0"/>
+      <l c="tbt" n="Tobati" lng="140.666666667" lat="-2.58333333333"/>
+      <l c="wn" n="Wik Ngathana" lng="141.5" lat="-13.9166666667"/>
+  </v>
+    <v numeric="7" description="No dominant order" icon_id="ccccccc" icon_url="https://wals.info/clld-static/icons/ccccccc.png" zindex="0">
+      <l c="ani" n="//Ani" lng="21.9166666667" lat="-18.9166666667"/>
+      <l c="ace" n="Acehnese" lng="95.5" lat="5.5"/>
+      <l c="aco" n="Acoma" lng="-107.583333333" lat="34.9166666667"/>
+      <l c="adn" n="Adynyamathanha" lng="139.5" lat="-30.5"/>
+      <l c="ajg" n="Ajagbe" lng="1.75" lat="7.0"/>
+      <l c="alw" n="Alawa" lng="134.25" lat="-15.1666666667"/>
+      <l c="amc" n="Amahuaca" lng="-72.5" lat="-10.5"/>
+      <l c="ami" n="Amis" lng="121.333333333" lat="23.3333333333"/>
+      <l c="ann" n="Anindilyakwa" lng="136.5" lat="-14.0"/>
+      <l c="any" n="Anywa" lng="33.5" lat="8.0"/>
+      <l c="apl" n="Apalaí" lng="-54.0" lat="0.0"/>
+      <l c="asy" n="Arabic (Syrian)" lng="38.0" lat="34.0"/>
+      <l c="arm" n="Armenian (Eastern)" lng="45.0" lat="40.0"/>
+      <l c="ats" n="Atsugewi" lng="-121.0" lat="40.75"/>
+      <l c="avo" n="Avokaya" lng="30.0" lat="4.66666666667"/>
+      <l c="bac" n="Bachamal" lng="130.166666667" lat="-13.1666666667"/>
+      <l c="baj" n="Bajau (Sama)" lng="123.0" lat="-4.33333333333"/>
+      <l c="bwc" n="Bajau (West Coast)" lng="116.333333333" lat="6.33333333333"/>
+      <l c="bbu" n="Barambu" lng="27.0" lat="3.5"/>
+      <l c="brs" n="Barasano" lng="-70.6666666667" lat="-0.166666666667"/>
+      <l c="bkr" n="Batak (Karo)" lng="98.25" lat="3.25"/>
+      <l c="blr" n="Belorussian" lng="28.0" lat="54.0"/>
+      <l c="bch" n="Berber (Chaouia)" lng="7.0" lat="35.0"/>
+      <l c="bln" n="Bilin" lng="38.5" lat="15.75"/>
+      <l c="bil" n="Bilua" lng="156.666666667" lat="-7.75"/>
+      <l c="bbw" n="Bininj Gun-Wok" lng="133.75" lat="-12.5"/>
+      <l c="bla" n="Blackfoot" lng="-112.666666667" lat="50.0"/>
+      <l c="btk" n="Bontok" lng="120.916666667" lat="17.0833333333"/>
+      <l c="bnb" n="Bunuba" lng="125.75" lat="-17.75"/>
+      <l c="cax" n="Campa (Axininca)" lng="-74.0" lat="-12.0"/>
+      <l c="cam" n="Camsá" lng="-77.0" lat="1.16666666667"/>
+      <l c="cav" n="Cavineña" lng="-66.5" lat="-13.3333333333"/>
+      <l c="cai" n="Chai" lng="35.3333333333" lat="5.33333333333"/>
+      <l c="cmh" n="Chemehuevi" lng="-115.166666667" lat="34.3333333333"/>
+      <l c="che" n="Cherokee" lng="-83.5" lat="35.5"/>
+      <l c="chk" n="Chukchi" lng="-173.0" lat="67.0"/>
+      <l c="cbo" n="Chácobo" lng="-66.75" lat="-12.1666666667"/>
+      <l c="coo" n="Coos (Hanis)" lng="-124.166666667" lat="43.5"/>
+      <l c="cre" n="Cree (Plains)" lng="-110.0" lat="54.0"/>
+      <l c="cea" n="Cree (Swampy)" lng="-90.0" lat="56.0"/>
+      <l c="ddj" n="Dadjriwalé" lng="-5.66666666667" lat="5.25"/>
+      <l c="dam" n="Damana" lng="-73.5" lat="11.0"/>
+      <l c="dhr" n="Dhargari" lng="114.916666667" lat="-23.75"/>
+      <l c="din" n="Dinka" lng="28.0" lat="8.5"/>
+      <l c="djm" n="Djambarrpuyngu" lng="135.5" lat="-12.1666666667"/>
+      <l c="djr" n="Djaru" lng="128.0" lat="-18.75"/>
+      <l c="djn" n="Djinang" lng="134.833333333" lat="-12.3333333333"/>
+      <l c="dom" n="Domari" lng="35.0" lat="32.0"/>
+      <l c="dgo" n="Dongo" lng="30.0" lat="3.0"/>
+      <l c="dre" n="Drehu" lng="167.25" lat="-21.0"/>
+      <l c="dut" n="Dutch" lng="6.0" lat="52.5"/>
+      <l c="dyi" n="Dyirbal" lng="145.583333333" lat="-17.8333333333"/>
+      <l c="emm" n="Emmi" lng="130.0" lat="-13.5"/>
+      <l c="fij" n="Fijian" lng="178.0" lat="-17.8333333333"/>
+      <l c="fri" n="Frisian" lng="5.0" lat="53.0"/>
+      <l c="grr" n="Garrwa" lng="137.166666667" lat="-17.0833333333"/>
+      <l c="ger" n="German" lng="10.0" lat="52.0"/>
+      <l c="gid" n="Gidabal" lng="152.416666667" lat="-28.4166666667"/>
+      <l c="git" n="Gitksan" lng="-127.75" lat="55.3333333333"/>
+      <l c="goo" n="Gooniyandi" lng="126.333333333" lat="-18.3333333333"/>
+      <l c="grk" n="Greek (Modern)" lng="22.0" lat="39.0"/>
+      <l c="grj" n="Guarijío" lng="-108.666666667" lat="27.75"/>
+      <l c="gum" n="Gumbaynggir" lng="152.5" lat="-30.1666666667"/>
+      <l c="gnn" n="Gunin" lng="126.666666667" lat="-14.25"/>
+      <l c="ggu" n="Gureng Gureng" lng="151.0" lat="-25.25"/>
+      <l c="grg" n="Gurr-goni" lng="134.416666667" lat="-12.25"/>
+      <l c="gwa" n="Gwari" lng="7.0" lat="9.5"/>
+      <l c="gku" n="Gününa Küne" lng="-67.0" lat="-41.0"/>
+      <l c="hun" n="Hungarian" lng="20.0" lat="47.0"/>
+      <l c="hup" n="Hupa" lng="-123.666666667" lat="41.0833333333"/>
+      <l c="ido" n="Idoma" lng="7.5" lat="6.91666666667"/>
+      <l c="ina" n="Inanwatan" lng="132.083333333" lat="-2.08333333333"/>
+      <l c="jam" n="Jaminjung" lng="130.5" lat="-15.0833333333"/>
+      <l c="jeb" n="Jebero" lng="-76.5" lat="-5.41666666667"/>
+      <l c="kmw" n="Kamu" lng="130.833333333" lat="-13.5833333333"/>
+      <l c="kkw" n="Karankawa" lng="-97.0" lat="28.0"/>
+      <l c="krk" n="Karok" lng="-123.0" lat="41.6666666667"/>
+      <l c="kws" n="Kawaiisu" lng="-117.5" lat="36.0"/>
+      <l c="kay" n="Kayardild" lng="139.5" lat="-17.05"/>
+      <l c="ksa" n="Keresan (Santa Ana)" lng="-106.666666667" lat="35.4166666667"/>
+      <l c="khr" n="Kharia" lng="84.3333333333" lat="22.5"/>
+      <l c="klv" n="Kilivila" lng="151.083333333" lat="-8.5"/>
+      <l c="kis" n="Kisi" lng="-10.1666666667" lat="8.83333333333"/>
+      <l c="klm" n="Klamath" lng="-121.5" lat="42.5"/>
+      <l c="krn" n="Korana" lng="20.5" lat="-29.5"/>
+      <l c="kut" n="Kutenai" lng="-116.0" lat="49.5"/>
+      <l c="kwk" n="Kwakw&amp;#39;ala" lng="-127.0" lat="51.0"/>
+      <l c="kwz" n="Kwaza" lng="-60.6666666667" lat="-12.5833333333"/>
+      <l c="lac" n="Lacandón" lng="-91.5" lat="17.0"/>
+      <l c="lmb" n="Lamba" lng="28.0" lat="-13.0"/>
+      <l c="lec" n="Leko" lng="-67.9166666667" lat="-15.0"/>
+      <l c="ldu" n="Lendu" lng="30.5" lat="2.0"/>
+      <l c="les" n="Lese" lng="29.0" lat="2.0"/>
+      <l c="lml" n="Limilngan" lng="131.916666667" lat="-12.5"/>
+      <l c="lgt" n="Logoti" lng="30.0" lat="3.5"/>
+      <l c="lug" n="Lugbara" lng="30.9166666667" lat="3.08333333333"/>
+      <l c="lui" n="Luiseño" lng="-117.166666667" lat="33.3333333333"/>
+      <l c="mad" n="Ma&amp;#39;di" lng="31.5" lat="3.25"/>
+      <l c="mac" n="Macushi" lng="-60.0" lat="4.0"/>
+      <l c="mdm" n="Madimadi" lng="143.5" lat="-34.5"/>
+      <l c="mra" n="Mara" lng="135.166666667" lat="-15.0"/>
+      <l c="msk" n="Masakin" lng="30.0" lat="10.6666666667"/>
+      <l c="mtt" n="Massachusett" lng="-71.0" lat="42.5"/>
+      <l c="mzh" n="Mazatec (Huautla)" lng="-96.8333333333" lat="18.25"/>
+      <l c="meh" n="Mehri" lng="51.5" lat="17.0"/>
+      <l c="men" n="Menomini" lng="-88.3333333333" lat="45.5"/>
+      <l c="min" n="Minangkabau" lng="101.0" lat="-1.0"/>
+      <l c="mss" n="Miwok (Southern Sierra)" lng="-120.0" lat="37.5"/>
+      <l c="mxx" n="Mixe (Ayutla)" lng="-96.0833333333" lat="17.0833333333"/>
+      <l c="miy" n="Miya" lng="9.66666666667" lat="10.9166666667"/>
+      <l c="moh" n="Mohawk" lng="-74.25" lat="43.5"/>
+      <l c="moa" n="Mono-Alu" lng="155.75" lat="-7.05"/>
+      <l c="mou" n="Moru" lng="29.75" lat="4.75"/>
+      <l c="mov" n="Movima" lng="-65.6666666667" lat="-13.8333333333"/>
+      <l c="mrw" n="Muruwari" lng="147.0" lat="-28.75"/>
+      <l c="ndr" n="Nadroga" lng="177.416666667" lat="-18.0833333333"/>
+      <l c="nnc" n="Nancowry" lng="93.5" lat="8.05"/>
+      <l c="nau" n="Nauruan" lng="166.916666667" lat="-0.5"/>
+      <l c="ndj" n="Ndjébbana" lng="134.116666667" lat="-12.1666666667"/>
+      <l c="ney" n="Neyo" lng="-6.0" lat="5.0"/>
+      <l c="nez" n="Nez Perce" lng="-116.0" lat="46.0"/>
+      <l c="ngl" n="Ngalakan" lng="134.0" lat="-14.25"/>
+      <l c="ngg" n="Ngan&amp;#39;gityemerri" lng="130.416666667" lat="-14.25"/>
+      <l c="ngk" n="Ngankikurungkurr" lng="130.5" lat="-14.0"/>
+      <l c="nti" n="Ngiti" lng="30.25" lat="1.33333333333"/>
+      <l c="nha" n="Nhanda" lng="114.166666667" lat="-27.0"/>
+      <l c="nue" n="Nuer" lng="32.0" lat="8.33333333333"/>
+      <l c="nug" n="Nunggubuyu" lng="135.666666667" lat="-13.75"/>
+      <l c="nuu" n="Nuuchahnulth" lng="-126.666666667" lat="49.6666666667"/>
+      <l c="nym" n="Nyamwezi" lng="33.0" lat="-5.0"/>
+      <l c="nyn" n="Nyigina" lng="124.333333333" lat="-18.0"/>
+      <l c="ood" n="O&amp;#39;odham" lng="-112.0" lat="32.0"/>
+      <l c="oji" n="Ojibwa (Eastern)" lng="-80.0" lat="46.0"/>
+      <l c="ond" n="Oneida" lng="-75.6666666667" lat="43.0"/>
+      <l c="pai" n="Paiwan" lng="120.833333333" lat="22.5"/>
+      <l c="pnx" n="Panará" lng="-55.0" lat="-10.0"/>
+      <l c="pny" n="Panyjima" lng="118.416666667" lat="-22.8333333333"/>
+      <l c="psm" n="Passamaquoddy-Maliseet" lng="-67.0" lat="45.0"/>
+      <l c="ptw" n="Patwin" lng="-122.333333333" lat="39.0"/>
+      <l c="pip" n="Pipil" lng="-89.5833333333" lat="13.8333333333"/>
+      <l c="ppi" n="Pitta Pitta" lng="140.0" lat="-22.8333333333"/>
+      <l c="pok" n="Poko-Rawo" lng="141.583333333" lat="-2.83333333333"/>
+      <l c="rit" n="Ritharngu" lng="135.5" lat="-12.8333333333"/>
+      <l c="rwe" n="Romani (Welsh)" lng="-4.0" lat="52.0"/>
+      <l c="ruk" n="Rukai (Tanan)" lng="120.833333333" lat="22.8333333333"/>
+      <l c="sam" n="Samoan" lng="-171.833333333" lat="-13.9166666667"/>
+      <l c="sml" n="Semelai" lng="103.0" lat="3.0"/>
+      <l c="snc" n="Seneca" lng="-77.5" lat="42.5"/>
+      <l c="shs" n="Shasta" lng="-122.666666667" lat="41.8333333333"/>
+      <l c="shu" n="Shuswap" lng="-120.0" lat="52.0"/>
+      <l c="siu" n="Siuslaw" lng="-124.0" lat="44.0"/>
+      <l c="swt" n="Swati" lng="31.0" lat="-26.5"/>
+      <l c="tac" n="Tacana" lng="-68.0" lat="-13.5"/>
+      <l c="tas" n="Tashlhiyt" lng="-5.0" lat="31.0"/>
+      <l c="tee" n="Tepehua (Huehuetla)" lng="-98.0" lat="20.5"/>
+      <l c="tho" n="Thompson" lng="-121.75" lat="49.75"/>
+      <l c="tic" n="Ticuna" lng="-70.5" lat="-4.0"/>
+      <l c="tik" n="Tikar" lng="11.6666666667" lat="5.83333333333"/>
+      <l c="tin" n="Tinrin" lng="165.75" lat="-21.6666666667"/>
+      <l c="twn" n="Tiwa (Northern)" lng="-105.5" lat="36.5"/>
+      <l c="tob" n="Toba" lng="-59.0" lat="-26.5"/>
+      <l c="tno" n="Tondano" lng="125.0" lat="1.25"/>
+      <l c="tng" n="Tongan" lng="-175.166666667" lat="-21.1666666667"/>
+      <l c="ton" n="Tonkawa" lng="-96.75" lat="30.25"/>
+      <l c="tru" n="Trumai" lng="-53.5833333333" lat="-11.9166666667"/>
+      <l c="tus" n="Tuscarora" lng="-77.5" lat="36.0"/>
+      <l c="tzu" n="Tzutujil" lng="-91.3333333333" lat="14.6666666667"/>
+      <l c="ute" n="Ute" lng="-109.0" lat="39.0"/>
+      <l c="wai" n="Wai Wai" lng="-59.0" lat="1.0"/>
+      <l c="wam" n="Wambaya" lng="135.75" lat="-18.6666666667"/>
+      <l c="wan" n="Wangkumara" lng="143.0" lat="-27.3333333333"/>
+      <l c="wrd" n="Wardaman" lng="131.0" lat="-15.5"/>
+      <l c="wrl" n="Warlpiri" lng="132.333333333" lat="-20.0"/>
+      <l c="wrg" n="Warrgamay" lng="146.083333333" lat="-18.5833333333"/>
+      <l c="wrw" n="Warrwa" lng="123.5" lat="-17.5"/>
+      <l c="wic" n="Wichita" lng="-97.3333333333" lat="33.3333333333"/>
+      <l c="wik" n="Wikchamni" lng="-119.083333333" lat="36.4166666667"/>
+      <l c="win" n="Wintu" lng="-122.5" lat="41.0"/>
+      <l c="wiy" n="Wiyot" lng="-124.166666667" lat="40.8333333333"/>
+      <l c="wya" n="Wyandot" lng="-77.5" lat="44.3333333333"/>
+      <l c="yag" n="Yagua" lng="-72.0" lat="-3.5"/>
+      <l c="ywl" n="Yawelmani" lng="-119.0" lat="35.4166666667"/>
+      <l c="ywr" n="Yawuru" lng="122.5" lat="-18.0"/>
+      <l c="yok" n="Yokuts (Yaudanchi)" lng="-119.083333333" lat="36.0833333333"/>
+      <l c="ypk" n="Yup&amp;#39;ik (Central)" lng="-160.0" lat="59.5"/>
+      <l c="yus" n="Yupik (Siberian)" lng="-173.0" lat="65.0"/>
+      <l c="yur" n="Yurok" lng="-124.0" lat="41.3333333333"/>
+      <l c="zar" n="Zarma" lng="2.16666666667" lat="13.8333333333"/>
+      <l c="zqo" n="Zoque (Ostuacan)" lng="-93.3" lat="17.4166666667"/>
+  </v>
+</feature>

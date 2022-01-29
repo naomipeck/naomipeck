@@ -1,0 +1,465 @@
+---
+title: "Introduction to Fieldwork: From elicitation to ELAN"
+subtitle: "Session 1: What is fieldwork?"
+author: "Naomi Peck"
+institute: "University of Freiburg"
+date: "11/02/2022-12/02/2022 (updated: `r Sys.Date()`)"
+output:
+  xaringan::moon_reader:
+    seal: false
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+class: inverse, center, middle
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+#devtools::install_github("gadenbuie/countdown")
+library(countdown)
+```
+
+# Introduction to Fieldwork: From elicitation to ELAN <br>
+## Session 1: What is fieldwork? &nbsp;
+
+## Naomi Peck &nbsp;
+
+### Albert-Ludwigs-Universität Freiburg <br> 2022-02-11 (updated: `r Sys.Date()`)
+&nbsp;
+
+<img src="freiburg-logo.png" height="125px"/>
+
+<!-- insert VJS logo too? figure this out -->
+
+
+---
+
+class: middle
+
+> #### Fieldwork has been so much a part of linguistic research -- a linguistic given, so to speak -- that we have rarely bothered to define it. <br><br> (Hyman 2001:15)
+
+<br>
+
+???
+
+Hyman, Larry M. 2001. Fieldwork as a state of mind. In Linguistic Fieldwork, ed. by Paul Newman and Martha Ratliff, 15–33. Cambridge: Cambridge University Press.
+
+---
+
+class: middle
+
+> #### Fieldwork methods may be the best-kept secret of sociolinguistics.<br><br> (Tagliamonte 2006:17)
+
+<br>
+
+???
+
+Tagliamonte, Sali A. 2006. *Analysing Sociolinguistic Variation*. Cambridge: Cambridge University Press.
+
+---
+
+class: center, middle
+
+# What exactly is fieldwork?
+
+---
+
+# What fieldwork?
+
+> #### We define descriptive linguistic fieldwork as the investigation of the structure of a language through the collection of primary language data gathered through interaction with native-speaking consultants.<br>(Chelliah and de Reuse 2011:7) 
+
+<br>
+
+???
+
+Chelliah, Shobhana L. and Willem J. De Reuse. 2011. *Handbook of Descriptive Linguistic Fieldwork*. Dordrecht: Springer.
+
+--
+
+> #### Linguistic fieldwork ideally involves observing the language as it is used, becoming a member of the communicty, and often being adopted into the kinship system.<br>(Aikhenvald 2007:5) 
+
+<br>
+
+???
+
+Aikhenvald, Alexandra Y., ed. 2007. Focus on Linguistic Fieldwork. *Sprachtypologie und Universalienforschung* 60(1).
+
+
+--
+
+> #### One should document a language in such a way that future linguists can derive a description from it.<br>(Lehmann 1999:10)
+
+???
+
+Lehmann, Christian. 1999. Documentation of endangered languages. A priority task for linguistics. *ASSIDUE, Arbeitspapiere des Seminars für Sprachwissenschaft der Universität Erfurt* Nr. 1. Erfurt: Seminar für Sprachwissenschaft, Philosophische Fakultät, Universität Erfurt.
+
+---
+
+# What about these?
+
+.center[
+![Table 2.1 Prototypical versus less prototypical fieldwork, reproduced from Table 1.1 in Hyman 2001](hyman2001.png)
+]
+
+???
+
+Hyman, Larry M. 2001. Fieldwork as a state of mind. In Linguistic Fieldwork, ed. by Paul Newman and Martha Ratliff, 15–33. Cambridge: Cambridge University Press.
+
+cited in
+
+Chelliah, Shobhana L. and Willem J. De Reuse. 2011. *Handbook of Descriptive Linguistic Fieldwork*. Dordrecht: Springer.
+
+---
+
+class: middle
+
+# What do you think fieldwork is?
+
+???
+
+The floor is open - what does fieldwork mean for you?
+
+---
+
+class: middle, center, inverse
+
+# Fieldwork is collaborating with others to actively generate (and analyse) data.
+
+---
+
+class: center, middle
+
+# Where is "the field"?
+
+---
+
+class: top, left
+background-image: url(./dscn0151_orig.jpg)
+
+# 1
+
+???
+
+Photo: "Doing ethnobotanical fieldwork (Jilim village, 2018)"
+https://dondaniels.weebly.com/pictures.html
+
+---
+
+class: top, left
+background-image: url(./lamkang.jpg)
+background-size: contain
+
+# 2
+
+???
+
+Photo: "Donnu and Rengpu Rex eliciting and discussing Lamkang words"
+https://digital.library.unt.edu/ark:/67531/metadc1470701/m1/1/
+
+---
+
+class: top, left
+background-image: url(./socio-zoom.jpg)
+background-size: contain
+
+# 3
+
+???
+
+Photo: "Fieldworker’s screen: PowerPoint file with prompts (left), Zoom session with participant (top right), interface for audio files (bottom right)."
+Figure 4 from Leemann et al. 2020. 
+
+Leemann, Adrian, Jeszenszky, Péter, Steiner, Carina, Studerus, Melanie and Messerli, Jan. "Linguistic fieldwork in a pandemic: Supervised data collection combining smartphone recordings and videoconferencing" Linguistics Vanguard, vol. 6, no. s3, 2020, pp. 20200061. https://doi.org/10.1515/lingvan-2020-0061
+
+---
+
+class: top, left
+background-image: url(./gibson-sisiwati.jpg)
+
+# 4
+
+???
+
+Photo: "Data collection for siSwati with Sikhumbuzo Khoza, Judith Nkuna & Kyoung-Won Jeong (Bongane Nyambi out of shot)"
+https://fieldnotespod.com/2020/04/30/ep-15-rethinking-the-field-in-fieldwork-with-hannah-gibson/
+
+---
+
+class: top, left, inverse
+background-image: url(./akumbu-babanki.jpeg)
+
+# 5
+
+???
+Photo: "Pius Akumbu (left) with some Babanki speakers (Victor Veshi, Prudencia Ngoin, Duh Joseph, and Maley) after a child celebration ceremony"
+https://fieldnotespod.com/2020/07/10/ep-24-pius-akumbu-on-insider-research-in-babanki/
+
+---
+
+class: top, left, inverse
+background-image: url(./cruz-chatino.jpg)
+
+# 6
+
+???
+
+Photo: Hilaria collecting recordings (photo by Erika Castillo Licea)
+https://fieldnotespod.com/2021/05/06/episode-27-field-notes-live-show-with-hilaria-cruz-on-field-linguistics-chatino/
+
+---
+
+# Where is "the field"?
+
+Discuss with your breakout room which example you think is the best fieldsite.
+
+We'll come back in 5 minutes and see what you all think.
+
+```{r echo = FALSE}
+countdown(minutes = 5)
+```
+
+---
+
+class: center, middle
+
+# Recap
+
+--
+
+```{r, label = "group order field", echo=FALSE}
+x <- sample(1:5, 5, replace = F)
+print(x)
+```
+
+---
+
+class: center, middle, inverse
+
+# The field is where the consultants are.
+
+---
+
+class: center, middle
+
+# Who does fieldwork?
+
+---
+
+# Who fieldwork?
+
+Consists minimally of two people.
+
+--
+
+- researcher
+    
+- consultant/collaborator/speaker/signer/colleague
+
+???
+
+Never call the person you work with an informant!
+
+--
+
+However, it tends to involve many, many more!
+
+???
+
+Who else participates in the process of fieldwork?
+
+--
+
+- lots more people who are happy to help out (or get paid) for data collection
+
+- separate person doing the recordings
+
+- separate interviewer
+
+- translators
+
+- transcribers
+
+- funding bodies and other authorities
+
+- the wider speech community
+
+???
+
+Researchers can be outsiders or insiders to a community.
+
+---
+
+class: center, middle
+
+# Why do fieldwork?
+
+---
+
+# Why fieldwork?
+
+Himmelmann 2006 argues for three main reasons for language documentation:
+
+1. capture endangered languages
+
+1. building up research resources for the future
+
+1. ensure robust linguistic analyses
+
+???
+
+Himmelmann, Nikolaus P. 2006. Language documentation: What is it and what is it good for? In Essentials of Language Documentation, ed. by Jost Gippert, Nikolaus P. Himmelmann, and Ulrike Mosel, 1–30. (Trends in Linguistics. Studies and Monographs 178.) Berlin and New York: Mouton de Gruyter.
+
+--
+
+To this, we can add some other reasons why people do fieldwork:
+
+1. religious reasons
+
+1. language revival
+
+1. theoretical research
+
+1. comparative research
+
+1. variationist research
+
+???
+
+Chelliah, Shobhana L. and Willem J. De Reuse. 2011. *Handbook of Descriptive Linguistic Fieldwork*. Dordrecht: Springer.
+
+---
+
+class: middle
+
+# Why do you want to do fieldwork?
+
+---
+
+# Why fieldwork?
+
+Same as before - discuss in your groups briefly why you want to do fieldwork and we'll recap afterwards.
+
+```{r echo = FALSE}
+countdown(minutes = 5)
+```
+
+???
+
+What questions do you want to research? What compels you to work with people to collect data?
+
+---
+
+class: center, middle
+
+# Recap
+
+--
+
+```{r, label = "group order reason", echo=FALSE}
+x <- sample(1:5, 5, replace = F)
+print(x)
+```
+
+---
+
+class: middle, center
+
+# How is fieldwork done?
+
+---
+
+class: center, middle
+
+<iframe width="800" height="600" src="https://www.youtube.com/embed/3gxsu2Ikkio" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+???
+
+Center for Southeast Asian Studies, Kyoto University. 2019. "Learning By Living Together -Ethnographic Fieldwork In The Thai Highlands-" [YouTube video]. https://www.youtube.com/watch?v=3gxsu2Ikkio
+
+0:00 - 3:20
+
+---
+
+class: middle
+
+> #### *Typical day, we would get up in the morning, you know and head off. Two or three interviews. Come back. Eat together. And then go to our room and transcribe. So it was pretty- we didn't have a lot of down time and then on the weekends, we would catch up on our phonetic transcription.* <br>-- Walt Wolfram <br><br>(Tagliamonte 2016:98)
+
+???
+
+Tagliamonte, Sali A. 2016. *Making Waves: The Story of Variationist Sociolinguistics*. Oxford: Wiley Blackwell.
+
+---
+
+class: center, middle
+
+<iframe width="800" height="600" src="https://www.youtube.com/embed/Sk7jGn0wwok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+???
+
+Kate Lindsey. 2020. "Linguistic Fieldwork with Prof. Kate Lindsey" [YouTube video]. https://www.youtube.com/watch?v=Sk7jGn0wwok
+
+How to do fieldwork: 7:50-11:57
+
+---
+
+class: middle
+
+# What kind of fieldwork do you want to do?
+
+---
+
+class: center, middle
+
+# When can I go to the field?
+
+---
+
+# When fieldwork?
+
+There are a few different things which must be done before going to the field, which we will start to do after a short break.
+
+---
+
+# Further Sources
+
+Chelliah, Shobhana L. and Willem J. De Reuse. 2011. *Handbook of Descriptive Linguistic Fieldwork*. Dordrecht: Springer.
+
+Himmelmann, Nikolaus P. 2006. Language documentation: What is it and what is it good for? In *Essentials of Language Documentation*, ed. by Jost Gippert, Nikolaus P. Himmelmann, and Ulrike Mosel, 1–30. (Trends in Linguistics. Studies and Monographs 178.) Berlin and New York: Mouton de Gruyter.
+
+Schilling, Natalie. 2013. *Sociolinguistic Fieldwork*. Cambridge: Cambridge University Press.
+
+Tsikewa, Adrienne. 2021. Reimagining the current praxis of field linguistics training: Decolonial considerations. *Language* 97(4), e293-e319.
+
+---
+
+# Further Sources
+
+AmbrymDobesProject. 2011. "Language Documentation in Ambrym" [YouTube video]. https://www.youtube.com/watch?v=_eqCE4UpB9A
+
+Bowern, Claire. (editor). 2021. Crowdsourced Suggestions for Online Field Methods Classes. Available at https://bit.ly/3Kt3JSm. 
+
+Lindsey, Kate. 2020. "Linguistic Fieldwork with Prof. Kate Lindsey" [YouTube video]. https://www.youtube.com/watch?v=Sk7jGn0wwok
+
+Lupton, Deborah. (editor) 2021. Doing fieldwork in a pandemic (crowd-sourced document), revised version. Available at https://bit.ly/33xxkt4.
+
+Rodriguez Louro, Celeste and Glenys Collard. 2020. Decolonising sociolinguistic research [Blog post]. https://www.languageonthemove.com/decolonising-sociolinguistic-research/
+
+Tsutsui Billins, Martha. 2019-. Field Notes Podcast. https://fieldnotespod.com/
+
+???
+
+Full link for Bowern 2021: https://docs.google.com/document/d/1wIcc8TpOy_ZWtF5Vh5G4W8GRHIYIIs0pXQDPendRqq8
+
+Full link for Lupton 2021: https://docs.google.com/document/u/1/d/1clGjGABB2h2qbduTgfqribHmog9B6P0NvMgVuiHZCl8
+
+---
+
+class: inverse, center, middle
+
+# Short Break 
+
+```{r echo = FALSE}
+countdown(minutes = 5, play_sound = TRUE, right = "34%", bottom = "20%")
+```

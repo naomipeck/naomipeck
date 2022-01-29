@@ -1,0 +1,379 @@
+---
+title: "Introduction to Fieldwork: From elicitation to ELAN"
+subtitle: "Session 1: Going to the field"
+author: "Naomi Peck"
+institute: "University of Freiburg"
+date: "11/02/2022-12/02/2022 (updated: `r Sys.Date()`)"
+output:
+  xaringan::moon_reader:
+    seal: false
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+class: inverse, center, middle
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+#devtools::install_github("gadenbuie/countdown")
+library(countdown)
+```
+
+# Introduction to Fieldwork: From elicitation to ELAN <br>
+## Session 1: Going to the field &nbsp;
+
+## Naomi Peck &nbsp;
+
+### Albert-Ludwigs-Universität Freiburg <br> 2022-02-11 (updated: `r Sys.Date()`)
+&nbsp;
+
+<img src="freiburg-logo.png" height="125px"/>
+
+<!-- insert VJS logo too? figure this out -->
+
+---
+
+class: center, middle
+
+# What do I need to have before going to the field?
+
+---
+
+- a way to elicit your data
+
+    - lingua franca/contact language
+    
+    - same language
+    
+- as much knowledge about your target language as possible
+
+    - earlier descriptions
+    
+    - relevant linguistic questions/theories
+    
+    - knowledge about related languages
+    
+    - knowledge about languages spoken nearby
+
+- as much knowledge about your field site as possible
+    
+    - cultural information; historical information
+    
+    - contacts within the community
+    
+    - cultural norms
+    
+---
+    
+- flexibility
+
+    - fall back on pre-prepared materials
+    
+    - be prepared to struggle with getting people to record
+    
+- perseverance
+  
+    - fieldwork can be mentally tiring
+    
+    - getting funding for field trips can be a long endeavour
+    
+- travel arrangements
+
+    - you may need to apply months in advance for permits
+    
+    - make sure your passport has enough validity if you travel overseas!
+    
+    - consulting a doctor (e.g. you may need additional vaccinations)
+    
+    - what medical supplies should you bring along?
+    
+    - how will you access money in the field? how can you keep this safe?
+    
+    - make copies of important documents
+    
+    - source equipment that you need
+    
+---
+    
+- obtaining research clearance
+
+    - ethics clearance from home university where applicable
+
+    - depends on field site
+    
+    - should be on good terms with authorities in the area
+    
+    - consider partnering with nearby universities
+    
+- finding accommodation or lodging
+
+    - consider whether you should live on site or not
+    
+    - consider what your presence somewhere would mean materially for a host family
+    
+- finding consultants
+
+    - should you pay or not?
+    
+        - if so, what are appropriate wages?
+        
+    - what can you give back to those who help you?
+    
+    - what aptitude/talent does a consultant have?
+    
+    - patience is golden
+
+---
+
+# Positives (Newman and Ratliff 2001:8)
+
+- Joy of discovery
+
+- Excitement of overcoming intellectual obstacles
+
+- Enriching experience of getting to know and live in a culture and society different from your own
+
+- Sense of satisfaction when the community praises your research
+
+- Professional pride that one has contributed to ongoing knowledge about language
+
+???
+
+Newman, Paul and Martha Ratliff. 2001. Introduction. In Newman, Paul and Martha Ratliff (eds.), *Linguistic Fieldwork*, 1-14. Cambridge: Cambridge University Press.
+
+---
+
+class: middle
+
+> #### *Fieldwork is a drug. Walking into people's lives is just fabulous, you know? It's something we get to do and most people don't. ... But you know when I go there all my troubles disappear, you know? You're just completely taken up in these other people's lives and suddenly your crap seems like nothing. So, it's a drug.* <br>-- Penny Eckert <br><br>(Tagliamonte 2016:89)
+
+???
+
+Tagliamonte, Sali A. 2016. *Making Waves: The Story of Variationist Sociolinguistics*. Oxford: Wiley Blackwell.
+
+---
+
+class: middle
+
+> #### *The village where I did research was occasionally visited by tourists. They would usually stay for an hour or so and then move on. The locals would perform dances, and display artefacts, but the tourists would learn little about the present-day living conditions of the people. As I was living with the locals, sharing their problems, disputes and hopes, the difficult moments were the most insightful. I had many discussions with people in the village, comparing life in the village with my “previous” life in the Western world. We agreed that both lifestyles had good and bad sides. The fieldwork experience will be valuable for the rest of my life, as it taught me how to adapt to an unfamiliar environment. No travel agent could have organised a similar experience.* <br>-- Gerd Jendraschek <br><br>(RCLT 2009:25)
+
+???
+
+Research Centre for Linguistic Typology. 2009. *Fieldwork Manual: Fieldwork and Your Wellbeing*. Bundoora: La Trobe University.
+
+---
+
+class: middle
+
+>#### *I can't really say it was premeditated, but I managed to fit in quite well with the community I was living in. So good, in fact, that one of its members is now actually my wife. In theory, this means that in some cases I should now ask for ethical approval to talk to my own family!* <br>-- Rik de Busser <br><br>(RCLT 2009:26)
+
+???
+
+Research Centre for Linguistic Typology. 2009. *Fieldwork Manual: Fieldwork and Your Wellbeing*. Bundoora: La Trobe University.
+
+---
+
+# Negatives (Newman and Ratliff 2001:8)
+
+- Inadequacy in linguistic preparation and/or language-learning talents
+
+- Equipment breakdowns
+
+- Disease, accidents, and other health risks
+
+- Food and housing problems
+
+- Money issues
+
+- "Bad" informants
+
+- Personal discomfort or incompatibility with local culture, practices, values, and world view
+
+- Practical and emotional problems in working on moribund languages
+
+- Strained relations with government officials or with resident missionaries
+
+- Worries about loved ones back home or in the field with you
+
+- Boredom and loneliness
+
+???
+
+Newman, Paul and Martha Ratliff. 2001. Introduction. In Newman, Paul and Martha Ratliff (eds.), *Linguistic Fieldwork*, 1-14. Cambridge: Cambridge University Press.
+
+---
+
+class: middle
+
+> ####*I can remember only one who said he would do it and then when I got back to him he was as drunk as a fish and decided he wasn't doing anything that day, you know.* <br>-- Donald Winford <br><br>(Tagliamonte 2016:90)
+
+???
+
+Tagliamonte, Sali A. 2016. *Making Waves: The Story of Variationist Sociolinguistics*. Oxford: Wiley Blackwell.
+
+---
+
+class: middle
+
+> ####*Doing interviews alone is pretty- it's a pretty harsh emotional experience 'cause you get rejected a lot and there are a lot of suspicions you know people think you're selling tape recorders and... So, I can remember sitting in my room and crying because it was so- Sali: Traumatic. Walt: Yeah. Being rejected and sort of feeling totally alone and sort of, "I got to get this stuff. I got to get this data," you know?* <br>-- Walt Wolfram <br><br>(Tagliamonte 2016:92)
+
+???
+
+Tagliamonte, Sali A. 2016. *Making Waves: The Story of Variationist Sociolinguistics*. Oxford: Wiley Blackwell.
+
+---
+
+class: middle
+
+> ####*I was travelling on a motorbike in India when a stone punctured a tyre and I fell, deeply cutting my hand. I went to a local hospital to have the wound stitched up and I was prescribed antibiotics. After about two weeks of regular attendance at a hospital to have the dressings changed and the wound cleaned, the wound was still badly infected and was showing signs of necrosis. I decided to go to Bangkok for further treatment. It was my view that the hygiene levels at the Indian hospitals were well below acceptable standards and so was not willing to risk my health further at Indian hospitals.* <br>-- Seino van Breugel <br><br>(RCLT 2009:13)
+
+???
+
+Research Centre for Linguistic Typology. 2009. *Fieldwork Manual: Fieldwork and Your Wellbeing*. Bundoora: La Trobe University.
+
+---
+
+class: middle
+
+> ####*While staying at my field site in Ethiopia for the first time, I was not aware that it was inappropriate to look into men’s eyes and to display a too cheerful behaviour when speaking with them, because this was easily interpreted as a pick-up attempt. As a severe consequence of this, a man entered my hotel room uninvited and he could only be made to leave with very harsh words.* <br>-- Yvonne Treis <br><br>(RCLT 2009:14)
+
+???
+
+Research Centre for Linguistic Typology. 2009. *Fieldwork Manual: Fieldwork and Your Wellbeing*. Bundoora: La Trobe University.
+
+---
+
+class: middle
+
+> ####*Roughly half way through an extended fieldtrip to PNG I heard that my grandfather was very sick and likely to die. I was sorry to be away in the field as I had previously told my family that if my grandparents needed me to assist them at some stage I'd be happy to do that. But by the time I heard what was happening, the family had already sorted out a plan of care so it didn't make sense to rush back to help. As his health and mental state deteriorated, it became clear that returning from the field to see my grandfather again before he died would only increase the burden on my grandmother. Because I was in a very isolated place, it was several weeks after my grandfather's death before I got a letter from my father letting me know that he had finally passed away. Of the thirteen cousins in my family, I was one of only two to miss the funeral. I don't know whether or not I would have chosen to come back for the funeral if I had known sooner but having better communication in place would at least have given me the choice. Now when I travel out to a remote village I try and make sure I can take a satellite phone along and check in weekly with family. I think they find this very reassuring too.* <br>-- Tonya Stebbins <br><br> (RCLT 2009:15)
+
+???
+
+Research Centre for Linguistic Typology. 2009. *Fieldwork Manual: Fieldwork and Your Wellbeing*. Bundoora: La Trobe University.
+
+---
+
+class: middle
+
+> ####*During my first experiences of fieldwork in British Columbia, Canada, I was shocked by the racism that members of the host community experience and overwhelmed and confused by my feelings in response. I regularly felt like a spectacle at community gatherings: not only was I the only blond in the room and taller than practically everyone else, but I was also regularly choked up with tears triggered by a speech or some drumming or singing that everyone else seemed to take quite calmly. I had a very lonely time on fieldwork because I felt quite awkward and struggled to get past this in order to form effective social relationships within the community.* <br>-- Tonya Stebbins <br><br>(RCLT 2009:16)
+
+???
+
+Research Centre for Linguistic Typology. 2009. *Fieldwork Manual: Fieldwork and Your Wellbeing*. Bundoora: La Trobe University.
+
+---
+
+class: middle
+
+> ####*One of the saddest deaths was of a young woman whose mother was a great help to my work. She was about 22 I think, and had been sick for years, but she had improved and so I was hoping when I went back to the village to find her in the pink of health. The day I arrived in the village I was told that she had died the day before. There would be a ceremony on the 7th day after she died, and if I could attend it would be a great merit for her, I was told. So of course I changed my plans so I could be there. A year or two earlier, her mother had asked for a silk hat from Thailand as a gift, so I got one, but not being a fashion person it was too big. Still she loved it and I took a photo of her wearing it. This was the picture they used at her funeral.* <br>-- Stephen Morey <br><br>(RCLT 2009:16)
+
+???
+
+Research Centre for Linguistic Typology. 2009. *Fieldwork Manual: Fieldwork and Your Wellbeing*. Bundoora: La Trobe University.
+
+---
+
+# Slogans for fieldwork (Rice 2001)
+
+Pay careful attention to information about the language that the speaker you are working with wants you to hear.
+
+Know the available literature and respect it, but keep in mind that there is always more to learn.
+
+Avoid isolating areas of the language so that you lose track of the fact that language is a complex, dynamic system.
+
+Bring as much knowledge as you can, from all domains – about language, about linguistics, about people.
+
+Do not straightjacket the language into categories that you bring to it – let it live on its own.
+
+???
+
+Rice, Keren. 2001. Learning as one goes. In Paul Newman and Martha Ratliff (eds.), *Linguistic Fieldwork*, 230-249. Cambridge: Cambridge University Press.
+
+---
+
+# Slogans for fieldwork (Rice 2001)
+
+Do not think that language is a monolithic entity within a community. There is variation within language, and this must be part of any analysis.
+
+Not all speakers have the same strengths.
+
+A good working relationship is an evolving thing. Both speakers and the linguist must get to know one another.
+
+Be open to learn.
+
+???
+
+Rice, Keren. 2001. Learning as one goes. In Paul Newman and Martha Ratliff (eds.), *Linguistic Fieldwork*, 230-249. Cambridge: Cambridge University Press.
+
+---
+
+# On a more serious and personal note
+
+If you are intending to go into the field, I highly encourage you to read further around the experiences of fieldworkers and talk to anyone you know who has gone to the field.
+
+--
+
+You must be prepared to travel and live somewhere with a community that you are not necessarily familiar with. It may not be easy to collect data and your research and purpose in the area may be questioned multiple times. You may not speak the local language or have regular connection to internet or even phone networks. 
+
+--
+
+You should only go into the field when you feel mentally prepared to deal with all of these issues. Remember that your health and safety is paramount and not worth any amount of data.
+
+---
+
+class: middle
+
+> ####*I like to read personal accounts of other fieldworkers while in the village. Life in the field was so different at first that I suffered from culture shock and thought the whole village was crazy. Reading how other researchers work in similar environments and cope with it changed my perception of my own situation. I had been like a soccer player on a rugby field, complaining that the locals constantly broke the rules; but they simply had different rules. I had to discover and accept that my behavioural norms were not applicable in their society.* <br>-- Gerd Jendraschek <br><br>(RCLT 2009:18)
+
+???
+
+Research Centre for Linguistic Typology. 2009. *Fieldwork Manual: Fieldwork and Your Wellbeing*. Bundoora: La Trobe University.
+
+---
+
+# Fieldworker Testimonials
+
+Field Notes Podcast
+
+https://anakrajinovic.medium.com/
+
+Research Centre for Linguistic Typology. 2009. *Fieldwork Manual: Fieldwork and Your Wellbeing*. Bundoora: La Trobe University.
+
+Tagliamonte, Sali A. 2016. *Making Waves: The Story of Variationist Sociolinguistics*. Oxford: Wiley Blackwell.
+
+---
+
+class: middle
+
+> ####*All I usually think I want in life is ... a cosy house and an interesting job. Sometimes I wonder what I'm doing in this career! Fieldwork takes me completely outside of myself and this can be quite shattering. What keeps me going back is the fact that there is simply nothing like the feeling that comes from being an outsider who is recognised, accepted and welcomed into a family or a community. I have learnt a lot about myself by discovering what other people can see in me. Without becoming vulnerable and dependent, there is no opportunity for others to provide the warmth and hospitality that they can extend so generously when they recognise the need. So, in spite of the difficulties and ambivalence, there is nothing in my field experience that I would ever give back and I will certainly be going again (and again).* <br>-- <br><br>Tonya Stebbins (RCLT 2009:26)
+
+???
+
+Research Centre for Linguistic Typology. 2009. *Fieldwork Manual: Fieldwork and Your Wellbeing*. Bundoora: La Trobe University.
+
+---
+
+# Further Sources
+
+Chelliah, Shobhana L. and Willem J. De Reuse. 2011. *Handbook of Descriptive Linguistic Fieldwork*. Dordrecht: Springer.
+
+Macaulay, Monica. 2004. Training Linguistics Students for the Realities of Fieldwork. *Anthropological Linguistics* 46(2): 194-209.
+
+Howell, Nancy. 1990. *Surviving fieldwork: A report of the Advisory Panel on Health and Safety in Fieldwork*. Washington: American Anthropological Association.
+
+Newman, Paul and Martha Ratliff (eds.). 2001. *Linguistic Fieldwork*. Cambridge: Cambridge University Press.
+
+---
+
+class: inverse, center, middle
+
+# End of Session 1
+```{r echo = FALSE}
+countdown(minutes = 30, play_sound = TRUE, right = "34%", bottom = "35%")
+```
+
+<br><br><br>
+
+### You will need pen and paper for Session 2

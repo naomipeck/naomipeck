@@ -1,0 +1,254 @@
+---
+title: "Chapter 3"
+author: "Naomi Peck"
+date: "`r Sys.Date()`"
+mainfont: Times New Roman
+fontsize: 12pt
+output: 
+  bookdown::pdf_document2:
+    latex_engine: xelatex
+    toc: false
+    number_section: false
+    extra_dependencies:
+      gb4e : null
+      epigraph: null
+      enumitem: null
+      setspace: onehalfspacing
+bibliography: references.bib
+#csl: unified-style-sheet-for-linguistics.csl
+#nocite: |
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{=tex}
+\setlistdepth{9}
+\setlist[itemize,1]{label=\textbullet}
+\setlist[itemize,2]{label=\textbullet}
+\setlist[itemize,3]{label=\textbullet}
+\setlist[itemize,4]{label=\textbullet}
+\setlist[itemize,5]{label=\textbullet}
+\setlist[itemize,6]{label=\textbullet}
+\setlist[itemize,7]{label=\textbullet}
+\setlist[itemize,8]{label=\textbullet}
+\setlist[itemize,9]{label=\textbullet}
+\renewlist{itemize}{itemize}{9}
+```
+# 3.1 Introduction {#sec:intro3}
+
+-   aim of chapter
+
+    -   to outline the approach that I am going to take for the rest of the chapter/thesis
+    -   introduce research questions
+    -   introduce framework that I'm working in
+
+-   linking to previous chapter
+
+-   Research Question
+
+    -   what role do serial verb constructions play in structuring discourse?
+
+        -   how does information packaging affect serial verb constructions?
+        -   how are serial verb constructions realised prosodically?
+        -   what constructions are related to SVCs and when are each of them used?
+        -   what do SVCs express (cognitively)?
+
+# 3.2 A Discourse-First Paradigm {#sec:paradigm}
+
+-   discourse-first approach
+
+    -   corpus work
+
+-   contextualised approach
+
+    -   of examples and data
+
+-   Discourse-First and Contextualised
+
+    -   Emergent?
+    -   Working with corpus data directly
+    -   rather than examples from grammatical descriptions
+    -   language-specific definitions
+    -   examples are annotated for discourse context
+    -   looking at rhetorical/discourse purposes for constructions too
+    -   can't look directly at cognition; only via discourse
+
+-   exploratory approach
+
+    -   we need to establish which features are possibly meaningful
+
+    -   find meaningful clusters of features
+
+        -   what examples are closer to each other
+
+        -   what constructions are closer to each other
+
+            -   within a language
+            -   across languages
+
+# 3.3 Units of Analysis {#sec:units}
+
+## 3.3.1 Morphosyntax
+
+-   how do I define SVCs/my wider basket
+
+    -   what morphosyntactic units am I using
+    -   what morphosyntactic features am I tracking
+
+-   looking at complex verbal constructions
+
+    -   language-specific definitions of constructions
+
+        -   two verboid elements
+
+            -   make reference to
+
+                -   Unterladstetter 2019
+                -   Lovestrand 2021
+
+        -   linkage neither here nor there
+
+        -   ...
+
+        -   do I want to include potential embedding constructions
+
+            -   i.e. purpose constructions, when there is no evidence for embedding
+
+            -   preferably not, i.e. no constructions where verbs have an argument relationship should be included
+
+                -   what does that mean for causatives?
+
+    -   what types of constructions would then be caught within this net?
+
+        -   serial verb constructions
+        -   converb constructions
+        -   clause chaining
+        -   quotative constructions
+        -   ...
+
+-   how this is annotated
+
+    -   grammatical annotations: GRAID
+
+    -   parameter annotations: coding of parameters
+
+        -   subcorpus?
+
+        -   using parameters highlighted as important in the literature
+
+            -   for converbs
+            -   for serial verbs
+            -   for switch-reference
+            -   for embedding
+            -   for clausality
+
+### 3.3.1.1 Parameter 1
+
+-   definition of Parameter 1
+
+-   operationalisation of Parameter 1
+
+-   examples of cases with different values
+
+-   could become part of an appendix?
+
+### 3.3.1.2 Parameter 2
+
+### ...
+
+## 3.3.2 Prosody
+
+-   how do I define intonation units
+
+    -   what prosodic units am I using
+    -   what am I tracking here
+
+-   intonation units
+
+    -   pausing
+
+        -   external pauses, not internal
+
+            -   psycholinguistic reasons
+
+    -   boundary cues
+
+        -   final lengthening
+        -   creaky voice
+        -   pauses
+        -   pitch reset
+
+    -   intonation contours
+
+        -   marked rise or fall
+
+            -   there should be a way to quantify/qualify this
+
+                -   e.g. 2 semitones
+
+        -   not a marked rise or fall
+
+-   roles of intonation in discourse
+
+-   cesura annotation
+
+-   paratones?????
+
+## 3.3.3 Cognition
+
+-   what cognitive units am I using
+
+    -   how do I track these in annotations
+
+        -   Chafe framework
+
+    -   really, I'm looking at information flow and information packaging
+
+        -   and then tracking how much information is realised
+
+            -   and what this means for cognitive load (?)
+
+-   Chafe's "Idea"
+
+    -   consciousness and what we can focus on
+
+    -   ideas as something that has an activation cost
+
+    -   depending on discourse context, ideas might not have a heavy activation cost
+
+        -   "one new idea" constraint
+
+    -   linking intonation units to cognition/information flow
+
+-   Levelt
+
+    -   working memory
+    -   model of the mind
+    -   linking intonation units to processing
+
+-   not Bohnemeyer
+
+    -   still uses morphosyntax as diagnostic
+
+-   something about cultural context determining what an idea could be
+
+    -   metaphor stuff
+    -   but keep this section light
+
+-   interactional perspectives???
+
+    -   what is actually possible for us to probe
+
+# 3.4 Conclusion
+
+-   research question
+
+-   research paradigm
+
+-   annotation schemes
+
+-   let's contextualise this by looking at my case study (next chapter)
+
+# References
