@@ -23,13 +23,13 @@ Collecting linguistic data from face-to-face interactions is becoming ever easie
 
 ## Session 1: Pre-field
 
-{{< staticref "/slides/fieldwork/fieldwork-1-intro.html" "newtab" >}}Introduction to course{{< /staticref >}}
+{{< staticref "/slides/fieldwork/fieldwork-1-intro.html" "newtab" >}}Introduction to course{{< /staticref >}} <br>
 
-{{< staticref "/slides/fieldwork/fieldwork-2-fieldwork.html" "newtab" >}}What is fieldwork?{{< /staticref >}}
+{{< staticref "/slides/fieldwork/fieldwork-2-fieldwork.html" "newtab" >}}What is fieldwork?{{< /staticref >}} <br>
 
-{{< staticref "/slides/fieldwork/fieldwork-3-data.html" "newtab" >}}What data to collect?{{< /staticref >}}
+{{< staticref "/slides/fieldwork/fieldwork-3-data.html" "newtab" >}}What data to collect?{{< /staticref >}} <br>
 
-{{< staticref "/slides/fieldwork/fieldwork-4-dmp.html" "newtab" >}}Practical: Creating a data management plan{{< /staticref >}}
+{{< staticref "/slides/fieldwork/fieldwork-4-dmp.html" "newtab" >}}Practical: Creating a data management plan{{< /staticref >}} <br>
 
 {{< staticref "/slides/fieldwork/fieldwork-5-prep.html" "newtab" >}}Going to the field{{< /staticref >}}
 
