@@ -274,7 +274,7 @@ Nathan, David. 2010. Sound and unsound practices in documentary linguistics: tow
 
 ---
 
-<iframe width="80" height="600" src="https://www.youtube.com/watch?v=-XIv2ZYeh98" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="800" height="600" src="https://www.youtube.com/embed/-XIv2ZYeh98" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ???
 
