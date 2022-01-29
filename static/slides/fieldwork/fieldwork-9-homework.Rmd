@@ -1,0 +1,96 @@
+---
+title: "Introduction to Fieldwork: From elicitation to ELAN"
+subtitle: "Session 2: Introduction to homework"
+author: "Naomi Peck"
+institute: "University of Freiburg"
+date: "11/02/2022-12/02/2022 (updated: `r Sys.Date()`)"
+output:
+  xaringan::moon_reader:
+    seal: false
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+```{r, setup, include=FALSE}
+library(countdown)
+options(htmltools.dir.version = FALSE)
+```
+
+class: inverse, center, middle
+
+
+# Introduction to Fieldwork: From elicitation to ELAN <br>
+## Session 2: Introduction to homework &nbsp;
+
+## Naomi Peck &nbsp;
+
+### Albert-Ludwigs-Universität Freiburg <br> 2022-02-11 (updated: `r Sys.Date()`)
+&nbsp;
+
+<img src="freiburg-logo.png" height="125px"/>
+
+<!-- insert VJS logo too? figure this out -->
+
+---
+
+class: middle, center, inverse
+
+# Homework
+
+---
+
+# Homework
+
+For tomorrow's session, you will need an audio(visual) recording 3-5 minutes in length.
+
+This recording should be in a language which you are comfortable transcribing and analysing, such as German or English.
+
+I recommend you make a recording of a friend or family member, but you can also choose to record yourself.
+
+---
+
+# Homework
+
+You must
+
+1. plan your session
+
+1. ensure informed consent is collected, either in writing or orally
+
+1. record using an elicitation technique explored today
+
+1. get the recording onto your computer
+
+1. rename the file according to our DMP
+
+1. fill out our metadata sheet
+
+---
+
+# Homework
+
+If you wish to archive your recording and annotations, please use the informed consent form from my website. This will ensure that whoever you record understands what is entailed in the archiving of their data.
+
+The deadlines for inclusion in the archive are the following:
+
+1. Telling me that you wish to archive: <mark>13 February 2022</mark> (end of this week)
+
+1. Submission of primary data and metadata: <mark>28 February 2022</mark> (before Carnival)
+
+1. Submission of secondary data: <mark>24 April 2022</mark> (before start of SoSe)
+
+Please send me an email if you are interested and I will give you more details about what is required.
+
+---
+
+class: inverse, center, middle
+
+# Questions?
+
+---
+
+class: center, middle
+
+# End of Day 1
