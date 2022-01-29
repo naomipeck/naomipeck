@@ -1,7 +1,7 @@
 ---
 title: 'Introduction to Fieldwork'
 author: admin
-date: '2022-02-11'
+date: '2022-01-29'
 slug: fieldwork-workshop
 #categories: []
 #tags: []
@@ -21,10 +21,48 @@ Collecting linguistic data from face-to-face interactions is becoming ever easie
 
 # Slides
 
-## Session 1
+## Session 1: Pre-field
 
-## Session 2
+{{< staticref "/slides/fieldwork/fieldwork-1-intro.html" "newtab" >}}Introduction to course{{< /staticref >}}
 
-## Session 3
+{{< staticref "/slides/fieldwork/fieldwork-2-fieldwork.html" "newtab" >}}What is fieldwork?{{< /staticref >}}
 
-## Session 4
+{{< staticref "/slides/fieldwork/fieldwork-3-data.html" "newtab" >}}What data to collect?{{< /staticref >}}
+
+{{< staticref "/slides/fieldwork/fieldwork-4-dmp.html" "newtab" >}}Practical: Creating a data management plan{{< /staticref >}}
+
+{{< staticref "/slides/fieldwork/fieldwork-5-prep.html" "newtab" >}}Going to the field{{< /staticref >}}
+
+## Session 2: In the field
+
+What is elicitation?
+
+Planning a session
+
+Practical: Field practice
+
+Introduction to homework
+
+## Session 3: Post-field
+
+Analysing field data
+
+Introduction to ELAN
+
+Practical: Analysing your data in ELAN
+
+Archiving the data
+
+## Session 4: De-briefing
+
+What have you learned?
+
+Other things to keep in mind
+
+Final remarks
+
+# Additional Resources
+
+**Informed Consent Form:**
+
+**Archive:**
