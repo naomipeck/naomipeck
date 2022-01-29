@@ -11,9 +11,10 @@ blogdown::serve_site()
 blogdown::stop_server()
 
 #Create new post
-blogdown::new_post(title = "SEALS",
+blogdown::new_post(title = "Introduction to Fieldwork: From elicitation to ELAN",
                    ext = '.Rmarkdown',
-                   subdir = "publication")
+                   subdir = "project")
+
 
 # adjust settings 
 # make sure to restart R session for changes to take affect
