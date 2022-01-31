@@ -35,13 +35,13 @@ Collecting linguistic data from face-to-face interactions is becoming ever easie
 
 ## Session 2: In the field
 
-What is elicitation?
+{{< staticref "/slides/fieldwork/fieldwork-6-elicitation.html" "newtab" >}}What is elicitation?{{< /staticref >}} <br>
 
-Planning a session
+{{< staticref "/slides/fieldwork/fieldwork-7-planning.html" "newtab" >}}Planning a session{{< /staticref >}} <br>
 
-Practical: Field practice
+{{< staticref "/slides/fieldwork/fieldwork-8-practice.html" "newtab" >}}Practical: Field practice{{< /staticref >}} <br>
 
-Introduction to homework
+{{< staticref "/slides/fieldwork/fieldwork-9-homework.html" "newtab" >}}Introduction to homework{{< /staticref >}}
 
 ## Session 3: Post-field
 
@@ -63,6 +63,10 @@ Final remarks
 
 # Additional Resources
 
+## Workshop Resourcse
+
 **Informed Consent Form:**
 
-**Archive:**
+**Archive:** TBA
+
+## Elicitation Tools
