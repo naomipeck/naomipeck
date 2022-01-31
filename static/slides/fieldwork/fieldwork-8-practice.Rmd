@@ -51,19 +51,21 @@ Make sure you have a pen and paper with you, so you can practice taking notes.
 
 # The Plan
 
-In each group of three, you will run through three different elicitation exercises.
+In each group of four, you will run through four different elicitation exercises.
 
-For each exercise, you will play one of three roles:
+For each exercise, you will play one of the following roles:
 
 1. Interviewer
 
+1. Recorder
+
 1. Interviewee
 
-1. Recorder
+1. Bystander
 
 --
 
-Don't worry - you won't be recording! But it's good practice to get into the habit of what would happen during a 'live' session.
+Don't worry - you won't actually be recording! But it's good practice to get into the habit of what would happen during a 'live' session.
 
 ---
 
@@ -71,11 +73,9 @@ Don't worry - you won't be recording! But it's good practice to get into the hab
 
 You will be responsible for running the session. 
 
----
+Read the prompt given about the elicitation technique and how to introduce it to your interviewee.
 
-# The Interviewee
-
-You will be responsible for sharing your idiolect with your group!
+Depending on the task, you will have to carry out a few different tasks. In all cases, make sure to ask open questions and thank the interviewee afterwards.
 
 ---
 
@@ -89,24 +89,68 @@ At the start of a "recording", clap next to your microphone and detail the metad
 
 Monitor the session by making sure that the sound stays clear throughout, but let the interviewer take the reins. Keep an eye on the length of the session and let the interviewer know when to wrap up. Feel free to take notes during the "recording", noting down the timing of anything linguistically interesting.
 
-At the end of the session, briefly summarise the session. Make sure to thank the interviewee for their time!
+At the end of the session, briefly summarise the session. Make sure to thank the interviewee for their time.
+
+---
+
+# The Interviewee
+
+You will be responsible for sharing your idiolect with the bystander.
+
+Simply follow the instructions of the interviewer and the recorder and try not to analyse what you're doing in the task.
+
+---
+
+# The Bystander
+
+You are there to simply listen!
 
 ---
 
 # Some notes
 
-You are free to run your sessions in any language you wish, as long as you have a chance to try out all three roles and elicitation techniques.
+You are free to run your sessions with any language(s) you wish, as long as you have a chance to try out all the roles and elicitation techniques.
+
+If you already know the purpose of a given elicitation tool, try to avoid being the interviewee for that tool.
 
 ---
 
-# Further Sources
+# The Tasks
+
+The four tasks that you will be doing are:
+
+- Pear Story (Chafe 1980)
+
+- The TMA Questionnaire (Dahl 1985)
+
+- Jackal and the Crow (Carroll, Kelly and Gawne 2011)
+
+- Leipzig-Jakarta Wordlist (Haspelmath and Tadmor 2009)
+
+Instructions can be found in the relevant presentation [here](naomipeck.com/project/fieldwork-workshop/).
+
+Time to go to your breakout groups and discuss who will take which roles! You will have approximately 40 minutes to run through all three activities.
+
+???
+
+Chafe, Wallace (ed.). 1980. The Pear Stories: Cognitive, Cultural and Linguistic Aspects of Narrative Production. Norwood, NJ: Ablex.
+
+Dahl, Osten. 1985. The TMA Questionnaire. In *Tense and Aspect Systems*, 199-206. Oxford: Blackwell.
+
+Haspelmath, Martin and Uri Tadmor (eds.), 2009. *Loanwords in the World’s Languages: A Comparative Handbook*. Berlin and New York: Mouton de Gruyter.
 
 ---
 
 class: inverse, center, middle
 
-# Short Break 
+# Questions?
+
+---
+
+class: inverse, center, middle
+
+# Elicitation Time
 
 ```{r, label = "clock", echo = FALSE}
-countdown(minutes = 5, play_sound = TRUE, right = "34%", bottom = "20%")
+countdown(minutes = 40, right = "34%", bottom = "20%")
 ```

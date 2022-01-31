@@ -109,18 +109,47 @@ Word lists can be general, comparative, or domain-specific. Here are some exampl
 
 .pull-left[
 ### General
-Swadesh 200 (Swadesh 1971)
+Swadesh List (Swadesh 1955)
+
 Leipzig-Jakarta List (Haspelmath and Tadmor 2009)
 ]
 
 .pull-right[
 ### Area- or Family-specific
-STEDT (source)
+STEDT (SE/E Asia) (Matisoff 1989)
+
+SIL Comparative African wordlist (Snider and Roberts 2006)
+
+Wordlist for North American languages (Powell 1880)
+
+Wordlist for Australian languages (Sutton and Walsh 1979)
 ]
 
 ???
 
-sources
+Haspelmath, Martin and Uri Tadmor (eds.), 2009. *Loanwords in the World’s Languages: A Comparative Handbook*. Berlin and New York: Mouton de Gruyter.
+
+The list can be found here: http://udel.edu/~pcole/fieldmethods2010/The%20Leipzig-Jakarta%20Word%20List.pdf
+
+Matisoff, James, 1989. STEDT Animal Questionnaire
+
+Matisoff, James, 1989. STEDT Body Parts Questionnaire
+
+Matisoff, James, 1989. STEDT Kinship Terms and Terms referring to People Questionnaire
+
+Matisoff, James, 1989. STEDT Natural Objects Questionnaire
+
+Matisoff, James, 1989. STEDT Plants Questionnaire
+
+Powell, John Wesley. 1880. Chapter III: Schedules. in Introduction to the Study of Indian Languages. Washington: Government Printing Office. pp. 77-228
+
+Snider, Keith and Roberts, James (2004) SIL Comparative African Word List (SILCAWL). The Journal of West African Languages 31.2, 73-122.
+
+Snider, Keith and Roberts, James. 2006. SIL Comparative African wordlist (SILCAWL). SIL International, https://www.sil.org/resources/publications/entry/7882
+
+Sutton, Peter and Walsh, Michael. 1979. "AIAS wordlist for Australian languages". in Revised Linguistic Fieldwork manual for Australia. Canberra: Australian Institute of Aboriginal Studies. pp.37-53
+
+Swadesh, Morris, 1955, "Towards Greater Accuracy in Lexicostatistic Dating", in : International Journal of American Linguistics, Vol. 21, No. 2 (Apr., 1955), pp. 121-137
 
 ---
 
@@ -138,6 +167,10 @@ Sometimes you end up discovering words that you would have never thought of aski
 
 You do have to be careful, however, of any kind of transfer or priming. This technique works best for simple phenomena and does not work well if you are looking for more unusual or pragmatically marked phenomena.
 
+--
+
+You should not ask after analytical categories either - how many speakers know how many consonants are in the language they speak?!?
+
 ???
 
 Chelliah in Podesva and Sharma
@@ -148,59 +181,13 @@ Chelliah in Podesva and Sharma
 
 After you have collected a text, you can work with speakers/signers of a language to work on transcribing and translating a text.
 
-<!-- expand -->
+Play back a small section of a recorded text. Ask your consultant to pronounce it again slowly and transcribe it together. Ask for how they would translate it as whole, then ask after the meaning of single words. The consultant may offer extra information about the context or words within a text - these insights are often incredibly valuable.
 
----
-
-# Sociolinguistic Interview
-
-The sociolinguistic interview is a technique used to mitigate observer effects by posing the interviewer as an interested interlocutor or friend. 
-
-The recordings are overt but topics are general and interviewees are encouraged to talk as freely as possible. This results in relatively high quality conversational data.
-
-This technique works best in a monolingual format; consider enlisting the help or training a native speaker interviewer if needed in the field.
+If you are interested in how what you learn contrasts with what you've already encountered, you can use the text as stimuli for further elicitation of linguistic structure. 
 
 ???
 
-Massive thanks to Miriam Neuhausen for teaching me a lot about how sociolinguists conduct fieldwork! A lot of the material you see here is thanks to her; all misunderstandings are my own!
-
----
-
-# Conducting a Sociolinguistic Interview
-
-Begin with talking about social factors you need for your data analysis: "Where were you born?" "What year were you born in?"
-
---
-
-Think about what topics you may want information around. Structure your interview from more general impersonal questions and then move to more specific personal questions.
-
-Ask a few general questions: "Do you remember your first day at school?" "What was your favourite subject?"
-
-Move on to more personal questions: "Did something ever happen on the way to school?" "Did the teacher ever punish you for something you didn't do?"
-
---
-
-Finally, if you wish, you can ask language-related questions: "How did the children from X speak? How was it different to how you speak?"
-
-You can also administer a word list or reading exercise to elicit target forms.
-
-This portion of the interview reflects a more self-conscious style, as attention is drawn to the language of the interviewee.
-
-???
-
-Massive thanks to Miriam Neuhausen for teaching me a lot about how sociolinguists conduct fieldwork! A lot of the material you see here is thanks to her; all misunderstandings are my own!
-
----
-
-# Sociolinguistic Interview (Tagliamonte 2006:39)
-
-.center[
-![Labov's test of a good interview](tagliamonte2006-39.png)
-]
-
-???
-
-Tagliamonte, Sali A. 2006. Analysing Sociolinguistic Variation. Cambridge: Cambridge University.
+Chelliah, Shobhana L. 2001. The role of text collection and elicitation in linguistic fieldwork. In Paul Newman and Martha Ratliff (eds.), *Linguistic Fieldwork*, 152-165. Cambridge: Cambridge University Press.
 
 ---
 
@@ -274,9 +261,7 @@ Grammatical judgements do not give you information about the frequency of a cons
 
 ???
 
-source
-
-Comrie and Smith 1977
+Comrie Bernard, and Norval Smith. 1977. "Lingua descriptive studies: questionnaire". Lingua 42:1-72
 
 ---
 
@@ -284,13 +269,15 @@ Comrie and Smith 1977
 
 More naturalistic data can be collected if you ask a speaker to tell a story. This can be useful for finding structures you may not have otherwise found through questionnaire-based techniques, which can then be used for further testing.
 
+Certain stimuli are also used to elicit running text which is then comparable across languages. While less naturalistic, this data too has its place in fieldwork.
+
 ---
 
 # Genres of Narrative
 
-- Personal narratives: "Could you tell me about yourself?" "Tell me about a recent hunting trip."
+- Personal narratives: "Could you introduce yourself?" "Tell me about a recent hunting trip."
 
-- Historical narratives: "
+- Historical narratives: "Could you tell me about the history of your tribe?"
 
 - Folktales: "Do you know a story about the boogeyman?"
 
@@ -298,7 +285,7 @@ More naturalistic data can be collected if you ask a speaker to tell a story. Th
 
 ---
 
-# Stimuli Narratives
+# Stimuli (Narratives)
 
 - Pear Story (Chafe 1980)
 
@@ -306,9 +293,105 @@ More naturalistic data can be collected if you ask a speaker to tell a story. Th
 
 - North Wind and the Sun (source)
 
+- The Jackal and the Crow (Carroll, Kelly and Gawne 2011)
+
+- Family Problems (source)
+
+- Cut and Break (Bohnemeyer et al. 2001)
+
+- Put Project (Bowerman et al. 2004)
+
 ???
 
-source
+Bohnemeyer, J., Bowerman, M., & Brown, P. 2001. Cut and break clips. In S. C. Levinson, & N. J. Enfield (Eds.), Manual for the field season 2001, 90-96. Nijmegen: Max Planck Institute for Psycholinguistics. doi:10.17617/2.874626
+
+owerman, M., Gullberg, M., Majid, A., & Narasimhan, B. (2004). Put project: The cross-linguistic encoding of placement events. In A. Majid (Ed.), Field Manual Volume 9 (pp. 10-24). Nijmegen: Max Planck Institute for Psycholinguistics. doi:10.17617/2.492916.
+
+Chafe, Wallace (ed.). 1980. The Pear Stories: Cognitive, Cultural and Linguistic Aspects of Narrative Production. Norwood, NJ: Ablex. [Now available from Greenwood Press: Westport, CT.)
+
+Carroll, Alice, Barbara Kelly & Lauren Gawne. 2011. The jackal and crow picture task. Designed for use by the Social Cognition and Language Project. A collaboration of The Australian National University, Griffith University, University of Melbourne and the Max Planck Institute for Psycholinguistics.
+
+---
+
+# Sociolinguistic Interview
+
+The sociolinguistic interview is a technique used to mitigate observer effects by posing the interviewer as an interested interlocutor or friend. The aim is to elicit vernacular speech from the interviewee, rather than collect any information in particular.
+
+The recordings are overtly conducted but topics are general and interviewees are encouraged to talk as freely as possible. The topics should additionally be localised to the community context. This results in relatively high quality conversational data.
+
+This technique works best in a monolingual format; consider enlisting the help or training a native speaker interviewer if needed in the field.
+
+???
+
+Massive thanks to Miriam Neuhausen for teaching me a lot about how sociolinguists conduct fieldwork. A lot of the material you see here is thanks to her; all misunderstandings are my own!
+
+---
+
+# Conducting a Sociolinguistic Interview
+
+Begin with talking about social factors you need for your data analysis: "Where were you born?" "What year were you born in?"
+
+--
+
+Think about what topics you may want information around. Structure your interview from more general impersonal questions and then move to more specific personal questions.
+
+--
+
+For example: 
+
+"Did you have a chance to go to school?" "What was your favourite subject?"
+
+--
+
+"Did something ever happen on the way to school?" "Did the teacher ever punish you for something you didn't do?"
+
+--
+
+Finally, if you wish, you can ask language-related questions: "How did the children from X speak? How was it different to how you speak?"
+
+You can also administer a word list or reading exercise to elicit target forms. This portion of the interview reflects a more self-conscious style, as attention is drawn to the language of the interviewee.
+
+???
+
+Massive thanks to Miriam Neuhausen for teaching me a lot about how sociolinguists conduct fieldwork. A lot of the material you see here is thanks to her; all misunderstandings are my own!
+
+---
+
+# Sociolinguistic Interview (Tagliamonte 2006:39)
+
+.center[
+![Labov's test of a good interview](tagliamonte2006-39.png)
+]
+
+???
+
+Tagliamonte, Sali A. 2006. *Analysing Sociolinguistic Variation*. Cambridge: Cambridge University.
+
+---
+
+# Field Experiments
+
+It is possible to do more complicated experiments in the field (although I haven't tried it myself). Here is a short list of some of the potential experiments you may be able to do in the field (see Sources for references).
+
+.pull-left[
+### Phonetic
+- palatography
+- linguography
+- measuring air flow and pressure
+]
+
+.pull-right[
+### Cognitive
+- Eric's Maze Task
+- Hidden Colour-Chips Task: demonstratives, attention, and interaction
+]
+
+???
+
+Maddieson, Ian. 2001. In Paul Newman and Martha Ratliff (eds.), *Linguistic Fieldwork*, 211-229. Cambridge: Cambridge University Press.
+
+Eric's Maze Task: http://hdl.handle.net/21.11116/0000-0002-57B1-4
+Hidden Colour-Chips Task: http://hdl.handle.net/11858/00-001M-0000-0011-548E-E
 
 ---
 
@@ -402,6 +485,8 @@ Batteries are a part of every good fieldworker's toolkit.
 
 Deborah Cameron et al. 1992 Researching Language
 
+Chelliah in Newman and Ratliff
+
 Labov, William. 1972. *Sociolinguistic Patterns*. Philadelphia: University of Pennsylvania Press.
 
 Mansfield, J., & Stanford, J. N. (2017). Documenting Sociolinguistic Variation in Lesser-Studied Indigenous Communities: Challenges and Practical Solutions. *Language Documentation & Conservation Special Publication*, 13, 116–136.
@@ -414,7 +499,7 @@ Nathan, David. 2010. Sound and unsound practices in documentary linguistics: tow
 
 Podesva and Sharma
 
-Sakel and Everett
+Sakel, Jeanette, and Daniel L. Everett. 2012. *Linguistic fieldwork: A student guide*. Cambridge: Cambridge University Press.
 
 Schilling, Natalie. 2013. *Sociolinguistic Fieldwork*. Cambridge: Cambridge University Press.
 
@@ -425,6 +510,8 @@ Seyfeddinipur, Mandana and Felix Rau. 2020. Keeping it real: Video data in langu
 Sullivant, Ryan. 2020. Archival description for language documentation collections. *Language Documentation and Conservation* 14, 520-578.
 
 Tagliamonte, Sali A. 2006. Analysing Sociolinguistic Variation. Cambridge: Cambridge University.
+
+http://tulquest.huma-num.fr/
 
 ---
 

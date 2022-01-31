@@ -590,7 +590,7 @@ There are a number of archives which accept linguistic data around the world. Ma
 
 # Archives
 
-The archive that we will be depositing in for this workshop is Zenodo. As a group, choose an archive from the previous list, and answer the following questions:
+The archive that we will be depositing in for this workshop is Language Archive Cologne. As a group, collectively answer the following questions about LAC:
 
 1. Who has access to this digital repository?
 
@@ -605,6 +605,8 @@ The archive that we will be depositing in for this workshop is Zenodo. As a grou
 1. What levels of access to the data are possible?
 
 1. How does the speech community influence the archival process?
+
+1. What legal aspects should be considered?
 
 ```{r archive, echo = FALSE}
 countdown(minutes = 10)
@@ -651,6 +653,16 @@ class: middle
 ???
 
 Mattern, Eleanor. 2022. The linguistic data life cycle, sustainability of data, and principles of solid data management. In *The Open Handbook of Linguistic Data Management*, edited by Andrea L. Berez-Kroeker, Bradley McDonnell, Eve Koller, and Lauren B. Collister, 61-72. doi.org/10.7551/mitpress/12200.003.0009. Cambridge, MA: MIT Press Open.
+
+---
+
+class: center, middle, inverse
+
+# DMP Discussion
+
+???
+
+Don't worry if we don't get through everything - during the rest of the workshop today, I will be synthesising your notes and making the final DMP.
 
 ---
 
