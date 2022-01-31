@@ -41,83 +41,280 @@ class: center, middle, inverse
 
 ---
 
+<!-- refer to Gunter Senft's article to pull out a definition -->
+
+---
+
 # Observer's Paradox
 
-> #### ...the aim of linguistic research in the community must be to find out how people talk when they are not being systematically observed; yet we can only obtain these data by systematic observation. <br><br> (Labov 1972:209)
+> #### To obtain the data most important for linguistic theory, we have to observe how people speak when they are not being observed. <br><br> (Labov 1972:113)
 
 ???
 
-Labov, William. 1972. *Sociolinguistic Patterns*. Philadelphia: University of Pennsylvania Press.
+Labov, William. 1972. Some principles of linguistic methodology. *Language in Society* 1, 97-120.
 
 --
 
 To get around the observer's paradox, aim to ask questions which prompt unreserved reactions or engage your consultants in the data collection process, so they become collaborators rather than 'lab rats'.
 
----
-
-# Metadata
-
-Metadata is data about the data you are collecting which will not necessarily become an object of your research. <br><br>
-
 --
 
-This could include the age and gender of who has been recorded, the location where the recording was made, or the role of a participant.<br><br>
-
---
-
-This becomes very important in e.g. sociolinguistics, where demographic factors can become a relevant factor in explanation. And for those who are sociolinguists, this data is not metadata!<br><br>
-
---
-
-It is also very important in interactional disciplines, where people regularly take into account situational factors in their explanation of phenomena. Whether an audience is present or not could radically influence how somebody acts.
+Do not go out and just try to get people to say "fourth floor"!
 
 ---
 
-# Metadata
+# Discussion
 
-More typical examples of metadata include:
+We have only discussed ethics around the overall data collection process. What kind of ethical concerns should we be aware of when working directly with speakers?
 
-- Identifiers of texts 
-
-- Languages used
-
-- Format of a file
-
-- Description of a file
-
-- Date of creation of a file
-
-- Relations between files (i.e. video and audio belonging to the same recording session)
-
-- Size of a file in bytes
-
-- Equipment used to create a file (e.g. recording device)
-
----
-
-# Metadata (Himmelmann 2006:14)
-
-.center[
-```{r out.width="70%", out.height="70%", echo=FALSE, label="Table 1 Basic format of a language documentation (Himmelmann 2006:14)"}
-knitr::include_graphics("./himmelmann2012-14.png")
-```
-]
+<!-- insert clock -->
 
 ???
 
-Himmelmann, Nikolaus P. 2006. Language documentation: What is it and what is it good for? In Jost Gippert, Nikolaus P. Himmelmann and Ulrike Mosel (eds.), *Essentials in Language Documentation*, 1-30. Berlin: Mouton de Gruyter.
-
----
-
-class: middle
-
-# What kind of metadata should you collect for your research project?
+ethics of speakers may be different, power dynamics of researcher and consultants, different relationship to language than Westerners; respect between consultants and researcher is paramount; respect each others time; respect the effort given
 
 ---
 
 class: middle, center, inverse
 
-# Recording
+# Elicitation Techniques
+
+---
+
+# Translation: Word Lists
+
+Collecting word lists is one of the first thing any descriptive linguist does in the field. It helps us figure out what kind of sound system we're dealing with and basic syntactic information, while helping us compile a lexical database.
+
+It is very simple: you ask a consultant "how would you say/sign X in your language?"
+
+--
+
+**Bonus**: Be flexible! Let your consultant tell you related words. Perhaps you'll find out about something culturally important you can ask about later?
+
+---
+
+# Tips for Word Lists
+
+To get consistent phonetic data, you should also formulate some frame sentences. 
+
+The ideal frame sentence is one where the target word is utterance-medial and surrounded by voiceless stops. If you can't get voiceless stops, then get voiced stops. The next best thing would be a nasal or a low vowel.  If you are working with a tonal language, make sure to take this into account too.
+
+<!-- insert figure from elicitation in Himalayan language - Gawne or Hyslop?  -->
+
+---
+
+# Examples of Word Lists
+
+Word lists can be general, comparative, or domain-specific. Here are some examples you can refer to:
+
+.pull-left[
+### General
+Swadesh 200 (Swadesh 1971)
+Leipzig-Jakarta List (Haspelmath and Tadmor 2009)
+]
+
+.pull-right[
+### Area- or Family-specific
+STEDT (source)
+]
+
+???
+
+sources
+
+---
+
+# Translation: Linguistic Structure
+
+It is also possible to use the translation technique to get some initial insights into linguistic structures. This could involve testing phonotactics or grammatical structures.
+
+**Phonotactics**: "Is there a word like *snaf* in your language?"
+
+**Grammar**: "What would you say if there was more than one *snaf*?" "Could you say *snafs*?"
+
+Sometimes you end up discovering words that you would have never thought of asking for beforehand with this technique!
+
+--
+
+You do have to be careful, however, of any kind of transfer or priming. This technique works best for simple phenomena and does not work well if you are looking for more unusual or pragmatically marked phenomena.
+
+???
+
+Chelliah in Podesva and Sharma
+
+---
+
+# Translation: Text Translation
+
+After you have collected a text, you can work with speakers/signers of a language to work on transcribing and translating a text.
+
+<!-- expand -->
+
+---
+
+# Sociolinguistic Interview
+
+The sociolinguistic interview is a technique used to mitigate observer effects by posing the interviewer as an interested interlocutor or friend. 
+
+The recordings are overt but topics are general and interviewees are encouraged to talk as freely as possible. This results in relatively high quality conversational data.
+
+This technique works best in a monolingual format; consider enlisting the help or training a native speaker interviewer if needed in the field.
+
+???
+
+Massive thanks to Miriam Neuhausen for teaching me a lot about how sociolinguists conduct fieldwork! A lot of the material you see here is thanks to her; all misunderstandings are my own!
+
+---
+
+# Conducting a Sociolinguistic Interview
+
+Begin with talking about social factors you need for your data analysis: "Where were you born?" "What year were you born in?"
+
+--
+
+Think about what topics you may want information around. Structure your interview from more general impersonal questions and then move to more specific personal questions.
+
+Ask a few general questions: "Do you remember your first day at school?" "What was your favourite subject?"
+
+Move on to more personal questions: "Did something ever happen on the way to school?" "Did the teacher ever punish you for something you didn't do?"
+
+--
+
+Finally, if you wish, you can ask language-related questions: "How did the children from X speak? How was it different to how you speak?"
+
+You can also administer a word list or reading exercise to elicit target forms.
+
+This portion of the interview reflects a more self-conscious style, as attention is drawn to the language of the interviewee.
+
+???
+
+Massive thanks to Miriam Neuhausen for teaching me a lot about how sociolinguists conduct fieldwork! A lot of the material you see here is thanks to her; all misunderstandings are my own!
+
+---
+
+# Sociolinguistic Interview (Tagliamonte 2006:39)
+
+.center[
+![Labov's test of a good interview](tagliamonte2006-39.png)
+]
+
+???
+
+Tagliamonte, Sali A. 2006. Analysing Sociolinguistic Variation. Cambridge: Cambridge University.
+
+---
+
+# Grammatical Judgements
+
+These are perhaps better termed *acceptability* judgements, as any judgement necessarily involves pragmatic acceptability.
+
+--
+
+This type of data is similar to introspection, in that it is highly dependent on a speaker's opinion. That said, it is incredibly valuable in collecting *negative* data, i.e. what *cannot* be said. You should simply be  careful in the interpretation of the data.
+
+---
+
+# Collecting Grammatical Judgements
+
+Start with a hypothesis about a given language structure: "is there a structural difference between pronominal *what* and adjectival *which*?"
+
+Construct multiple sentences to test this hypothesis:
+
+1. "What did you claim that John bought?" "Which book did you claim that John bought?"
+
+1. "What did you make the claim that John bought?" "Which book did you make the claim that John bought?"
+
+Ask your consultant which feels more natural to say.
+
+See if you can substitute words in the sentences and for them to still be grammatical/acceptable.
+
+--
+
+**Bonus**: Ask your consultant about other ways they could say the same thing. 
+
+--
+
+**Bonus**: Ask if a different phrasing means something different or would be used in a different context.
+
+???
+
+Schütze, Carson T. (1996) 2016. *The Empirical Base of Linguistics: Grammaticality Judgments and Linguistic Methodology*. Berlin: Language Science Press.
+
+Schütze and Sprouse, Chelliah in Podesva and Sharma
+
+---
+
+# Grammatical Judgements
+
+Here are some suggestions of things you could elicit or test using this technique:
+
+- grammatical paradigms
+
+- scope of operators
+
+- tense and aspect
+
+- ...
+
+???
+
+Chelliah in Podesva and Sharma
+
+---
+
+# Tips for Grammatical Judgements
+
+Be very careful about how you elicit this data - asking for multiple grammatical judgements in a row often leads to confusion or fatigue. This can result in a consultant trying to give you the answer you want in an effort to finish as quickly as possible!
+
+Beware of syntactic priming! It is best to try and get this data multiple times from the same person or different people to try and mitigate effects the fieldworker may have had on the data.
+
+If doing language description, there are a lot of typological questionnaires out there which can give you advice on which grammatical features to try to elicit. A classic is Comrie and Smith 1977.
+
+Grammatical judgements do not give you information about the frequency of a construction or when the construction would be acceptable. Consider complementing this data with corpus work.
+
+???
+
+source
+
+Comrie and Smith 1977
+
+---
+
+# Text Elicitation
+
+More naturalistic data can be collected if you ask a speaker to tell a story. This can be useful for finding structures you may not have otherwise found through questionnaire-based techniques, which can then be used for further testing.
+
+---
+
+# Genres of Narrative
+
+- Personal narratives: "Could you tell me about yourself?" "Tell me about a recent hunting trip."
+
+- Historical narratives: "
+
+- Folktales: "Do you know a story about the boogeyman?"
+
+- Procedural texts: "Can you tell me how to weave a basket?"
+
+---
+
+# Stimuli Narratives
+
+- Pear Story (Chafe 1980)
+
+- Frog Story (source)
+
+- North Wind and the Sun (source)
+
+???
+
+source
+
+---
+
+class: middle, center, inverse
+
+# Recording the Data
 
 ---
 
@@ -143,8 +340,6 @@ Sound Speeds. 2017. "Signal to Noise Ratio - Sound Speeds" [YouTube video]. http
 
 1. Record for your future self listening back to the track, not for the you now!
 
-1. Achieve the best signal (what you want to be heard) to noise (what you don't want to be heard) ratio as possible.
-
 1. Turn off electrical equipment in the area which contributes to underlying noise.
 
 1. Record in areas without wind and use a windscreen (sometimes called a "dead cat"!).
@@ -155,11 +350,13 @@ Sound Speeds. 2017. "Signal to Noise Ratio - Sound Speeds" [YouTube video]. http
 
 1. Monitor the recording through a pair of headphones throughout the recording or have a separate person fulfil this role.
 
+1. Find better times to record if it is too noisy.
+
 ---
 
 # Tips for better recordings
 
-1. Find better times to record if it is too noisy.
+1. Make sure your microphone is steady and will not move around. Consider using a tripod or mount if needed.
 
 1. Use an external microphone: these provide much better quality audio than in-built microphones. 
 
@@ -169,27 +366,55 @@ Sound Speeds. 2017. "Signal to Noise Ratio - Sound Speeds" [YouTube video]. http
 
 1. Adjust your microphone placement properly so that any unidirectional microphones are pointed (roughly) at the bottom lip of a speaker. This should avoid capturing pops created by plosives.
 
-1. Aim to keep audio recording gain at maximum -3~-6dB. A steady level of -12dB works well in my experience.
+1. Aim to keep audio recording gain at maximum -3~-6dB. Clipping occurs at 0dB.
+
+---
+
+# Best recording practice
+
+- Test your sound levels before starting and adjust them as needed.
+
+- Always doublecheck you are recording before you start.
+
+- Make a sharp, loud noise (e.g. a clap) in front of the microphone to indicate the start of a recording. This is incredibly helpful for syncing multiple audiovisual streams.
+
+- Briefly list relevant metadata at the start of the recording (e.g., purpose of recording, who is recording, who will be speaking/signing, date of recording, location).
+
+- Continue monitoring your sound quality throughout the recording.
+
+- Prompt your speaker/signer, but do not interrupt them. You want to collect their data, not yours!
+
+- Briefly summarise your session or get your speaker to do so before ending your recording.
+
+- Fill out your metadata and backup and rename your files as soon as possible after sessions.
+
+---
+
+class: middle, center
+
+# Always have spare batteries for your recorder! 
+
+Batteries are a part of every good fieldworker's toolkit.
 
 ---
 
 # Further Sources
 
-Good, Jeff. 2022. The scope of linguistic data. In *The Open Handbook of Linguistic Data Management*, edited by Andrea L. Berez-Kroeker, Bradley McDonnell, Eve Koller, and Lauren B. Collister, 27-48. doi.org/10.7551/mitpress/12200.003.0007. Cambridge, MA: MIT Press Open.
-
-Himmelmann, Nikolaus P. 1998. Documentary and descriptive linguistics. *Linguistics* 36:161–195.
-
-Himmelmann, Nikolaus P. 2006. Language documentation: What is it and what is it good for? In Jost Gippert, Nikolaus P. Himmelmann and Ulrike Mosel (eds.), *Essentials in Language Documentation*, 1-30. Berlin: Mouton de Gruyter.
-
-Himmelmann, Nikolaus P. 2012. Linguistic data types and the interface between language documentation and description. *Language Documentation and Conservation* 6:187–207.
+Deborah Cameron et al. 1992 Researching Language
 
 Labov, William. 1972. *Sociolinguistic Patterns*. Philadelphia: University of Pennsylvania Press.
+
+Mansfield, J., & Stanford, J. N. (2017). Documenting Sociolinguistic Variation in Lesser-Studied Indigenous Communities: Challenges and Practical Solutions. *Language Documentation & Conservation Special Publication*, 13, 116–136.
 
 Nathan, David. 2010. Sound and unsound practices in documentary linguistics: towards an epistemology for audio. In Peter K. Austin (ed.) *Language Documentation and Description, vol 7*, 262-284. London: SOAS.
 
 ---
 
 # Further Sources
+
+Podesva and Sharma
+
+Sakel and Everett
 
 Schilling, Natalie. 2013. *Sociolinguistic Fieldwork*. Cambridge: Cambridge University Press.
 
@@ -198,6 +423,8 @@ Schütze, Carson T. (1996) 2016. *The Empirical Base of Linguistics: Grammatical
 Seyfeddinipur, Mandana and Felix Rau. 2020. Keeping it real: Video data in language documentation and language archiving. *Language Documentation and Conservation* 14, 503-519.
 
 Sullivant, Ryan. 2020. Archival description for language documentation collections. *Language Documentation and Conservation* 14, 520-578.
+
+Tagliamonte, Sali A. 2006. Analysing Sociolinguistic Variation. Cambridge: Cambridge University.
 
 ---
 

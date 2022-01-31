@@ -222,12 +222,6 @@ class: middle
 
 ---
 
-class: center, middle, inverse
-
-# Data Collection
-
----
-
 # Data Collection
 
 It is important that whatever data we collect in the field is usable for further analyses.

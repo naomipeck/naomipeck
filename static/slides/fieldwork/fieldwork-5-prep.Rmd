@@ -35,6 +35,16 @@ library(countdown)
 
 ---
 
+class: center, middle, inverse
+
+# Content Warning
+
+This session deals with some heavy topics later around difficulties in going to the field. These issues are very real and you should be aware of them before deciding to conduct fieldwork.
+
+That said, if you need to give this session a miss for whatever reason, it is more than okay. Come back later to join us for elicitation!
+
+---
+
 class: center, middle
 
 # What do I need to have before going to the field?

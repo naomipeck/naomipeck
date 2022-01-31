@@ -37,38 +37,69 @@ class: inverse, center, middle
 
 class: middle, center
 
-Elicitation time!
+#Elicitation time!
 
 ---
 
+# Practicing Elicitation
+
+We are now going to test out some of the techniques we explored in the last section in small groups.
+
+Make sure you have a pen and paper with you, so you can practice taking notes.
+
+---
+
+# The Plan
+
+In each group of three, you will run through three different elicitation exercises.
+
+For each exercise, you will play one of three roles:
+
+1. Interviewer
+
+1. Interviewee
+
+1. Recorder
+
+--
+
+Don't worry - you won't be recording! But it's good practice to get into the habit of what would happen during a 'live' session.
+
+---
+
+# The Interviewer
+
+You will be responsible for running the session. 
+
+---
+
+# The Interviewee
+
+You will be responsible for sharing your idiolect with your group!
+
+---
+
+# The Recorder
+
+You will be responsible for "setting up" and monitoring the session.
+
+To "set up" the recording, test that everyone has good gain levels and is seated comfortably.
+
+At the start of a "recording", clap next to your microphone and detail the metadata for the session.
+
+Monitor the session by making sure that the sound stays clear throughout, but let the interviewer take the reins. Keep an eye on the length of the session and let the interviewer know when to wrap up. Feel free to take notes during the "recording", noting down the timing of anything linguistically interesting.
+
+At the end of the session, briefly summarise the session. Make sure to thank the interviewee for their time!
+
+---
+
+# Some notes
+
+You are free to run your sessions in any language you wish, as long as you have a chance to try out all three roles and elicitation techniques.
 
 ---
 
 # Further Sources
-
-Good, Jeff. 2022. The scope of linguistic data. In *The Open Handbook of Linguistic Data Management*, edited by Andrea L. Berez-Kroeker, Bradley McDonnell, Eve Koller, and Lauren B. Collister, 27-48. doi.org/10.7551/mitpress/12200.003.0007. Cambridge, MA: MIT Press Open.
-
-Himmelmann, Nikolaus P. 1998. Documentary and descriptive linguistics. *Linguistics* 36:161–195.
-
-Himmelmann, Nikolaus P. 2006. Language documentation: What is it and what is it good for? In Jost Gippert, Nikolaus P. Himmelmann and Ulrike Mosel (eds.), *Essentials in Language Documentation*, 1-30. Berlin: Mouton de Gruyter.
-
-Himmelmann, Nikolaus P. 2012. Linguistic data types and the interface between language documentation and description. *Language Documentation and Conservation* 6:187–207.
-
-Labov, William. 1972. *Sociolinguistic Patterns*. Philadelphia: University of Pennsylvania Press.
-
-Nathan, David. 2010. Sound and unsound practices in documentary linguistics: towards an epistemology for audio. In Peter K. Austin (ed.) *Language Documentation and Description, vol 7*, 262-284. London: SOAS.
-
----
-
-# Further Sources
-
-Schilling, Natalie. 2013. *Sociolinguistic Fieldwork*. Cambridge: Cambridge University Press.
-
-Schütze, Carson T. (1996) 2016. *The Empirical Base of Linguistics: Grammaticality Judgments and Linguistic Methodology*. Berlin: Language Science Press.
-
-Seyfeddinipur, Mandana and Felix Rau. 2020. Keeping it real: Video data in language documentation and language archiving. *Language Documentation and Conservation* 14, 503-519.
-
-Sullivant, Ryan. 2020. Archival description for language documentation collections. *Language Documentation and Conservation* 14, 520-578.
 
 ---
 

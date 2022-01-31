@@ -37,38 +37,95 @@ class: inverse, center, middle
 
 class: middle, inverse
 
-Before we conduct any elicitation sessions, we should first make a plan.
+# Before we conduct any elicitation sessions, we should first make a plan.
 
 ---
 
+class: center, middle
+
+> ####*Think hard first, record later.*<br>-- Peter Ladefoged<br><br>(Sakel and Everett 2012:113)
+
+???
+
+source
+
+---
+
+# Planning a Session
+
+Having a plan of what to do before working with your consultants is invaluable. It helps you think through what data you need to test and collect, making the time you spend together more worthwhile.
+
+Plans can also help you if you do not have any idea of what to do. Having a few 'back-up' sessions planned, e.g., collecting word lists or topics for an interview, means that you always have something to fall back upon if you do not have any other hypotheses to test.
+
+--
+
+Fieldwork requires us to be flexible. It doesn't mean that we can't be prepared.
+
+---
+
+# Template for Descriptive Fieldwork
+
+.pull-left[
+Kristian Roncero has published a [pretty nice template](https://zenodo.org/record/3835660#.YfaF8v7MKUk) for fieldwork sessions involving language documentation and description.
+
+The template is split into three different sections and should be filled out digitally. The first section (pictured) involves planning your session.
+
+Session 2 involves some self-reflection as a researcher as well as notes which could be relevant for metadata/documentation purposes. Section 3 requires you to process the notes which accompany your session.
+]
+
+.pull-right[
+```{r echo=FALSE, label="fieldwork planner", fig.alt="Fieldwork session planner (Roncero 2017)", out.extra='class="border shadowed"'}
+knitr::include_graphics("./planner.png")
+```
+]
+
+???
+
+Kristian Roncero. (2017). Fieldwork session planner (Version 2). Zenodo. https://doi.org/10.5281/zenodo.3835660
+
+The use of Kristian's template is licensed under [CC-BY](https://creativecommons.org/licenses/by/4.0/legalcode).
+
+Kristian also wrote a blog (https://elararchive.org/blog/2020/07/17/fieldwork-session-planner/) explaining some of his thinking behind his template. I highly recommend taking a look!
+
+---
+
+# Planning a Sociolinguistic Interview
+
+- localise your questions to the context
+
+- avoid judgements and value-laden wording
+
+- avoid closed questions (yes/no)
+
+- avoid leading questions
+
+- topics intimately involving speakers are best, e.g. family stories, childhood memories, personal narratives
+
+???
+
+Massive thanks to Miriam Neuhausen for teaching me a lot about how sociolinguists conduct fieldwork! A lot of the material you see here is thanks to her; all misunderstandings are my own!
+
+---
+
+# Homework
+
+When you make your recording, why not try out following one of these ideas to plan your recording session?
+
+Regardless of whether you use a template or not, you should have a clear idea of what you want to record before starting.
+
+---
+
+# During the Session
+
+You should always take notes during your sessions! 
+
+It is best to do this with pen and paper to avoid capturing the noise of typing during a recording.
 
 ---
 
 # Further Sources
 
-Good, Jeff. 2022. The scope of linguistic data. In *The Open Handbook of Linguistic Data Management*, edited by Andrea L. Berez-Kroeker, Bradley McDonnell, Eve Koller, and Lauren B. Collister, 27-48. doi.org/10.7551/mitpress/12200.003.0007. Cambridge, MA: MIT Press Open.
-
-Himmelmann, Nikolaus P. 1998. Documentary and descriptive linguistics. *Linguistics* 36:161–195.
-
-Himmelmann, Nikolaus P. 2006. Language documentation: What is it and what is it good for? In Jost Gippert, Nikolaus P. Himmelmann and Ulrike Mosel (eds.), *Essentials in Language Documentation*, 1-30. Berlin: Mouton de Gruyter.
-
-Himmelmann, Nikolaus P. 2012. Linguistic data types and the interface between language documentation and description. *Language Documentation and Conservation* 6:187–207.
-
-Labov, William. 1972. *Sociolinguistic Patterns*. Philadelphia: University of Pennsylvania Press.
-
-Nathan, David. 2010. Sound and unsound practices in documentary linguistics: towards an epistemology for audio. In Peter K. Austin (ed.) *Language Documentation and Description, vol 7*, 262-284. London: SOAS.
-
----
-
-# Further Sources
-
-Schilling, Natalie. 2013. *Sociolinguistic Fieldwork*. Cambridge: Cambridge University Press.
-
-Schütze, Carson T. (1996) 2016. *The Empirical Base of Linguistics: Grammaticality Judgments and Linguistic Methodology*. Berlin: Language Science Press.
-
-Seyfeddinipur, Mandana and Felix Rau. 2020. Keeping it real: Video data in language documentation and language archiving. *Language Documentation and Conservation* 14, 503-519.
-
-Sullivant, Ryan. 2020. Archival description for language documentation collections. *Language Documentation and Conservation* 14, 520-578.
+Sakel and Everett 2012
 
 ---
 

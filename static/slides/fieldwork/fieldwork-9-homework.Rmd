@@ -43,7 +43,7 @@ class: middle, center, inverse
 
 # Homework
 
-For tomorrow's session, you will need an audio(visual) recording 3-5 minutes in length.
+For tomorrow's session, you will need an audio(visual) recording 3-5 minutes in length. You are more than welcome to record something longer, but you will likely not be able to finish its annotation tomorrow.
 
 This recording should be in a language which you are comfortable transcribing and analysing, such as German or English.
 
@@ -56,6 +56,8 @@ I recommend you make a recording of a friend or family member, but you can also 
 You must
 
 1. plan your session
+
+1. test out your recording set-up
 
 1. ensure informed consent is collected, either in writing or orally
 
