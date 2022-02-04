@@ -70,3 +70,5 @@ Final remarks
 **Archive:** TBA
 
 ## Elicitation Tools
+
+{{< staticref "/slides/fieldwork/fieldwork-stimuli.html" "newtab" >}}Field Stimuli{{< /staticref >}}
