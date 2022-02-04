@@ -188,7 +188,7 @@ You will also have the option to further:
 
 ---
 
-#Outcomes
+class: middle
 
 ###After this workshop, you should have an understanding of how to work with consultants to responsibly collect, process, analyse, and disseminate data. <br><br><br><br>
 

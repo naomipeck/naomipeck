@@ -38,344 +38,60 @@ class: inverse, center, middle
 # Table of Contents
 
 .pull-left[
-#### Pear Story
+##[A](#partner-a)
 
-Interviewer
+#### Leipzig-Jakarta Word List: Interviewer
 
-Recorder
+#### The TMA Questionnaire: Interviewee
 
-Interviewee
+#### Jackal and the Crow: Interviewer
 
-Bystander
-
-#### The TMA Questionnaire
-
-Interviewer
-
-Recorder
-
-Interviewee
-
-Bystander
+#### Pear Story: Interviewee
 ]
 
 .pull-right[
-#### Jackal and the Crow
+## [B](#partner-b)
 
-Interviewer
+#### Leipzig-Jakarta Word List: Interviewee
 
-Recorder
+#### The TMA Questionnaire: Interviewer
 
-Interviewee
+#### Jackal and the Crow: Interviewee
 
-Bystander
-
-#### Leipzig-Jakarta Word List
-
-Interviewer
-
-Recorder
-
-Interviewee
-
-Bystander
+#### Pear Story: Interviewer
 ]
 
-### Finished early?
+&nbsp;
+
+.center[
+### [Finished early?](#finished)
+]
 
 ---
 
-# Pear Story (Chafe 1980)
+class: inverse, center, middle
+name: partner-a
 
-Interviewer
-
-Recorder
-
-Interviewee
-
-Bystander
-
-???
-
-Wallace Chafe, ed. 1980. The Pear Stories: Cognitive, Cultural and Linguistic Aspects of Narrative Production. Norwood, NJ: Ablex. [Now available from Greenwood Press: Westport, CT.)
+# A
 
 ---
 
-# Interviewer (1/2)
+# Leipzig-Jakarta Wordlist <br>(Haspelmath and Tadmor 2009)
 
-### Background Information
+You will be eliciting 50 words from your interviewee. They should say the word at least once in isolation, and once in a frame sentence. If you are using English as the contact language and German as the target language, you can use the frame sentence: *Ich habe ________ gesagt.*
 
-A six-minute film that was produced at the University of California at Berkeley in 1975 and shown to speakers of a number of languages, who were asked to tell what happened in it. In the meantime it has been used in a variety of other studies across other languages. The goal has been to present cinematically a series of more or less natural events to multiple viewers, who are then asked to verbalize what they remember.
+Check that you are both able to be heard clearly. You may now "start" the "recording" by clapping and saying the basic metadata. Explain to your interviewee the basic format of the activity. The words to be elicited are on the next slide.
 
-We will be doing a twist on this today, where we look at on-line processing.
+Suggested wording for instructions:
+*"I am now going to ask you about how to say some words in your language."*
 
-???
+The task should take no more than 10 minutes. Feel free to take notes during the "recording". At the end of the task, briefly summarise what happened (10 seconds or less) and thank the interviewee for their time.
 
-Description from: https://www.linguistics.ucsb.edu/research/pear-film
-
----
-
-# Interviewer (2/2)
-
-### Set-up
-
-You will explain to the participant that they are going to watch a video. The participant should narrate the video out loud while they watch it in a language they are comfortable in.
-
-Wordings for suggested instructions are as follows:
-
-*‘I am about to show you a video that tells a story. I want you to tell me what's happening as you see it in the video.'*
-
-When you are ready, move to the next slide and share your screen. The recorder will "start" the recording and you can begin.
-
----
-
-class: center, middle
-
-<iframe width="800" height="600" src="https://www.youtube.com/embed/hcD-LWRMIwY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
----
-
-# Recorder (1/2)
-
-### Background Information
-
-A six-minute film that was produced at the University of California at Berkeley in 1975 and shown to speakers of a number of languages, who were asked to tell what happened in it. In the meantime it has been used in a variety of other studies across other languages. The goal has been to present cinematically a series of more or less natural events to multiple viewers, who are then asked to verbalize what they remember.
-
-We will be doing a twist on this today, where we look at on-line processing.
-
-???
-
-Description from: https://www.linguistics.ucsb.edu/research/pear-film
-
----
-
-# Recorder (2/2)
-
-### Set-up
-
-If the interviewer is still reading when you reach this slide, please check the microphone level of the interviewee.
-
-When the interviewer has understood the task, they will share their screen with the breakout room. At this point, if you have not done so, please check levels. 
-
-You may now "start" the "recording" by clapping and saying the basic metadata. At no point you should give information into the background of the task. The interviewer will take over from there.
-
-The task should take approximately 10 minutes. Feel free to take notes during the "recording". At the end of the task, briefly summarise what happened (10 seconds or less) and thank the interviewee for their time.
-
----
-
-# Interviewee (1/1)
-
-The interviewer and recorder are reading a brief introduction to the task.
-
-Your "recording" will begin when the interviewer shares their screen and the recorder "starts" the "recording".
-
-Hang tight!
-
----
-
-# Bystander (1/1)
-
-You can just chill! Take notes if you would like.
-
----
-
-# The TMA Questionnaire (Dahl 1985)
-
-Interviewer
-
-Recorder
-
-Interviewee
-
-Bystander
-
-???
-
-Dahl, Osten. 1985. The TMA Questionnaire. In *Tense and Aspect Systems*, 199-206. Oxford: Blackwell.
-
----
-
-# Interviewer (1/2)
-
-This questionnaire provides 164 English sentences to translate in the studied language in order to elicit its TAM system (tenses, aspects and moods).
-
----
-
-# Interviewer (2/2)
-
-
-
----
-
-TMA 37-52
-
-<!-- insert screenshot -->
-
----
-
-# Recorder (1/2)
-
-### Background Information (taken from official instructions)
-
-This questionnaire provides 164 English sentences to translate in the studied language in order to elicit its TAM system (tenses, aspects and moods).
-
----
-
-# Recorder (2/2)
-
-If the interviewer is still reading when you reach this slide, please check the microphone level of the interviewee.
-
-When the interviewer has understood the task, they will ask you to start recording. At this point, if you have not done so, please check levels. 
-
-You may now "start" the "recording" by clapping and saying the basic metadata. At no point you should give information into the background of the task. The interviewer will take over from there.
-
-The task should take approximately 10 minutes. Feel free to take notes during the "recording". At the end of the task, briefly summarise what happened (10 seconds or less) and thank the interviewee for their time.
-
----
-
-# Interviewee (1/1)
-
-The interviewer and recorder are reading a brief introduction to the task.
-
-Your "recording" will begin when the interviewer shares their screen and the recorder "starts" the "recording".
-
-Hang tight!
-
----
-
-# Bystander (1/1)
-
-You can just chill! Take notes if you would like.
-
----
-
-# Jackal and the Crow (Carroll, Kelly, and Gawne 2011)
-
-Interviewer
-
-Recorder
-
-Interviewee
-
-Bystander
-
-???
-
-Carroll, Alice, Barbara Kelly & Lauren Gawne. 2011. The jackal and crow picture task. Designed for use by the Social Cognition and Language Project. A collaboration of The Australian National University, Griffith University, University of Melbourne and the Max Planck Institute for Psycholinguistics.
-
----
-
-# Interviewer (1/2)
-
-### Background Information (taken from official instructions)
-
-The task consists of 9 images telling the story of the jackal and the crow. 
-
-The points of interest for social cognition are where the protagonists are motivated by their own thoughts and the suggestions and actions of others to do things, or feel things.
-
----
-
-# Interviewer (2/2)
-
-### Instructions
-
-Basic Set-up (Set-up A)
-
-It is explained to the participant that they are going to tell a story using the picture cards. The cards are given to the participant one at a time. If the participant has been unsure of the story until the end you may wish to ask them to retell it when they have all the cards.
-
-Wordings for suggested instructions are as follows:
-
-1. Individual card descriptions
-*‘I have some pictures here that tell a story. I’m going to show you the pictures, one at a time, and I want you to tell me the story.'*
-
-2. Retelling, if necessary
-*‘Now we've seen all the pictures I would like you to tell me the whole story together.’*
-
-When you are ready, move to the next slide and share your screen. The recorder will "start" the recording and you can begin.
-
----
-
-<!-- insert images in here -->
-
----
-
-# Recorder (1/2)
-
-### Background Information (taken from official instructions)
-
-The task consists of 9 images telling the story of the jackal and the crow.
-
-The points of interest for social cognition are where the protagonists are motivated by their own thoughts and the suggestions and actions of others to do things, or feel things.
-
----
-
-# Recorder (2/2)
-
-If the interviewer is still reading when you reach this slide, please check the microphone level of the interviewee.
-
-When the interviewer has understood the task, they will share their screen with the breakout room. At this point, if you have not done so, please check levels. 
-
-You may now "start" the "recording" by clapping and saying the basic metadata. At no point you should give information into the background of the task. The interviewer will take over from there.
-
-The task should take approximately 10 minutes. Feel free to take notes during the "recording". At the end of the task, briefly summarise what happened (10 seconds or less) and thank the interviewee for their time.
-
----
-
-# Interviewee (1/1)
-
-The interviewer and recorder are reading a brief introduction to the task.
-
-Your "recording" will begin when the interviewer shares their screen and the recorder "starts" the "recording".
-
-Hang tight!
-
----
-
-# Bystander (1/1)
-
-You can just chill! Take notes if you would like.
-
----
-
-# Leipzig-Jakarta Wordlist (Haspelmath and Tadmor 2009)
-
-Interviewer
-
-Recorder
-
-Interviewee
-
-Bystander
+Move to the next slide to see the words you need to elicit.
 
 ???
 
 Haspelmath, Martin and Uri Tadmor (eds.), 2009. *Loanwords in the World’s Languages: A Comparative Handbook*. Berlin and New York: Mouton de Gruyter.
-
----
-
-# Interviewer (1/2)
-
-### Background Information (taken from official instructions)
-
-
----
-
-# Interviewer (2/2)
-
-### Instructions
-
-You will be eliciting 50 words from your interviewee. 
-
-Before starting, explain to your interviewee the format of the activity.
-
-Ask them how they would say each word in their mother tongue (feel free to use gestures to help).
-
-Get the interviewee to repeat each word once in isolation, then once in a frame sentence.
-
-If you are using English as the contact language and German as the target language, you can use the frame sentence:
-*Ich habe ___ gesagt.*
-
-When you are ready, ask the recorder to "start recording". Move to the next slide to see the words you need to elicit.
 
 ---
 
@@ -437,41 +153,234 @@ When you are ready, ask the recorder to "start recording". Move to the next slid
 
 ---
 
-# Recorder (1/2)
+class: middle, center
 
-### Background Information (taken from official instructions)
-
-
----
-
-# Recorder (2/2)
-
-If the interviewer is still reading when you reach this slide, please check the microphone level of the interviewee.
-
-When the interviewer has understood the task, they will ask you to start recording. At this point, if you have not done so, please check levels. 
-
-You may now "start" the "recording" by clapping and saying the basic metadata. At no point you should give information into the background of the task. The interviewer will take over from there.
-
-The task should take approximately 10 minutes. Feel free to take notes during the "recording". At the end of the task, briefly summarise what happened (10 seconds or less) and thank the interviewee for their time.
+# The TMA Questionnaire
 
 ---
 
-# Interviewee (1/1)
+## Jackal and the Crow (Carroll, Kelly, and Gawne 2011)
 
-The interviewer and recorder are reading a brief introduction to the task.
+The task consists of 9 images. The participant will tell a story based on the picture cards, which you will show one at a time. 
 
-Your "recording" will begin when the recorder "starts" the "recording".
+Suggested wording for instructions:
 
-Hang tight!
+1. Individual card descriptions
+*‘I have some pictures here that tell a story. I’m going to show you the pictures, one at a time, and I want you to tell me the story.'*
+
+2. Retelling, if necessary
+*‘Now we've seen all the pictures I would like you to tell me the whole story together.’*
+
+When you are ready, move to the next slide and share your screen. Check that you are both able to be heard clearly. You may now "start" the "recording" by clapping and saying the basic metadata. Explain the task to the participant and move through the slides one at a time. If the participant has been unsure of the story until the end you may wish to ask them to retell it afterwards.
+
+The task should take no more than 10 minutes. Feel free to take notes during the "recording". At the end of the task, briefly summarise what happened (10 seconds or less) and thank the interviewee for their time.
+
+???
+
+Carroll, Alice, Barbara Kelly & Lauren Gawne. 2011. The jackal and crow picture task. Designed for use by the Social Cognition and Language Project. A collaboration of The Australian National University, Griffith University, University of Melbourne and the Max Planck Institute for Psycholinguistics.
 
 ---
 
-# Bystander (1/1)
+background-image: url("jackal-1.png")
+background-size: contain
+class: top, left
 
-You can just chill! Take notes if you would like.
+#1
 
 ---
+
+background-image: url("jackal-2.png")
+background-size: contain
+class: top, left
+
+#2
+
+---
+
+background-image: url("jackal-3.png")
+background-size: contain
+class: top, left
+
+#3
+
+---
+
+background-image: url("jackal-4.png")
+background-size: contain
+class: top, left
+
+#4
+
+---
+
+background-image: url("jackal-5.png")
+background-size: contain
+class: top, left
+
+#5
+
+---
+
+background-image: url("jackal-6.png")
+background-size: contain
+class: top, left
+
+#6
+
+---
+
+background-image: url("jackal-7.png")
+background-size: contain
+class: top, left
+
+#7
+
+---
+
+background-image: url("jackal-8.png")
+background-size: contain
+class: top, left
+
+#8
+
+---
+
+background-image: url("jackal-9.png")
+background-size: contain
+class: top, left
+
+#9
+
+---
+
+class: middle, center
+
+# Pear Story
+
+---
+
+class: middle
 
 # Finished early?
 
-Reflect on 
+Reflect on how this process went for you, both as an interviewer and as an interviewee. How did you feel "making" recordings? How did you feel as a language expert?
+
+---
+
+class: middle, center, inverse
+name: partner-b
+
+# B
+
+---
+
+class: middle, center
+
+# Leipzig-Jakarta Wordlist
+
+---
+
+# The TMA Questionnaire (Dahl 1985)
+
+This questionnaire provides 164 English sentences to translate in the studied language in order to elicit its TAM system (tenses, aspects and moods). You will be eliciting 15 sentences from this questionnaire (sentences 37-52).
+
+For each sentence, prior context is provided in square brackets. Your interviewee should translate the sentence with MEET, with MEET conjugated appropriately in the target language. The words in the parentheses are not to be translated.
+
+Suggested wording for instructions:
+*I will ask you to translate some sentences for me. I will give you a short description of the context, before saying the sentence that should be translated into your language.*
+
+Check that you are both able to be heard clearly. You may now "start" the "recording" by clapping and saying the basic metadata. Move through the slideshow to see the sentence prompts.
+
+The task should take no more than 10 minutes. Feel free to take notes during the "recording". At the end of the task, briefly summarise what happened (10 seconds or less) and thank the interviewee for their time.
+
+???
+
+Dahl, Osten. 1985. The TMA Questionnaire. In *Tense and Aspect Systems*, 199-206. Oxford: Blackwell.
+
+---
+
+class: middle
+
+1. [Q: Do you know my brother?] (Yes,) I MEET him (so I know him)
+
+1. [Q: Do you know my brother?] (Yes,) I just (= a couple of minutes ago) MEET him
+
+1. [Q: Do you know my brother?] (Yes,) I MEET him (once) several years ago
+
+1. [Q: Do you know my brother?] (No,) I not MEET him (in my life)
+
+---
+
+class: middle
+
+1. [Q:] You MEET my brother (at any time in your life until now)?
+
+1. [Q: Did you know my father, who died last year?] (Yes,) I MEET him (at least once)
+
+1. [Q: Did you know my father, who died last year?] (Yes,) I MEET him (several times, now and then)
+
+---
+
+class: middle
+
+1. [Assuming that A was going to meet B's brother, B asks:] You MEET my brother (yesterday, as was planned)
+
+1. [Answer to 1:] (Yes,) I MEET him (yesterday, as was planned)
+
+1. [Answer to 1:] (No,) I not MEET him (yesterday, as was planned)
+
+---
+
+class: middle
+
+1. [Q: When you came to this place a year ago, did you know my brother?] (Yes,) I MEET him (at least once before I came here)
+
+1. [Q: When you came to this place a year ago, did you know my brother?] (Yes,) I MEET him (just before I came here)
+
+---
+
+class: middle
+
+1. [Q: Did you know my father, who died last year?] (No,) I not MEET him (at any time)
+
+1. [Q: When you came to this place a year ago, did you know my brother?] (No,) I not MEET him (before I came here)
+
+1. [Q: When you came to this place a year ago, did you know my brother?] (No,) I not MEET him (before I came here but I met him later)
+
+---
+
+class: center, middle
+
+# The Jackal and the Crow
+
+---
+
+# Pear Story (Chafe 1980)
+
+The task is for the participant to watch a video. While they are watching, the participant should narrate the video out loud in a language they are comfortable in.
+
+Suggested wording for instructions:
+*‘I am about to show you a video that tells a story. I want you to tell me what's happening as you see it in the video.'*
+
+When you are ready, move to the next slide and share your screen *with sound*. Check that you are both able to be heard clearly. You may now "start" the "recording" by clapping and saying the basic metadata. Explain the task to the participant and begin the video.
+
+The task should take approximately 7 minutes. Feel free to take notes during the "recording". At the end of the task, briefly summarise what happened (10 seconds or less) and thank the interviewee for their time.
+
+???
+
+Wallace Chafe, ed. 1980. The Pear Stories: Cognitive, Cultural and Linguistic Aspects of Narrative Production. Norwood, NJ: Ablex. [Now available from Greenwood Press: Westport, CT.)
+
+---
+
+class: center, middle
+
+<iframe width="800" height="600" src="https://www.youtube.com/embed/hcD-LWRMIwY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+name: finished
+class: middle
+
+# Finished early?
+
+Reflect on how this process went for you, both as an interviewer and as an interviewee. How did you feel "making" recordings? How did you feel as a language expert?

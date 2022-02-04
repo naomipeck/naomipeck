@@ -38,9 +38,9 @@ library(countdown)
 
 class: middle
 
-> #### Fieldwork has been so much a part of linguistic research -- a linguistic given, so to speak -- that we have rarely bothered to define it. <br><br> (Hyman 2001:15)
-
-<br>
+> #### *Fieldwork has been so much a part of linguistic research -- a linguistic given, so to speak -- that we have rarely bothered to define it.* 
+>
+> (Hyman 2001:15)
 
 ???
 
@@ -50,9 +50,9 @@ Hyman, Larry M. 2001. Fieldwork as a state of mind. In Linguistic Fieldwork, ed.
 
 class: middle
 
-> #### Fieldwork methods may be the best-kept secret of sociolinguistics.<br><br> (Tagliamonte 2006:17)
-
-<br>
+> #### *Fieldwork methods may be the best-kept secret of sociolinguistics.*
+>
+> (Tagliamonte 2006:17)
 
 ???
 
@@ -68,7 +68,9 @@ class: center, middle
 
 # What fieldwork?
 
-> #### We define descriptive linguistic fieldwork as the investigation of the structure of a language through the collection of primary language data gathered through interaction with native-speaking consultants.<br>(Chelliah and de Reuse 2011:7) 
+> #### *We define descriptive linguistic fieldwork as the investigation of the structure of a language through the collection of primary language data gathered through interaction with native-speaking consultants.*
+>
+>(Chelliah and de Reuse 2011:7) 
 
 <br>
 
@@ -78,7 +80,9 @@ Chelliah, Shobhana L. and Willem J. De Reuse. 2011. *Handbook of Descriptive Lin
 
 --
 
-> #### Linguistic fieldwork ideally involves observing the language as it is used, becoming a member of the communicty, and often being adopted into the kinship system.<br>(Aikhenvald 2007:5) 
+> #### *Linguistic fieldwork ideally involves observing the language as it is used, becoming a member of the community, and often being adopted into the kinship system.*
+>
+>(Aikhenvald 2007:5) 
 
 <br>
 
@@ -89,7 +93,9 @@ Aikhenvald, Alexandra Y., ed. 2007. Focus on Linguistic Fieldwork. *Sprachtypolo
 
 --
 
-> #### One should document a language in such a way that future linguists can derive a description from it.<br>(Lehmann 1999:10)
+> #### *One should document a language in such a way that future linguists can derive a description from it.*
+>
+>(Lehmann 1999:10)
 
 ???
 
@@ -384,7 +390,10 @@ Center for Southeast Asian Studies, Kyoto University. 2019. "Learning By Living 
 
 class: middle
 
-> #### *Typical day, we would get up in the morning, you know and head off. Two or three interviews. Come back. Eat together. And then go to our room and transcribe. So it was pretty- we didn't have a lot of down time and then on the weekends, we would catch up on our phonetic transcription.* <br>-- Walt Wolfram <br><br>(Tagliamonte 2016:98)
+> #### *Typical day, we would get up in the morning, you know and head off. Two or three interviews. Come back. Eat together. And then go to our room and transcribe. So it was pretty- we didn't have a lot of down time and then on the weekends, we would catch up on our phonetic transcription.* 
+>
+> -- Walt Wolfram 
+>(Tagliamonte 2016:98)
 
 ???
 

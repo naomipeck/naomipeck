@@ -43,7 +43,10 @@ class: middle, inverse
 
 class: center, middle
 
-> ####*Think hard first, record later.*<br>-- Peter Ladefoged<br><br>(Sakel and Everett 2012:113)
+> ####*Think hard first, record later.*
+>
+> -- Peter Ladefoged
+> (Sakel and Everett 2012:113)
 
 ???
 
