@@ -109,7 +109,7 @@ class: inverse, center, middle
 
 # The Tasks
 
-Instructions can be found in the relevant presentation [here](naomipeck.com/project/fieldwork-workshop/).
+Instructions can be found in the relevant presentation [here](https://naomipeck.com/project/fieldwork-workshop/).
 
 You will have approximately 40 minutes to run through all activities.
 
