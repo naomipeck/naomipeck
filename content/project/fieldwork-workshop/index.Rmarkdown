@@ -8,7 +8,7 @@ slug: fieldwork-workshop
 subtitle: 'From elicitation to ELAN'
 #summary: ''
 #authors: []
-lastmod: '2022-01-31T15:04:49+01:00'
+lastmod: '2022-02-04T15:04:49+01:00'
 #featured: no
 #image:
 #  caption: ''
