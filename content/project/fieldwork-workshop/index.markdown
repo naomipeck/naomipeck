@@ -71,9 +71,5 @@ Final remarks
 
 ## Elicitation Tools
 
-<<<<<<< HEAD
 {{< staticref "/slides/fieldwork/fieldwork-stimuli.html" "newtab" >}}Field stimuli{{< /staticref >}}
 
-=======
-{{< staticref "/slides/fieldwork/fieldwork-stimuli.html" "newtab" >}}Field Stimuli{{< /staticref >}}
->>>>>>> 2f7c94d06d22b0f72d781b1c9f75b000c5fc71c9
