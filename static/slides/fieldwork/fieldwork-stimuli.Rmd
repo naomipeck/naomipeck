@@ -71,7 +71,6 @@ class: inverse, center, middle
 
 class: inverse, center, middle
 name: partner-a
-<<<<<<< HEAD
 
 # A
 
