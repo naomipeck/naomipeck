@@ -45,25 +45,25 @@ Collecting linguistic data from face-to-face interactions is becoming ever easie
 
 ## Session 3: Post-field
 
-{{< staticref "/slides/fieldwork/fieldwork-10-fdata.html" "newtab" >}}Analysing field data{{< /staticref >}} <br>
+<!--{{< staticref "/slides/fieldwork/fieldwork-10-fdata.html" "newtab" >}}Analysing field data{{< /staticref >}} <br> 
 
 {{< staticref "/slides/fieldwork/fieldwork-11-elan.html" "newtab" >}}Introduction to ELAN{{< /staticref >}} <br>
 
 {{< staticref "/slides/fieldwork/fieldwork-12-elanpr.html" "newtab" >}}Practical: Analysing your data in ELAN{{< /staticref >}} <br>
 
-Archiving the data
+Archiving the data -->
 
 ## Session 4: De-briefing
 
-What have you learned?
+<!-- What have you learned?
 
 Other things to keep in mind
 
-Final remarks
+Final remarks -->
 
 # Additional Resources
 
-## Workshop Resourcse
+## Workshop Resources
 
 **Informed Consent Form:** {{< icon name="download" pack="fas" >}} {{< staticref "media/informed-consent.pdf" "newtab" >}}.pdf{{< /staticref >}} {{< icon name="download" pack="fas" >}} {{< staticref "media/informed-consent.docx" "newtab" >}}.docx{{< /staticref >}}
 
