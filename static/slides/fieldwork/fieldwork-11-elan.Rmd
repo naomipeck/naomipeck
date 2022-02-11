@@ -104,43 +104,46 @@ You can also limit what values annotations can have using a controlled vocabular
 
 # Which tier type do I need?
 
-Question 1: Are my annotations dependent or independent?
+### Question 1: Are my annotations dependent or independent?
 
 --
 
-Yes -> No tier type needed.
+#### Yes. 
 
---
-
-No -> Q2.
-
---
+    -> No tier type needed.
 
 Annotations on an independent tier make *direct* reference to the audiovisual tracks.
+
+--
+
+#### No. 
+
+    -> Q2
 
 ---
 
 # Which tier type do I need?
 
-Question 2: Should my annotations be time-aligned or symbolically-aligned?
+### Question 2: Should my annotations be time-aligned or symbolically-aligned?
+
+#### Time-aligned.
+
+    -> Q3
 
 ---
 
-# Time-aligned.
-
--> Q3.
+### Question 3: Do I want gaps in between my annotations?
 
 --
 
-Question 3: Do I want gaps in between my annotations?
+#### Yes. 
 
---
+    -> Included In
 
-Yes -> Included In
 
---
+#### No. 
 
-No -> Time Subdivision
+    -> Time Subdivision
 
 --
 
@@ -150,21 +153,25 @@ Time-aligned annotations (including on independent tiers) are by default outline
 
 ---
 
-# Symbolically-aligned.
+### Question 2: Should my annotations be time-aligned or symbolically-aligned?
 
--> Q4.
+#### Symbolically-aligned.
 
---
+    -> Q4.
 
-Question 4: Should my annotations have a one-to-one or a one-to-many relation with the superordinate tier?
+---
 
---
-
-One-to-one -> Symbolic Association
+### Question 4: Should my annotations have a one-to-one or a one-to-many relation with the superordinate tier?
 
 --
 
-One-to-many -> Symbolic Subdivision
+#### One-to-one. 
+
+    -> Symbolic Association
+
+#### One-to-many. 
+
+    -> Symbolic Subdivision
 
 --
 
