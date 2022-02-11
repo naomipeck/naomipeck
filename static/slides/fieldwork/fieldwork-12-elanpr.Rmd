@@ -1,0 +1,375 @@
+---
+title: "Introduction to Fieldwork: From elicitation to ELAN"
+subtitle: "Session 3: Analysing your data in ELAN"
+author: "Naomi Peck"
+institute: "University of Freiburg"
+date: "11/02/2022-12/02/2022 (updated: `r Sys.Date()`)"
+output:
+  xaringan::moon_reader:
+    seal: false
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+```{r, setup, include=FALSE}
+library(countdown)
+options(htmltools.dir.version = FALSE)
+```
+
+class: inverse, center, middle
+
+
+# Introduction to Fieldwork: From elicitation to ELAN <br>
+## Session 3: Analysing your data in ELAN &nbsp;
+
+## Naomi Peck &nbsp;
+
+### Albert-Ludwigs-Universität Freiburg <br> 2022-02-11 (updated: `r Sys.Date()`)
+&nbsp;
+
+<img src="freiburg-logo.png" height="125px"/>
+
+<!-- insert VJS logo too? figure this out -->
+
+---
+
+class: middle, center
+
+#ELAN time!
+
+---
+
+# Outcomes
+
+By the end of this session, you should be able to:
+
+- create new .eaf files
+- turn on automatic backup
+- create new tier types
+- create new tiers
+- create a template
+- perform basic segmentation
+- perform basic transcription
+- add, change and delete annotations
+- export from ELAN
+
+---
+
+# First of all
+
+Do you have a recording?
+
+If you didn't manage to make one, here are some back-ups which you can download: <!-- insert link -->
+
+---
+
+# Creating a new file
+
+1. Open ELAN
+
+1. Navigate to the folder in which your audio is in. Check it's named according to our DMP!
+
+1. Select all media
+
+1. Drag and drop them into ELAN <br>
+
+# Save your new file
+
+1. File > Save As/Ctrl + Shift + S
+
+1. Save your file with a name according to our DMP!
+
+???
+
+Alternate (more traditional) way of creating a new file: 
+1. Open ELAN
+1. File > New
+1. Browse to directory with data
+1. Select all media (and templates, if applicable)
+1. Click OK
+
+---
+
+# Turn on Automatic Backup
+
+1. File > Automatic Backup
+
+1. Choose how often your file should automatically save
+
+<br><br>
+
+Backups will have the file extension .eaf.001. To use them, rename the files to only have the extension .eaf.
+
+---
+
+# Getting used to the interface
+
+Explore the interface! On your own, try to do the following:
+
+1. Play your audio normally
+1. Play just a selection of the audio
+1. Make the selection loop
+1. Scroll through the data file at light speed
+1. Zoom into the audio file
+1. Increase the size of the peaks of the audio file
+1. Change the rate of the audio track
+1. Change the volume of the audio track
+
+```{r interface, echo = FALSE}
+countdown(minutes = 10)
+```
+
+---
+
+class: center, middle
+
+# Creating Tiers
+
+---
+
+class: middle
+
+# What tiers do you need?
+
+--
+
+# How do these tiers relate to each other and to your audio file?
+
+---
+
+# Adding tier types
+
+1. Create tier types for the following:
+
+    -   transcription
+    -   translation
+    -   comment
+    -   words
+    -   gloss
+    -   part of speech
+
+1. Change the default tier to a reference tier by renaming.
+    
+```{r tier-types, echo = FALSE}
+countdown(minutes = 10)
+```
+
+Generally, people use the following shorthand:
+.pull-left[
+- reference: ref
+- transcription: tx
+- translation: ft
+- comment: ct
+]
+.pull-right[
+- words: wd
+- gloss (English): ge
+- gloss (German): gd
+- part of speech: ps
+]
+
+---
+
+# Adding tiers
+
+.center[
+###datatype@participant
+]
+
+1. Create tiers for the following for one participant:
+
+.pull-left[
+-   reference
+-   transcription
+-   translation
+-   comment
+]
+
+.pull-right[
+-   words
+-   gloss
+-   part of speech
+]
+
+
+For transcription purposes, make sure that the *translation* tier is dependent on the *transcription* tier.
+
+Once you are done, sort your tiers in the left-hand pane as you like. If you're done even earlier, adjust your settings in the main annotation section (e.g., increasing font size).
+
+```{r tiers, echo = FALSE}
+countdown(minutes = 10)
+```
+
+---
+
+# Create a template
+
+If you will be working on analysing multiple files, it saves a lot of time when you create a template. The template retains all of the tier types and tiers created in this file. You can use this template when you make a file (using the menu option) or you can import the tiers/tier types through the dialogue box.
+
+Create a template for yourself now - your choice of name as we won't archive this!
+
+---
+
+class: inverse, center, middle
+
+# Check In
+
+---
+
+class: inverse, center, middle
+
+# Segmentation
+
+---
+
+label: segmentation
+class: center, middle
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/f42af26bdfe843ec9703890304c5ecd2" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+---
+
+# Automatic Silence Recogniser
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/0a2fd34578ea4f29830f0a593f58e950" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+---
+
+# Segmentation
+
+No-one’s first segmentation is ever exact.
+
+The first time you segment is simply a first pass at the data. It’s alright if the segments don’t quite match the audio/video or if you need to combine two segments into one.
+
+Editing the segmentation comes later.
+
+---
+
+class: inverse, center, middle
+
+# Questions?
+
+---
+
+class: inverse, center, middle
+
+# Segmentation Time
+
+```{r, label = "segment", echo = FALSE}
+countdown(minutes = 10, right = "34%", bottom = "20%")
+```
+
+---
+
+class: inverse, center, middle
+
+# Transcription and Translation
+
+---
+
+label: transcription
+class: center, middle
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/67726e1a877e441ab79e99b87b57324c" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+---
+
+# Transcription and Translation
+
+1. Go into Translation Mode and configure your settings
+
+--
+
+<br><br>
+
+####Any problems?
+
+---
+
+class: inverse, center, middle
+
+# Transcription and Translation Time
+
+```{r, label = "transcribe", echo = FALSE}
+countdown(minutes = 30, right = "34%", bottom = "20%")
+```
+
+---
+
+class: inverse, center, middle
+
+# Annotation
+
+---
+
+# Annotation Mode
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/975217417e5745b7b98f914acd55a89f" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+---
+
+# Basics
+
+1. Add a new annotation
+
+1. Change its timing
+
+1. Change its value
+
+1. Delete the annotation
+
+1. Use shortcuts to "travel" through your existing annotations
+
+```{r basics, echo = FALSE}
+countdown(minutes = 5)
+```
+
+---
+
+class: middle, center
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/28b9d820d55f44b8a010b6805ca47cd5" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+---
+
+# "Advanced" Annotation
+
+1. Tokenise your translation tier to get separate words on your word tier
+
+1. Generate automatic labels for your reference tier
+
+---
+
+class: inverse, middle, center
+
+# Free Annotation Time
+
+```{r, label = "annotate", echo = FALSE}
+countdown(minutes = 15, right = "34%", bottom = "20%")
+```
+
+---
+
+# Exporting your file
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/53e4934afc034c2b92e5c0d91a09e875" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+---
+
+class: inverse, middle, center
+
+# Congratulations!
+
+---
+
+class: inverse, center, middle
+
+# Short Break
+
+
+```{r, label = "clock", echo = FALSE}
+countdown(minutes = 5, right = "34%", bottom = "20%")
+```
+

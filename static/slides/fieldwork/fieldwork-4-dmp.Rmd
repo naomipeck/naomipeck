@@ -122,7 +122,9 @@ Mattern, Eleanor. 2022. The linguistic data life cycle, sustainability of data, 
 
 class: middle
 
-> #### *... many researchers view the DMP as a burden. However, the reality is that <mark>good data management planning from the project outset can save time, money, and frustration, while ultimately helping to increase the impact of research</mark>.* <br><br>(Gabber et al. 2022)
+> #### *... many researchers view the DMP as a burden. However, the reality is that <mark>good data management planning from the project outset can save time, money, and frustration, while ultimately helping to increase the impact of research</mark>.* 
+>
+> (Gabber et al. 2022)
 
 ???
 
@@ -210,7 +212,9 @@ loses information when compressed or made smaller<br>
 
 class: middle
 
-> #### *Remember, friends don't let friends save phonetic data in lossy formats (e.g., .mp3, AAC, .wmv)!* <br><br>(Styler 2017:57)
+> #### *Remember, friends don't let friends save phonetic data in lossy formats (e.g., .mp3, AAC, .wmv)!* 
+>
+>(Styler 2017:57)
 
 ???
 
@@ -433,7 +437,11 @@ With larger documentation projects, the space required for back-up can rack up q
 
 ### Regularly check your back-ups!
 
-Even if you have your data backed-up, it is always possible that something could happen to it. Your portable HD could become corrupted or you could have your apartment burn down (true story). Make sure to regularly evaluate if everything works!
+Even if you have your data backed-up, it is always possible that something could happen to it. Your portable HD could become corrupted or you could have your computer stolen or apartment burn down (true story). Make sure to regularly evaluate if everything works!
+
+???
+
+See, for example, Lauren Gawne's story here: https://fieldnotespod.com/ep-8-lauren-gawne-on-funding-fieldwork/
 
 ---
 
@@ -590,7 +598,7 @@ There are a number of archives which accept linguistic data around the world. Ma
 
 # Archives
 
-The archive that we will be depositing in for this workshop is Language Archive Cologne. As a group, collectively answer the following questions about LAC:
+The archive that we will hopefully be depositing in for this workshop is [Language Archive Cologne](https://lac.uni-koeln.de/). As a group, collectively answer the following questions about LAC:
 
 1. Who has access to this digital repository?
 
@@ -648,7 +656,9 @@ Please send me an email if you are interested and I will give you more details a
 
 class: middle
 
-> *... the best data management strategy is one that the researcher is able to consistently employ throughout the research life cycle.* <br><br> (Mattern 2022:69)
+> *... the best data management strategy is one that the researcher is able to consistently employ throughout the research life cycle.*
+>
+> (Mattern 2022:69)
 
 ???
 

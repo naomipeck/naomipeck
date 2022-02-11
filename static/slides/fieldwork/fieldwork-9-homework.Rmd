@@ -43,7 +43,7 @@ class: middle, center, inverse
 
 # Homework
 
-For tomorrow's session, you will need an audio(visual) recording 3-5 minutes in length. You are more than welcome to record something longer, but you will likely not be able to finish its annotation tomorrow.
+For tomorrow's session, you will need an audio(visual) recording 3-5 minutes in length. You are more than welcome to record something longer, but you will likely struggle with the pace tomorrow.
 
 This recording should be in a language which you are comfortable transcribing and analysing, such as German or English.
 
@@ -68,6 +68,12 @@ You must
 1. rename the file according to our DMP
 
 1. fill out our metadata sheet
+
+---
+
+# Recording in Audacity
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/4753986c67be4e89bc0a058902d89435" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 ---
 

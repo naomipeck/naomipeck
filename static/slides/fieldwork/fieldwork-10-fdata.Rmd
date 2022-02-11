@@ -1,0 +1,66 @@
+---
+title: "Introduction to Fieldwork: From elicitation to ELAN"
+subtitle: "Session 3: Analysing field data"
+author: "Naomi Peck"
+institute: "University of Freiburg"
+date: "11/02/2022-12/02/2022 (updated: `r Sys.Date()`)"
+output:
+  xaringan::moon_reader:
+    seal: false
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+class: inverse, center, middle
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+#devtools::install_github("gadenbuie/countdown")
+library(countdown)
+```
+
+# Introduction to Fieldwork: From elicitation to ELAN <br>
+## Session 3: Analysing field data &nbsp;
+
+## Naomi Peck &nbsp;
+
+### Albert-Ludwigs-Universität Freiburg <br> 2022-02-12 (updated: `r Sys.Date()`)
+&nbsp;
+
+<img src="freiburg-logo.png" height="125px"/>
+
+<!-- insert VJS logo too? figure this out -->
+
+
+---
+
+class: middle, center
+
+# Welcome back!
+
+---
+
+# Further Sources
+
+Chelliah, Shobhana L. and Willem J. De Reuse. 2011. *Handbook of Descriptive Linguistic Fieldwork*. Dordrecht: Springer.
+
+Himmelmann, Nikolaus P. 2006. Language documentation: What is it and what is it good for? In *Essentials of Language Documentation*, ed. by Jost Gippert, Nikolaus P. Himmelmann, and Ulrike Mosel, 1–30. (Trends in Linguistics. Studies and Monographs 178.) Berlin and New York: Mouton de Gruyter.
+
+
+---
+
+# Further Sources
+
+
+
+---
+
+class: inverse, center, middle
+
+# Short Break 
+
+```{r echo = FALSE}
+countdown(minutes = 5, play_sound = TRUE, right = "34%", bottom = "20%")
+```

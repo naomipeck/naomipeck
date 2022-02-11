@@ -45,11 +45,11 @@ Collecting linguistic data from face-to-face interactions is becoming ever easie
 
 ## Session 3: Post-field
 
-Analysing field data
+{{< staticref "/slides/fieldwork/fieldwork-10-fdata.html" "newtab" >}}Analysing field data{{< /staticref >}} <br>
 
-Introduction to ELAN
+{{< staticref "/slides/fieldwork/fieldwork-11-elan.html" "newtab" >}}Introduction to ELAN{{< /staticref >}} <br>
 
-Practical: Analysing your data in ELAN
+{{< staticref "/slides/fieldwork/fieldwork-12-elanpr.html" "newtab" >}}Practical: Analysing your data in ELAN{{< /staticref >}} <br>
 
 Archiving the data
 
@@ -65,8 +65,11 @@ Final remarks
 
 ## Workshop Resourcse
 
-**Informed Consent Form:**
+**Informed Consent Form:** {{< icon name="download" pack="fas" >}} {{< staticref "media/informed-consent.pdf" "newtab" >}}.pdf{{< /staticref >}} {{< icon name="download" pack="fas" >}} {{< staticref "media/informed-consent.docx" "newtab" >}}.docx{{< /staticref >}}
 
 **Archive:** TBA
 
 ## Elicitation Tools
+
+{{< staticref "/slides/fieldwork/fieldwork-stimuli.html" "newtab" >}}Field stimuli{{< /staticref >}}
+
