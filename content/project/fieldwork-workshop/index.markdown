@@ -8,7 +8,7 @@ slug: fieldwork-workshop
 subtitle: 'From elicitation to ELAN'
 #summary: ''
 #authors: []
-lastmod: '2022-01-31T15:04:49+01:00'
+lastmod: '2022-02-04T15:04:49+01:00'
 #featured: no
 #image:
 #  caption: ''
@@ -71,5 +71,9 @@ Final remarks
 
 ## Elicitation Tools
 
+<<<<<<< HEAD
 {{< staticref "/slides/fieldwork/fieldwork-stimuli.html" "newtab" >}}Field stimuli{{< /staticref >}}
 
+=======
+{{< staticref "/slides/fieldwork/fieldwork-stimuli.html" "newtab" >}}Field Stimuli{{< /staticref >}}
+>>>>>>> 2f7c94d06d22b0f72d781b1c9f75b000c5fc71c9

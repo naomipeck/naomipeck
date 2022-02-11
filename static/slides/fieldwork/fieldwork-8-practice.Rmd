@@ -43,79 +43,19 @@ class: middle, center
 
 # Practicing Elicitation
 
-We are now going to test out some of the techniques we explored in the last section in small groups.
+We are now going to test out some of the techniques we explored in the last section in pairs.
 
 Make sure you have a pen and paper with you, so you can practice taking notes.
+
+You are free to run your sessions with any language(s) you wish, as long as you have a chance to try out all the roles and elicitation techniques.
 
 ---
 
 # The Plan
 
-In each group of four, you will run through four different elicitation exercises.
-
-For each exercise, you will play one of the following roles:
-
-1. Interviewer
-
-1. Recorder
-
-1. Interviewee
-
-1. Bystander
+There are four different exercises to try out: two stimuli-based tasks and two translation-based tasks. You will have the chance to be an interviewer and interviewee for both types of tasks.
 
 --
-
-Don't worry - you won't actually be recording! But it's good practice to get into the habit of what would happen during a 'live' session.
-
----
-
-# The Interviewer
-
-You will be responsible for running the session. 
-
-Read the prompt given about the elicitation technique and how to introduce it to your interviewee.
-
-Depending on the task, you will have to carry out a few different tasks. In all cases, make sure to ask open questions and thank the interviewee afterwards.
-
----
-
-# The Recorder
-
-You will be responsible for "setting up" and monitoring the session.
-
-To "set up" the recording, test that everyone has good gain levels and is seated comfortably.
-
-At the start of a "recording", clap next to your microphone and detail the metadata for the session.
-
-Monitor the session by making sure that the sound stays clear throughout, but let the interviewer take the reins. Keep an eye on the length of the session and let the interviewer know when to wrap up. Feel free to take notes during the "recording", noting down the timing of anything linguistically interesting.
-
-At the end of the session, briefly summarise the session. Make sure to thank the interviewee for their time.
-
----
-
-# The Interviewee
-
-You will be responsible for sharing your idiolect with the bystander.
-
-Simply follow the instructions of the interviewer and the recorder and try not to analyse what you're doing in the task.
-
----
-
-# The Bystander
-
-You are there to simply listen!
-
----
-
-# Some notes
-
-You are free to run your sessions with any language(s) you wish, as long as you have a chance to try out all the roles and elicitation techniques.
-
-If you already know the purpose of a given elicitation tool, try to avoid being the interviewee for that tool.
-
----
-
-# The Tasks
 
 The four tasks that you will be doing are:
 
@@ -127,9 +67,7 @@ The four tasks that you will be doing are:
 
 - Leipzig-Jakarta Wordlist (Haspelmath and Tadmor 2009)
 
-Instructions can be found in the relevant presentation [here](naomipeck.com/project/fieldwork-workshop/).
-
-Time to go to your breakout groups and discuss who will take which roles! You will have approximately 40 minutes to run through all three activities.
+If you already know the purpose of a given elicitation tool, try to avoid being the interviewee for that tool.
 
 ???
 
@@ -141,9 +79,39 @@ Haspelmath, Martin and Uri Tadmor (eds.), 2009. *Loanwords in the World’s Lang
 
 ---
 
+# The Interviewer
+
+You will be responsible for running and "recording" the session. 
+
+Read the prompt given about the elicitation technique and how to introduce it to your interviewee.
+
+To "set up" the recording, test that everyone has good gain levels and is seated comfortably. At the start of a "recording", clap next to your microphone and detail the metadata for the session.
+
+Monitor the session by making sure that the sound stays clear throughout, but let the interviewer take the reins. Keep an eye on the length of the session and let the interviewer know when to wrap up. Feel free to take notes during the "recording", noting down the timing of anything linguistically interesting.
+
+At the end of the session, briefly summarise the session. Make sure to thank the interviewee for their time.
+
+---
+
+# The Interviewee
+
+You will be responsible for sharing your idiolect with the interviewer. 
+
+Simply follow the instructions and have fun!
+
+---
+
 class: inverse, center, middle
 
 # Questions?
+
+---
+
+# The Tasks
+
+Instructions can be found in the relevant presentation [here](https://naomipeck.com/project/fieldwork-workshop/).
+
+You will have approximately 40 minutes to run through all activities.
 
 ---
 

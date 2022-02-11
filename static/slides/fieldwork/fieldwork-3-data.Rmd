@@ -71,7 +71,7 @@ e.g. grammaticality judgment
 
 ???
 
-e.g. direct translations
+e.g. direct translations; recordings
 
 --
 
@@ -79,9 +79,7 @@ e.g. direct translations
 
 ???
 
-e.g. natural conversation
-
-<!-- how does this relate to the process of recording, making notes??? -->
+e.g. natural conversation; e.g. field notes
 
 ---
 
