@@ -42,13 +42,46 @@ class: middle, center
 
 ---
 
+# Recap
+
+Yesterday, we discussed what fieldwork is, how to collect and manage data, as well as ways of eliciting data.
+
+Hopefully you manage to work with someone to create a recording you'll be using today!
+
+---
+
 class: middle, center
 
-# How did you go with recordings?
+# How did you go with recording?
 
 ???
 
 For those of you who weren't able to make a recording before today, supplementary recordings of me (!) are available on my website [here](https://naomipeck.com/project/fieldwork-workshop/).
+
+---
+
+# Elicitation Tasks
+
+- translation tasks
+
+    - Leipzig-Jakarta Word List
+    - TMA Questionnaire
+
+- grammatical judgements
+
+- stimuli tasks
+
+    - Jackal and the Crow
+    - Pear Story
+    
+- text elicitation
+
+    - sociolinguistic interview
+    - "can you tell me about...?"
+    
+- keeping data security in mind while trying to get naturalistic data
+
+- working with a consultant for the first time
 
 ---
 
