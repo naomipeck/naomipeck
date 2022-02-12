@@ -53,7 +53,7 @@ Collecting linguistic data from face-to-face interactions is becoming ever easie
 
 ## Session 4: De-briefing
 
-{{< staticref "/slides/fieldwork/fieldwork-13-recap.html" "newtab" >}}What have you learned?{{< /staticref >}}
+{{< staticref "/slides/fieldwork/fieldwork-13-recap.html" "newtab" >}}What have you learned?{{< /staticref >}} <br>
 
 {{< staticref "/slides/fieldwork/fieldwork-14-end.html" "newtab" >}}Final remarks{{< /staticref >}}
 
