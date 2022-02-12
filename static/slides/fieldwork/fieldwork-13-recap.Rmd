@@ -1,0 +1,120 @@
+---
+title: "Introduction to Fieldwork: From elicitation to ELAN"
+subtitle: "Session 4: What have you learned?"
+author: "Naomi Peck"
+institute: "University of Freiburg"
+date: "11/02/2022-12/02/2022 (updated: `r Sys.Date()`)"
+output:
+  xaringan::moon_reader:
+    seal: false
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+class: inverse, center, middle
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+#devtools::install_github("gadenbuie/countdown")
+library(countdown)
+```
+
+# Introduction to Fieldwork: From elicitation to ELAN <br>
+## Session 4: What have you learned? &nbsp;
+
+## Naomi Peck &nbsp;
+
+### Albert-Ludwigs-Universität Freiburg <br> 2022-02-12 (updated: `r Sys.Date()`)
+&nbsp;
+
+<img src="freiburg-logo.png" height="125px"/>
+
+<!-- insert VJS logo too? figure this out -->
+
+
+---
+
+class: middle, center
+
+# Recap
+
+---
+
+# Recap
+
+We are now coming to the end of the workshop. Every good field trip needs a debrief afterwards, so let's go over again what you've learnt over the past two days.
+
+--
+
+#### You've learnt what fieldwork is all about the social connections, rather than going somewhere exotic.
+
+--
+
+#### You've learnt about different types of data and how to think critically about what you collect and create.
+
+--
+
+#### You've learnt about how to make data management a part of your fieldwork plan, rather than an afterthought. You even helped to make one!
+
+--
+
+#### You've learnt that planning can only take you so far and that flexibility is key.
+
+--
+
+#### You've learnt about different ways to ethically collect data from and with others.
+
+---
+
+# Recap
+
+
+#### You've learnt best practices about recording and how to save your future self from pain when listening back.
+
+--
+
+#### You've made a recording yourself using what you've learned!
+
+--
+
+#### You've followed your data management plan in processing this data.
+
+--
+
+#### You've learnt about what kinds of problems you need to think about during data processing and analysis.
+
+--
+
+#### You've learnt how to use ELAN within less than four hours!
+
+---
+
+class: center, middle
+
+Perhaps most importantly, I hope you learnt that
+
+# Fieldwork is not easy, but it can be a lot of fun.
+
+---
+
+class: center, middle
+
+# Congratulations on a successful field experience!
+
+---
+
+class: center, middle, inverse
+
+# What did you learn?
+
+---
+
+class: inverse, center, middle
+
+# Short Break 
+
+```{r echo = FALSE}
+countdown(minutes = 5, play_sound = TRUE, right = "34%", bottom = "20%")
+```

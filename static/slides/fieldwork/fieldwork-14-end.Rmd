@@ -1,0 +1,77 @@
+---
+title: "Introduction to Fieldwork: From elicitation to ELAN"
+subtitle: "Session 4: Final Remarks"
+author: "Naomi Peck"
+institute: "University of Freiburg"
+date: "11/02/2022-12/02/2022 (updated: `r Sys.Date()`)"
+output:
+  xaringan::moon_reader:
+    seal: false
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+class: inverse, center, middle
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+#devtools::install_github("gadenbuie/countdown")
+library(countdown)
+```
+
+# Introduction to Fieldwork: From elicitation to ELAN <br>
+## Session 4: Final Remarks &nbsp;
+
+## Naomi Peck &nbsp;
+
+### Albert-Ludwigs-Universität Freiburg <br> 2022-02-12 (updated: `r Sys.Date()`)
+&nbsp;
+
+<img src="freiburg-logo.png" height="125px"/>
+
+<!-- insert VJS logo too? figure this out -->
+
+
+---
+
+# Some final remarks from me
+
+Thank you to the Junge Sprachwissenschaft e.V. for inviting me to run this workshop. It's been a blast preparing this and I hope that you enjoyed yourselves over the past two days and learnt as much as I did!
+
+--
+
+I couldn't go into as much detail as I would have liked about certain topics, partially due to the focus of the workshop in general, but also due to time constraints. I will be leaving the slides on my website (I may edit them to be more standalone), so you are more than welcome to go back through at any time to revisit what we've learned about.
+
+--
+
+If you want to know more about any topic, there are a bunch of resources in the slides. However, you are also more than welcome to reach out via email any time at naomi.peck(at)linguistik.uni-freiburg.de :)
+
+---
+
+# Archiving
+
+Again, if you would like to archive, please let me know by Sunday - ideally by email, so I can let you know of more specifics!
+
+The dates for 'submission' are:
+
+1. Telling me that you wish to archive: <mark>13 February 2022</mark> (tomorrow)
+
+1. Submission of primary data and metadata: <mark>28 February 2022</mark> (before Carnival)
+
+1. Submission of secondary data: <mark>24 April 2022</mark> (before start of SoSe)
+
+---
+
+class: center, middle, inverse
+
+## Most importantly,
+
+# thank you to all of you!
+
+---
+
+class: center, middle
+
+End of Workshop

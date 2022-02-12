@@ -22,7 +22,7 @@ class: inverse, center, middle
 
 ## Naomi Peck &amp;nbsp;
 
-### Albert-Ludwigs-Universität Freiburg &lt;br&gt; 2022-02-12 (updated: 2022-02-11)
+### Albert-Ludwigs-Universität Freiburg &lt;br&gt; 2022-02-12 (updated: 2022-02-12)
 &amp;nbsp;
 
 &lt;img src="freiburg-logo.png" height="125px"/&gt;
@@ -61,147 +61,6 @@ class: center, middle
 class: center, middle
 
 &lt;div style="position: relative; padding-bottom: 56.25%; height: 0;"&gt;&lt;iframe src="https://www.loom.com/embed/721ce9dba3fd4dc39beb81a31de1c986" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"&gt;&lt;/iframe&gt;&lt;/div&gt;
-
----
-
-class: center, middle
-
-# Tiers and Types
-
----
-
-# Tiers and Types
-
-Tiers and types are possibly the most complicated part about learning to use ELAN. Having a good understanding of how these relate to each other will help you in your journey to master ELAN immensely.
-
-Simply put, (tier) types provide a template for what kind of annotations you want to make, and how annotations will relate to each other. Tiers are the “physical” places where these annotations are made.
-
-Always make sure to set up your tier types before creating your tiers.
-
----
-
-class: center, middle
-
-&lt;div style="position: relative; padding-bottom: 56.25%; height: 0;"&gt;&lt;iframe src="https://www.loom.com/embed/d4758e2d9c354385bea8a545c757e805" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"&gt;&lt;/iframe&gt;&lt;/div&gt;
-
----
-
-# Tier Types
-
-All tier types must minimally have a name. 
-
-If you want to create dependent tiers (“children”), then you must select a stereotype. 
-
-These stereotypes differ primarily depending on whether the child will be time-aligned or symbolically-aligned.
-
-You can also limit what values annotations can have using a controlled vocabulary, and associate types with lexicon and data categories.
-
----
-
-# Which tier type do I need?
-
-### Question 1: Are my annotations dependent or independent?
-
---
-
-#### Yes. 
-
-    -&gt; No tier type needed.
-
-Annotations on an independent tier make *direct* reference to the audiovisual tracks.
-
---
-
-#### No. 
-
-    -&gt; Q2
-
----
-
-# Which tier type do I need?
-
-### Question 2: Should my annotations be time-aligned or symbolically-aligned?
-
-#### Time-aligned.
-
-    -&gt; Q3
-
----
-
-### Question 3: Do I want gaps in between my annotations?
-
---
-
-#### Yes. 
-
-    -&gt; Included In
-
-
-#### No. 
-
-    -&gt; Time Subdivision
-
---
-
-*Time-aligned* annotations are useful if you want to tie smaller annotations, e.g. words or IUs within utterances, to the audio track.
-
-Time-aligned annotations (including on independent tiers) are by default outlined in black.
-
----
-
-### Question 2: Should my annotations be time-aligned or symbolically-aligned?
-
-#### Symbolically-aligned.
-
-    -&gt; Q4.
-
----
-
-### Question 4: Should my annotations have a one-to-one or a one-to-many relation with the superordinate tier?
-
---
-
-#### One-to-one. 
-
-    -&gt; Symbolic Association
-
-#### One-to-many. 
-
-    -&gt; Symbolic Subdivision
-
---
-
-*Symbolic* associations are useful for secondary annotations. For example, Symbolic Association tiers are commonly used for part of speech glossing and Symbolic Subdivision tiers are commonly used for word or morpheme annotations.
-
-Symbolic annotations are outlined in default in yellow.
-
----
-
-class: middle, center
-
-# Creating Tiers
-
----
-
-class: middle, center
-
-&lt;div style="position: relative; padding-bottom: 56.25%; height: 0;"&gt;&lt;iframe src="https://www.loom.com/embed/8643ae2c99ee431b8a072244d229c74b" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"&gt;&lt;/iframe&gt;&lt;/div&gt;
-
----
-
-# Tier Naming Coventions
-
-Each tier name should minimally consist of a code for the data type, a separator character (gen. @ or _), and a participant code.
-
-Different people and programs have a range of conventions about how naming should be done. Make sure to double-check if a certain format is required for programs and archives etc..
-
-Minimally, names should make it obvious to anyone accessing the file which tier contains what type of data and who produced what.
-
-.center[
-##datatype@participant
-]
-
-&lt;!-- insert table from slide 49 --&gt;
 
 ---
 
@@ -244,6 +103,139 @@ label: interlinear
 class: center, middle
 
 &lt;div style="position: relative; padding-bottom: 56.25%; height: 0;"&gt;&lt;iframe src="https://www.loom.com/embed/1c5018f22f2f4a4b8c70c912b3a88789" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+---
+
+class: center, middle
+
+# Tiers and Types
+
+---
+
+# Tiers and Types
+
+Tiers and types are possibly the most complicated part about learning to use ELAN. Having a good understanding of how these relate to each other will help you in your journey to master ELAN immensely.
+
+Simply put, (tier) types provide a template for what kind of annotations you want to make, and how annotations will relate to each other. Tiers are the “physical” places where these annotations are made.
+
+Always make sure to set up your tier types before creating your tiers.
+
+---
+
+class: center, middle
+
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0;"&gt;&lt;iframe src="https://www.loom.com/embed/d4758e2d9c354385bea8a545c757e805" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+---
+
+# Tier Types
+
+All tier types must minimally have a name. 
+
+If you want to create dependent tiers (“children”), then you must select a stereotype. 
+
+These stereotypes differ primarily depending on whether the child will be time-aligned or symbolically-aligned.
+
+You can also limit what values annotations can have using a controlled vocabulary, and associate types with lexicon and data categories.
+
+---
+
+# Which tier type do I need?
+
+Question 1: Are my annotations dependent or independent?
+
+--
+
+Yes -&gt; No tier type needed.
+
+--
+
+No -&gt; Q2.
+
+--
+
+Annotations on an independent tier make *direct* reference to the audiovisual tracks.
+
+---
+
+# Which tier type do I need?
+
+Question 2: Should my annotations be time-aligned or symbolically-aligned?
+
+---
+
+# Time-aligned.
+
+-&gt; Q3.
+
+--
+
+Question 3: Do I want gaps in between my annotations?
+
+--
+
+Yes -&gt; Included In
+
+--
+
+No -&gt; Time Subdivision
+
+--
+
+*Time-aligned* annotations are useful if you want to tie smaller annotations, e.g. words or IUs within utterances, to the audio track.
+
+Time-aligned annotations (including on independent tiers) are by default outlined in black.
+
+---
+
+# Symbolically-aligned.
+
+-&gt; Q4.
+
+--
+
+Question 4: Should my annotations have a one-to-one or a one-to-many relation with the superordinate tier?
+
+--
+
+One-to-one -&gt; Symbolic Association
+
+--
+
+One-to-many -&gt; Symbolic Subdivision
+
+--
+
+*Symbolic* associations are useful for secondary annotations. For example, Symbolic Association tiers are commonly used for part of speech glossing and Symbolic Subdivision tiers are commonly used for word or morpheme annotations.
+
+Symbolic annotations are outlined in default in yellow.
+
+---
+
+class: middle, center
+
+# Creating Tiers
+
+---
+
+class: middle, center
+
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0;"&gt;&lt;iframe src="https://www.loom.com/embed/8643ae2c99ee431b8a072244d229c74b" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+---
+
+# Tier Naming Coventions
+
+Each tier name should minimally consist of a code for the data type, a separator character (gen. @ or _), and a participant code.
+
+Different people and programs have a range of conventions about how naming should be done. Make sure to double-check if a certain format is required for programs and archives etc..
+
+Minimally, names should make it obvious to anyone accessing the file which tier contains what type of data and who produced which data.
+
+.center[
+##datatype@participant
+]
+
 
 ---
 
@@ -305,7 +297,7 @@ class: inverse, center, middle
 
 # Short Break 
 
-<div class="countdown" id="timer_62065c80" style="right:34%;bottom:20%;" data-audio="true" data-warnwhen="0">
+<div class="countdown" id="timer_62079bdd" style="right:34%;bottom:20%;" data-audio="true" data-warnwhen="0">
 <code class="countdown-time"><span class="countdown-digits minutes">05</span><span class="countdown-digits colon">:</span><span class="countdown-digits seconds">00</span></code>
 </div>
     </textarea>

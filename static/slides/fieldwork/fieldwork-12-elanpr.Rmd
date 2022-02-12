@@ -26,7 +26,7 @@ class: inverse, center, middle
 
 ## Naomi Peck &nbsp;
 
-### Albert-Ludwigs-Universität Freiburg <br> 2022-02-12 (updated: `r Sys.Date()`)
+### Albert-Ludwigs-Universität Freiburg <br> 2022-02-11 (updated: `r Sys.Date()`)
 &nbsp;
 
 <img src="freiburg-logo.png" height="125px"/>
@@ -61,7 +61,7 @@ By the end of this session, you should be able to:
 
 Do you have a recording?
 
-If you didn't manage to make one, here are some back-ups which you can download: <!-- insert link -->
+If you didn't manage to make one, here are some back-ups which you can download: https://naomipeck.com/project/fieldwork-workshop/
 
 ---
 
@@ -118,7 +118,7 @@ Explore the interface! On your own, try to do the following:
 1. Change the volume of the audio track
 
 ```{r interface, echo = FALSE}
-countdown(minutes = 10)
+countdown(minutes = 15)
 ```
 
 ---
@@ -166,7 +166,7 @@ Generally, people use the following shorthand:
 .pull-right[
 - words: wd
 - gloss (English): ge
-- gloss (German): gd
+- gloss (national language): gn
 - part of speech: ps
 ]
 
@@ -258,9 +258,18 @@ class: inverse, center, middle
 # Segmentation Time
 
 ```{r, label = "segment", echo = FALSE}
-countdown(minutes = 10, right = "34%", bottom = "20%")
+countdown(minutes = 30, right = "34%", bottom = "20%")
 ```
 
+---
+
+class: inverse, center, middle
+
+# Long Break Time
+
+```{r, label = "break", echo = FALSE}
+countdown(minutes = 30, right = "34%", bottom = "20%")
+```
 ---
 
 class: inverse, center, middle
@@ -340,6 +349,10 @@ class: middle, center
 
 1. Generate automatic labels for your reference tier
 
+```{r advanced, echo = FALSE}
+countdown(minutes = 10)
+```
+
 ---
 
 class: inverse, middle, center
@@ -368,8 +381,6 @@ class: inverse, center, middle
 
 # Short Break
 
-
 ```{r, label = "clock", echo = FALSE}
 countdown(minutes = 5, right = "34%", bottom = "20%")
 ```
-

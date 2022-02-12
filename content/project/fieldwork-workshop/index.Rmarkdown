@@ -45,21 +45,17 @@ Collecting linguistic data from face-to-face interactions is becoming ever easie
 
 ## Session 3: Post-field
 
-<!--{{< staticref "/slides/fieldwork/fieldwork-10-fdata.html" "newtab" >}}Analysing field data{{< /staticref >}} <br> 
+{{< staticref "/slides/fieldwork/fieldwork-10-fdata.html" "newtab" >}}Analysing field data{{< /staticref >}} <br> 
 
 {{< staticref "/slides/fieldwork/fieldwork-11-elan.html" "newtab" >}}Introduction to ELAN{{< /staticref >}} <br>
 
 {{< staticref "/slides/fieldwork/fieldwork-12-elanpr.html" "newtab" >}}Practical: Analysing your data in ELAN{{< /staticref >}} <br>
 
-Archiving the data -->
-
 ## Session 4: De-briefing
 
-<!-- What have you learned?
+{{< staticref "/slides/fieldwork/fieldwork-13-recap.html" "newtab" >}}What have you learned?{{< /staticref >}}
 
-Other things to keep in mind
-
-Final remarks -->
+{{< staticref "/slides/fieldwork/fieldwork-14-end.html" "newtab" >}}Final remarks{{< /staticref >}}
 
 # Additional Resources
 
@@ -73,3 +69,14 @@ Final remarks -->
 
 {{< staticref "/slides/fieldwork/fieldwork-stimuli.html" "newtab" >}}Field stimuli{{< /staticref >}}
 
+## Recordings
+
+{{< icon name="download" pack="fas" >}} {{< staticref "media/eng-NP-20220210-BoyCriedWolf.wav" "newtab" >}}Boy Who Cried Wolf{{< /staticref >}}
+
+{{< icon name="download" pack="fas" >}} {{< staticref "media/eng-NP-20220210-LittleMatchGirl.wav" "newtab" >}}The Little Match Girl{{< /staticref >}}
+
+{{< icon name="download" pack="fas" >}} {{< staticref "media/eng-NP-20220210-NorthWindSun.wav" "newtab" >}}The North Wind and the Sun{{< /staticref >}}
+
+{{< icon name="download" pack="fas" >}} {{< staticref "media/eng-NP-20220210-PiedPiper.wav" "newtab" >}}The Pied Piper of Hamelin{{< /staticref >}}
+
+{{< icon name="download" pack="fas" >}} {{< staticref "media/eng-NP-20220210-PrincessPea.wav" "newtab" >}}The Princess and the Pea{{< /staticref >}}
