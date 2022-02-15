@@ -32,9 +32,9 @@ title: Observations on Phonological Variation in Kera'a
 #url_pdf: http://arxiv.org/pdf/1512.04133v1
 #url_poster: '#'
 #url_project: ""
-url_slides: ""
+url_slides: "https://docs.google.com/presentation/d/e/2PACX-1vRFFZ2W38INfKhjo4Ulo5agoFlfMyiKEgtIumNF-v4kuewqqFT0zwUbAWLGqJ1SEQ/pub?slide=id.p1"
 #url_source: '#'
-url_video: 'https://www.youtube.com/watch?v=BQdzfjKntxc'
+#url_video: 'https://www.youtube.com/watch?v=BQdzfjKntxc'
 ---
 
 **Full abstract:**
