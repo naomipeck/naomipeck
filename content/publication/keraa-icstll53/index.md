@@ -31,7 +31,7 @@ title: The phonetics and phonology of Mindri, a dialect of Kera'a (Idu)
 #url_pdf: http://arxiv.org/pdf/1512.04133v1
 #url_poster: '#'
 #url_project: ""
-#url_slides: ""
+url_slides: "icstll53-pres.pdf"
 #url_source: '#'
 url_video: 'https://www.youtube.com/watch?v=BQdzfjKntxc'
 ---
