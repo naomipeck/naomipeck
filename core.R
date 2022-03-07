@@ -11,9 +11,9 @@ blogdown::serve_site()
 blogdown::stop_server()
 
 #Create new post
-blogdown::new_post(title = "Introduction to Fieldwork: From elicitation to ELAN",
+blogdown::new_post(title = "Speeding Up Segmentation",
                    ext = '.Rmarkdown',
-                   subdir = "project")
+                   subdir = "post")
 
 
 # adjust settings 

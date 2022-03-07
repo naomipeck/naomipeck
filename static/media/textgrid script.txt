@@ -1,0 +1,35 @@
+## Script for generating TextGrid with silences
+## Written by Naomi Peck (naomi.peck@linguistik.uni-freiburg.de)
+## Adapted from a script by Katherine Crosswhite (crosswhi@ling.rochester.edu),
+## following advice originally given by T. Mark Ellison and Eri Kashima at ANU.
+## This script opens up sound files in a directory (all files if Word is left blank)
+## and makes a TextGrid for each of the sound files and saves them.
+## TextGrids are easily importable into ELAN
+## and these settings remove a lot of the need to segment.
+## Read more about this method at: https://yammeringon.wordpress.com/2017/05/01/elanpraat-machine-segmenting/
+
+## Note: you must include the final slash at the end of the Directory.
+## Forward slashes will work on all systems; back slashes will work on Windows.
+
+form Enter directory and search string
+	sentence Directory C:/Praat/Tokens/
+	sentence Word  
+endform
+
+Create Strings as file list... list 'directory$''word$'*.wav
+number_of_files = Get number of strings
+for x from 1 to number_of_files 
+	select Strings list
+	current_file$ = Get string... x
+	Read from file... 'directory$''current_file$'
+	object_name$ = selected$ ("Sound")
+	To TextGrid (silences)... 70 0.0 -35.0 0.1 0.1 "" ***
+	Write to text file... 'directory$''object_name$'.TextGrid
+	select all
+	minus Strings list
+	Remove
+endfor 
+
+select Strings list
+Remove
+writeInfoLine: "All done! Now import into ELAN!"
