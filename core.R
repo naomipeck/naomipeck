@@ -3,7 +3,7 @@ remotes::install_github("rstudio/blogdown")
 library(blogdown)
 blogdown::install_hugo("0.81.0")
 
-# create new site
+# c0reate new site
 new_site(theme = "wowchemy/starter-academic")
 
 #load/stop loading site
