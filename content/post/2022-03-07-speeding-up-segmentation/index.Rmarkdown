@@ -88,11 +88,11 @@ There is a nice guide to the silence recogniser in the ELAN Manual [here](https:
 
 9. Once you are relatively satisfied with the output, you can export these annotations using the "Create Tier(s)" button.
 
-10. If you are using a mono file, simply deselect the "Include in tier" button next to "x" and click "Create" to get a tier with annotations for all speech sections.
+10. If you are using a mono file, simply deselect the "Include in tier" button next to "s" and click "Create" to get a tier with annotations for all speech sections.
 
 11. If you are using a stereo file, you have the option to get the segmentation from Channel 1, Channel 2, or both. If exporting a single channel, follow the steps as for mono files. 
 
-12. If you want to export both channels from a stereo file, there is no option to deselect the annotations from "x". To get a similar result, start by creating both tiers. Next, go into *Tier* > *Remove annotations or values*. In this menu, only select the tiers you have just created. Select the option to remove *Annotations* > *Annotations where value is...* and type in "x". Click OK and you should have tiers where only the non-silence values remain.
+12. If you want to export both channels from a stereo file, there is no option to deselect the annotations from "s". To get a similar result, start by creating both tiers. Next, go into *Tier* > *Remove annotations or values*. In this menu, only select the tiers you have just created. Select the option to remove *Annotations* > *Annotations where value is...* and type in "s". Click OK and you should have tiers where only the non-silence values remain.
 
 13. The output tier(s) can now be manipulated as per any other tier in ELAN.
 
