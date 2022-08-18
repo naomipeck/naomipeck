@@ -3,8 +3,10 @@ title: 'Introduction to Fieldwork'
 author: admin
 date: '2022-01-29'
 slug: fieldwork-workshop
-#categories: []
-#tags: []
+categories: 
+  - workshop
+tags: 
+  - fieldwork
 subtitle: 'From elicitation to ELAN'
 #summary: ''
 #authors: []
