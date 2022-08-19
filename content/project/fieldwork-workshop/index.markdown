@@ -1,7 +1,7 @@
 ---
 title: 'Introduction to Fieldwork'
 author: admin
-date: '2022-01-29'
+date: '2022-08-19'
 slug: fieldwork-workshop
 categories: 
   - workshop
@@ -10,7 +10,7 @@ tags:
 subtitle: 'From elicitation to ELAN'
 #summary: ''
 #authors: []
-lastmod: '2022-02-04T15:04:49+01:00'
+lastmod: '2022-08-18T15:04:49+01:00'
 #featured: no
 #image:
 #  caption: ''
@@ -23,53 +23,19 @@ Collecting linguistic data from face-to-face interactions is becoming ever easie
 
 # Slides
 
-## Session 1: Pre-field
+{{< staticref "/slides/fieldwork/220715-fieldwork" "newtab" >}} <b>Day 1</b> {{< /staticref >}}
 
-{{< staticref "/slides/fieldwork/fieldwork-1-intro.html" "newtab" >}}Introduction to course{{< /staticref >}} <br>
-
-{{< staticref "/slides/fieldwork/fieldwork-2-fieldwork.html" "newtab" >}}What is fieldwork?{{< /staticref >}} <br>
-
-{{< staticref "/slides/fieldwork/fieldwork-3-data.html" "newtab" >}}What data to collect?{{< /staticref >}} <br>
-
-{{< staticref "/slides/fieldwork/fieldwork-4-dmp.html" "newtab" >}}Practical: Creating a data management plan{{< /staticref >}} <br>
-
-{{< staticref "/slides/fieldwork/fieldwork-5-prep.html" "newtab" >}}Going to the field{{< /staticref >}}
-
-## Session 2: In the field
-
-{{< staticref "/slides/fieldwork/fieldwork-6-elicitation.html" "newtab" >}}What is elicitation?{{< /staticref >}} <br>
-
-{{< staticref "/slides/fieldwork/fieldwork-7-planning.html" "newtab" >}}Planning a session{{< /staticref >}} <br>
-
-{{< staticref "/slides/fieldwork/fieldwork-8-practice.html" "newtab" >}}Practical: Field practice{{< /staticref >}} <br>
-
-{{< staticref "/slides/fieldwork/fieldwork-9-homework.html" "newtab" >}}Introduction to homework{{< /staticref >}}
-
-## Session 3: Post-field
-
-{{< staticref "/slides/fieldwork/fieldwork-10-fdata.html" "newtab" >}}Analysing field data{{< /staticref >}} <br> 
-
-{{< staticref "/slides/fieldwork/fieldwork-11-elan.html" "newtab" >}}Introduction to ELAN{{< /staticref >}} <br>
-
-{{< staticref "/slides/fieldwork/fieldwork-12-elanpr.html" "newtab" >}}Practical: Analysing your data in ELAN{{< /staticref >}} <br>
-
-## Session 4: De-briefing
-
-{{< staticref "/slides/fieldwork/fieldwork-13-recap.html" "newtab" >}}What have you learned?{{< /staticref >}} <br>
-
-{{< staticref "/slides/fieldwork/fieldwork-14-end.html" "newtab" >}}Final remarks{{< /staticref >}}
+Day 2 will be updated tomorrow.
 
 # Additional Resources
 
 ## Workshop Resources
 
+**Homework Instructions:** {{< icon name="download" pack="fas" >}} {{< staticref "slides/fieldwork-homework.pdf" "newtab" >}}.pdf{{< /staticref >}}
+
 **Informed Consent Form:** {{< icon name="download" pack="fas" >}} {{< staticref "media/informed-consent.pdf" "newtab" >}}.pdf{{< /staticref >}} {{< icon name="download" pack="fas" >}} {{< staticref "media/informed-consent.docx" "newtab" >}}.docx{{< /staticref >}}
 
 **Archive:** TBA
-
-## Elicitation Tools
-
-{{< staticref "/slides/fieldwork/fieldwork-stimuli.html" "newtab" >}}Field stimuli{{< /staticref >}}
 
 ## Recordings
 
@@ -82,3 +48,40 @@ Collecting linguistic data from face-to-face interactions is becoming ever easie
 {{< icon name="download" pack="fas" >}} {{< staticref "media/eng-NP-20220210-PiedPiper.wav" "newtab" >}}The Pied Piper of Hamelin{{< /staticref >}}
 
 {{< icon name="download" pack="fas" >}} {{< staticref "media/eng-NP-20220210-PrincessPea.wav" "newtab" >}}The Princess and the Pea{{< /staticref >}}
+
+<br>
+<hr>
+
+# Previous Versions of Slides
+
+## 2022-02-11
+
+{{< staticref "/slides/fieldwork/fieldwork-1-intro.html" "newtab" >}}Introduction to course{{< /staticref >}} <br>
+
+{{< staticref "/slides/fieldwork/fieldwork-2-fieldwork.html" "newtab" >}}What is fieldwork?{{< /staticref >}} <br>
+
+{{< staticref "/slides/fieldwork/fieldwork-3-data.html" "newtab" >}}What data to collect?{{< /staticref >}} <br>
+
+{{< staticref "/slides/fieldwork/fieldwork-4-dmp.html" "newtab" >}}Practical: Creating a data management plan{{< /staticref >}} <br>
+
+{{< staticref "/slides/fieldwork/fieldwork-5-prep.html" "newtab" >}}Going to the field{{< /staticref >}} <br>
+
+{{< staticref "/slides/fieldwork/fieldwork-6-elicitation.html" "newtab" >}}What is elicitation?{{< /staticref >}} <br>
+
+{{< staticref "/slides/fieldwork/fieldwork-7-planning.html" "newtab" >}}Planning a session{{< /staticref >}} <br>
+
+{{< staticref "/slides/fieldwork/fieldwork-8-practice.html" "newtab" >}}Practical: Field practice{{< /staticref >}} <br>
+
+{{< staticref "/slides/fieldwork/fieldwork-9-homework.html" "newtab" >}}Introduction to homework{{< /staticref >}}
+
+## 2022-02-12
+
+{{< staticref "/slides/fieldwork/fieldwork-10-fdata.html" "newtab" >}}Analysing field data{{< /staticref >}} <br> 
+
+{{< staticref "/slides/fieldwork/fieldwork-11-elan.html" "newtab" >}}Introduction to ELAN{{< /staticref >}} <br>
+
+{{< staticref "/slides/fieldwork/fieldwork-12-elanpr.html" "newtab" >}}Practical: Analysing your data in ELAN{{< /staticref >}} <br>
+
+{{< staticref "/slides/fieldwork/fieldwork-13-recap.html" "newtab" >}}What have you learned?{{< /staticref >}} <br>
+
+{{< staticref "/slides/fieldwork/fieldwork-14-end.html" "newtab" >}}Final remarks{{< /staticref >}}
