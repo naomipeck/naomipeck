@@ -23,7 +23,7 @@ Collecting linguistic data from face-to-face interactions is becoming ever easie
 
 # Slides
 
-{{< staticref "/slides/fieldwork/220715-fieldwork" "newtab" >}} <b>Day 1</b> {{< /staticref >}}
+{{< staticref "/slides/fieldwork/220715-fieldwork" "newtab" >}} <b>Day 1</b> {{< /staticref >}}<br>
 
 Day 2 will be updated tomorrow.
 
