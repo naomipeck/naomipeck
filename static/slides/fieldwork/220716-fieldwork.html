@@ -1,0 +1,1161 @@
+<!DOCTYPE html>
+<html lang="" xml:lang="">
+  <head>
+    <title>Introduction to Fieldwork</title>
+    <meta charset="utf-8" />
+    <meta name="author" content="Naomi Peck" />
+    <script src="libs/header-attrs/header-attrs.js"></script>
+    <link href="libs/remark-css/default.css" rel="stylesheet" />
+    <link href="libs/remark-css/default-fonts.css" rel="stylesheet" />
+    <link href="libs/countdown/countdown.css" rel="stylesheet" />
+    <script src="libs/countdown/countdown.js"></script>
+    <script src="libs/htmlwidgets/htmlwidgets.js"></script>
+    <script src="libs/viz/viz.js"></script>
+    <link href="libs/DiagrammeR-styles/styles.css" rel="stylesheet" />
+    <script src="libs/grViz-binding/grViz.js"></script>
+  </head>
+  <body>
+    <textarea id="source">
+
+class: inverse, center, middle
+
+
+
+# Introduction to Fieldwork &lt;br&gt;
+## From elicitation to ELAN &amp;nbsp;
+
+## Naomi Peck &amp;nbsp;
+
+### Albert-Ludwigs-Universität Freiburg &lt;br&gt; 2022-08-20 (updated: 2022-08-20)
+&amp;nbsp;
+
+&lt;img src="freiburg-logo.png" height="125px"/&gt;
+
+---
+
+class: middle, inverse
+
+# You can find all of the slides from this workshop at: https://naomipeck.com/project/fieldwork-workshop
+
+---
+
+# Recap
+
+Apologies to all who were affected by the time mix-up! The slides from yesterday are on my website and you can reach out to me at any time to talk about them.
+
+Yesterday, we discussed the nature of field(work), FAIR (meta)data, and how to go about recording and collecting data from other people.
+
+--
+
+### A tl;dr
+
+1. Fieldwork is about working directly **with** others to collect linguistic data
+1. (Meta)data should be **FAIR**: Findable, Accessible, Interoperable, Reusable
+1. FAIR Data should be "as open as possible and as closed as necessary"
+1. Personal safety comes first
+1. Record for your future self!
+
+---
+
+class: middle, center
+
+# How did you go with the homework?
+
+--
+
+If you don't have a recording, you can download one from my website 😄
+
+---
+
+class: middle, center
+
+# Why ELAN?
+
+---
+
+# Why ELAN?
+
+ELAN allows researchers to directly work with audiovisual data. &lt;br&gt;&lt;br&gt;
+
+--
+
+ELAN supports multiple levels of annotation. &lt;br&gt;&lt;br&gt;
+
+--
+
+ELAN enables both qualitative and quantitative research.
+
+---
+
+class: middle
+
+# Do you have ELAN experience?
+
+---
+
+&lt;div style='position: relative; padding-bottom: 56.25%; padding-top: 35px; height: 0; overflow: hidden;'&gt;&lt;iframe sandbox='allow-scripts allow-same-origin allow-presentation' allowfullscreen='true' allowtransparency='true' frameborder='0' height='315' src='https://www.mentimeter.com/app/presentation/49279aea0f8b188fb2edbaba2ec6a277/1fb0d4635a2e/embed' style='position: absolute; top: 0; left: 0; width: 100%; height: 100%;' width='420'&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+---
+
+# Outcomes
+
+By the end of this session, you should be able to:
+
+-   create new .eaf files
+-   turn on automatic backup
+-   create new tier types
+-   create new tiers
+-   create a template
+-   perform basic segmentation
+-   perform basic transcription + translation
+-   add, change and delete annotations
+-   perform basic interlinearisation
+
+---
+
+class: middle, center
+
+# Basics
+
+???
+
+-   create new project
+
+-   save project
+
+-   automatic backup
+
+-   basic interface
+
+---
+
+
+# First of all
+
+We'll be using the recordings we made as homework to learn basics in ELAN.
+
+Pick one of these now!
+
+---
+
+# Creating a new file
+
+1. Open ELAN
+
+1. Navigate to the folder in which your audio is in. Check it's named according to our guidelines!
+
+1. Select all media
+
+1. Drag and drop them into ELAN &lt;br&gt;
+
+# Save your new file
+
+1. File &gt; Save As/Ctrl + Shift + S
+
+1. Save your file with the same name as your recording.
+
+???
+
+Alternate (more traditional) way of creating a new file: 
+1. Open ELAN
+1. File &gt; New
+1. Browse to directory with data
+1. Select all media (and templates, if applicable)
+1. Click OK
+
+---
+
+# Turn on Automatic Backup
+
+1. File &gt; Automatic Backup
+
+1. Choose how often your file should automatically save
+
+&lt;br&gt;&lt;br&gt;
+
+Backups will have the file extension .eaf.001. To use them, rename the files to only have the extension .eaf.
+
+---
+
+# Getting used to the interface
+
+Explore the interface! On your own, try to do the following:
+
+1. Play your audio normally
+1. Play just a selection of the audio
+1. Scroll through the data file at light speed
+1. Zoom into the audio file
+1. Increase the size of the peaks of the audio file
+1. Change the rate of the audio track
+1. Change the volume of the audio track
+
+<div class="countdown" id="timer_63009726" style="right:0;bottom:0;" data-warnwhen="0">
+<code class="countdown-time"><span class="countdown-digits minutes">05</span><span class="countdown-digits colon">:</span><span class="countdown-digits seconds">00</span></code>
+</div>
+
+---
+
+class: middle, center
+
+# Tiers and Types
+
+---
+
+class: middle
+
+# What units of analysis do we need for language description?
+
+---
+
+# Units of analysis
+
+--
+
+-   reference unit
+
+-   transcription
+
+-   translation
+
+-   words
+
+-   morphemes
+
+-   gloss
+
+-   part of speech
+
+-   comment
+
+---
+
+# Task
+
+By yourself, create a diagram on a piece of paper of how these units relate to each other. 
+
+As you draw the diagram, consider the following questions:
+
+1. Does one type of unit depend on another?
+
+1. Is there a one-to-one relation between the units or a one-to-many relation?
+
+&lt;br&gt;&lt;br&gt;
+
+--
+
+.pull-left[
+-   reference unit
+-   transcription
+-   translation
+-   words
+]
+
+.pull-right[
+-   morphemes
+-   gloss
+-   part of speech
+-   comment
+]
+
+<div class="countdown" id="timer_6300966a" style="right:0;bottom:0;" data-warnwhen="0">
+<code class="countdown-time"><span class="countdown-digits minutes">05</span><span class="countdown-digits colon">:</span><span class="countdown-digits seconds">00</span></code>
+</div>
+
+---
+
+<div id="htmlwidget-4efb6b1ddda26582c36f" style="width:720px;height:576px;" class="grViz html-widget"></div>
+<script type="application/json" data-for="htmlwidget-4efb6b1ddda26582c36f">{"x":{"diagram":"digraph flowchart {\n  node [fontname = helvetica, shape = box]\n  \n  \"Reference Unit\"\n  \"Reference Unit\" -> Transcription\n  Transcription -> Translation\n  Comment\n  Transcription -> Words\n  Words -> Morpheme\n  Morpheme -> Gloss \n  Morpheme -> \"Parts of Speech\"\n  Gloss -> \"Parts of Speech\" [dir = both, minlen = 2]\n \n  subgraph {\n  rank = same; Gloss; \"Parts of Speech\";\n  }\n   \n}\n  \n  ","config":{"engine":"dot","options":null}},"evals":[],"jsHooks":[]}</script>
+
+---
+
+# Tiers and Tier Types
+
+Tiers and types are possibly the most complicated part about learning to use ELAN. 
+
+Tier types provide a template for what kind of annotations you want to make, and how annotations will relate to each other. 
+
+Tiers are the “physical” places where these annotations are made.
+
+Always make sure to set up your tier types before creating your tiers.
+
+---
+
+# Tier Types
+
+All tier types must minimally have a name. 
+
+If you want to create dependent tiers (“children”), then you must select a stereotype. 
+
+These stereotypes differ primarily depending on whether the child will be time-aligned or symbolically-aligned.
+
+You can also limit what values annotations can have using a controlled vocabulary, and associate types with lexicon and data categories.
+
+---
+
+# Q1
+
+<div id="htmlwidget-42d5956fa0b53555bc08" style="width:720px;height:288px;" class="grViz html-widget"></div>
+<script type="application/json" data-for="htmlwidget-42d5956fa0b53555bc08">{"x":{"diagram":"digraph flowchart {\n  graph[layout = dot]\n      \n  node [fontname = helvetica, shape = box]\n  \n  \"Are my annotations independent?\"\n  \"Are my annotations independent?\" -> Yes -> \"No tier type needed\"\n  \"Are my annotations independent?\" -> No -> Q2\n\n  \n}\n  \n  ","config":{"engine":"dot","options":null}},"evals":[],"jsHooks":[]}</script>
+
+---
+
+# Q2
+
+<div id="htmlwidget-9e9231fe445a19cc8be6" style="width:720px;height:288px;" class="grViz html-widget"></div>
+<script type="application/json" data-for="htmlwidget-9e9231fe445a19cc8be6">{"x":{"diagram":"digraph flowchart {\n  graph[layout = dot]\n      \n  node [fontname = helvetica, shape = box]\n  \n  \"Should my annotations be time-aligned?\"\n  \"Should my annotations be time-aligned?\" -> Yes\n  Yes -> Q3 \n  \"Should my annotations be time-aligned?\" -> No\n  No -> Q4\n  \n}\n  \n  ","config":{"engine":"dot","options":null}},"evals":[],"jsHooks":[]}</script>
+
+---
+
+# Q3
+
+<div id="htmlwidget-0fad3d551603bd3cefdb" style="width:720px;height:288px;" class="grViz html-widget"></div>
+<script type="application/json" data-for="htmlwidget-0fad3d551603bd3cefdb">{"x":{"diagram":"digraph flowchart {\n  graph[layout = dot]\n      \n  node [fontname = helvetica, shape = box]\n  \n  \"Do I want gaps in between my annotations?\" -> \"I do\" -> \"Included In\"\n  \"Do I want gaps in between my annotations?\" -> \"I do not\" -> \"Time Subdivision\"\n  \n  \n  \n}\n  \n  ","config":{"engine":"dot","options":null}},"evals":[],"jsHooks":[]}</script>
+
+---
+
+# Q4
+
+<div id="htmlwidget-4f4386baa2d00738bbcc" style="width:720px;height:288px;" class="grViz html-widget"></div>
+<script type="application/json" data-for="htmlwidget-4f4386baa2d00738bbcc">{"x":{"diagram":"digraph flowchart {\n  graph[layout = dot]\n      \n  node [fontname = helvetica, shape = box]\n  \n  \"What kind of relation is there between my two tiers?\"\n  \"What kind of relation is there between my two tiers?\" -> \"One-to-one\" -> \"Symbolic Association\"\n  \"What kind of relation is there between my two tiers?\" -> \"Many-to-one\" -> \"Symbolic Subdivision\"\n  \n}\n  \n  ","config":{"engine":"dot","options":null}},"evals":[],"jsHooks":[]}</script>
+
+---
+
+class: middle, center
+
+
+<div id="htmlwidget-0a655699602bed44187a" style="width:720px;height:576px;" class="grViz html-widget"></div>
+<script type="application/json" data-for="htmlwidget-0a655699602bed44187a">{"x":{"diagram":"digraph flowchart {\n  graph[layout = dot, fontsize = 14]\n      \n  node [fontname = helvetica, shape = box]\n  \n  \"Are my annotations independent?\"\n  \"Should my annotations be time-aligned?\"\n  \"Do I want gaps in between my annotations?\"\n  \"What kind of relation is there between my two tiers?\"\n  \"Are my annotations independent?\" -> \"Independent\" -> \"No tier type needed\"\n  \"Are my annotations independent?\" -> \"Dependent\"\n  \"Dependent\" -> \"Should my annotations be time-aligned?\"\n  \"Should my annotations be time-aligned?\" -> Yes\n  Yes -> \"Do I want gaps in between my annotations?\" -> \"I do\" -> \"Included In\"\n  \"Do I want gaps in between my annotations?\" -> \"I do not\" -> \"Time Subdivision\"\n  \"Should my annotations be time-aligned?\" -> No\n  No -> \"What kind of relation is there between my two tiers?\"\n  \"What kind of relation is there between my two tiers?\" -> \"One-to-one\" -> \"Symbolic Association\"\n  \"What kind of relation is there between my two tiers?\" -> \"Many-to-one\" -> \"Symbolic Subdivision\"\n  \n  \n}\n  \n  ","config":{"engine":"dot","options":null}},"evals":[],"jsHooks":[]}</script>
+
+---
+
+# Task
+
+Take a look at your previous diagramme. 
+
+Based on the diagramme and what you've just heard, does your unit of analysis require a tier type? If so, which tier type?
+
+--
+
+&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;
+
+**No Tier Type**: independent, time-aligned
+
+**Included In**: dependent, time-aligned, allows gaps
+
+**Time Subdivision**: dependent, time-aligned, no gaps allowed
+
+**Symbolic Association**: dependent, not time-aligned, one-to-one relation
+
+**Symbolic Subdivision**: dependent, not time-aligned, one-to-many relation
+
+---
+
+# Tier Types and Units of Analysis
+
+--
+
+No tier type = Reference Unit
+
+--
+
+Symbolic Association = Translation, Gloss, Parts of Speech, Comment
+
+--
+
+Symbolic Subdivision = Words, Morphemes
+
+--
+
+The relationship of Transcription to Reference Unit is debatable, depending on how you decide to create your reference units. It's best to have reference units as small as possible, so let's go for a Symbolic Association.
+
+--
+
+Generally, people use the following shorthand:
+.pull-left[
+- reference: ref
+- transcription: tx
+- translation: ft
+- comment: ct
+]
+.pull-right[
+- words: wd
+- morphemes: mb
+- gloss (English): ge
+- gloss (national language): gn
+- part of speech: ps
+]
+
+---
+
+# Adding tier types
+
+1. Create tier types for the following:
+
+    -   transcription
+    -   translation
+    -   comment
+    -   words
+    -   morphemes
+    -   gloss
+    -   part of speech
+
+1. Change the default tier to a reference tier by renaming it.
+    
+.pull-left[
+- reference: ref
+- transcription: tx
+- translation: ft
+- comment: ct
+]
+.pull-right[
+- words: wd
+- morphemes: mb
+- gloss (English): ge
+- gloss (national language): gn
+- part of speech: ps
+]
+
+---
+
+# Tier Naming Coventions
+
+Each tier name should minimally consist of a code for the data type, a separator character (gen. @ or _), and a participant code.
+
+Different people and programs have a range of conventions about how naming should be done. Make sure to double-check if a certain format is required for programs and archives etc.
+
+Minimally, names should make it obvious to anyone accessing the file which tier contains what type of data and who produced which data.
+
+.center[
+##datatype@participant
+]
+
+---
+
+# Adding tiers
+
+.center[
+###datatype@participant
+]
+
+1. Create tiers for the following for one participant:
+
+.pull-left[
+-   reference
+-   transcription
+-   translation
+-   comment
+]
+
+.pull-right[
+-   words
+-   morphemes
+-   gloss
+-   part of speech
+]
+
+Consider which hierarchies we discussed between units earlier. Make sure you use this in selecting which tier is the parent of a dependent tier. 
+
+Once you are done, sort your tiers in the left-hand pane as you like. If you're done even earlier, adjust your settings in the main annotation section (e.g., increasing font size).
+
+---
+
+class: inverse, center, middle
+
+# Does anyone have more than one participant?
+
+---
+
+# Duplicating Tier Hierarchies
+
+1. Tier &gt; Add New Participant
+
+1. Participant &gt; choose a participant with the tier hierarchy you want to duplicate
+
+1. Specify the new participant: Enter a new code in
+
+1. Choose prefix (participant@datatype) or suffix (datatype@participant)
+
+1. Value to be replaced: Existing participant's code
+
+1. Value for replacement: New participant's code
+
+---
+
+# Create a template
+
+If you will be working on analysing multiple files, it saves a lot of time when you create a template. The template retains all of the tier types and tiers created in this file. You can use this template when you make a file (using the menu option) or you can import the tiers/tier types through the dialogue box.
+
+Create a template for yourself now - your choice of name as we won't archive this!
+
+---
+
+class: middle, center, inverse
+
+# Segmentation
+
+---
+
+# Automatic Silence Recognition
+
+1. Go to the Recognizer sub-menu in the menu pane in the top(-right) of ELAN and select the “Silence Recognizer MPI-PL” in the Recognizer drop-down box.
+
+1. Select the audio file you wish to run the silence recogniser on in the Files List drop-down box.
+
+1. Select the silence level and set it to -35dB.
+
+1. Set the minimal silence and non silence duration to 100ms.
+
+1. Click the “Start” button to run the silence recogniser. 
+
+--
+
+You should see annotations populate on the waveform. Annotations with “x” represent the start of a non-silence section; annotations with “s” represent the start of a silence section. Take a look at how the annotations correspond to the waveform and to what you can hear. If it’s not good enough, change the settings and rerun until you are happy with the results.
+
+---
+
+# Automatic Silence Recognition
+
+Once you are relatively satisfied with the output, export the annotations using the “Create Tier(s)” button.
+
+1.    If you are using a mono file, simply deselect the “Include in tier” button next to “s” and click “Create” to get a tier with annotations for all speech sections.
+
+1.    If you are using a stereo file, you have the option to get the segmentation from Channel 1, Channel 2, or both. Export from Channel 1 only, and then follow the steps for mono files.
+
+---
+
+# Copying Results
+
+We need to still do a bit more preparation prior to editing the segments.
+
+1.    Tier &gt; Copy Annotations from Tier to Tier
+
+1.    Select Channel1 as the source tier.
+
+1.    Select your Reference Unit tier as the destination tier.
+
+1.    Click Finish.
+
+1.    Delete the "Channel1" Tier and the "segmentation" tier type.
+
+Copy the annotations twice if you have more than one participant!
+
+---
+
+# Basic Segmentation
+
+1. Switch to Segmentation Mode.
+
+---
+
+# Basic Segmentation
+
+Try out some of the functions in Segmentation Mode while correcting the automated segmentation.
+
+1. Set the working tier to your Reference Unit tier.
+
+1. Create a new segment.
+
+1. Delete a segment.
+
+1. Adjust the time of a segment.
+
+1. Split a segment.
+
+1. Merge a segment.
+
+---
+
+class: center, middle
+
+# Free Segmentation Time
+
+<div class="countdown" id="timer_6300973e" style="right:34%;bottom:20%;" data-warnwhen="0">
+<code class="countdown-time"><span class="countdown-digits minutes">15</span><span class="countdown-digits colon">:</span><span class="countdown-digits seconds">00</span></code>
+</div>
+
+---
+
+class: inverse, center, middle
+
+# Lunch Time!
+
+<div class="countdown" id="timer_6300967b" style="right:34%;bottom:20%;" data-warnwhen="0">
+<code class="countdown-time"><span class="countdown-digits minutes">60</span><span class="countdown-digits colon">:</span><span class="countdown-digits seconds">00</span></code>
+</div>
+
+---
+
+class: center, middle
+
+# Check In
+
+---
+
+# Wrapping Up Segmentation
+
+Let's generate some labels for our reference units before we go any further.
+
+--
+
+1. Tier &gt; Label and Number Annotations
+
+1. Multiple Tiers &gt; select all ref tiers
+
+1. Enter a label of your choice - no spaces!
+
+1. Insert Delimiter &gt; Insert other delimiter &gt; _
+
+1. Prepend leading zeroes &gt; make sure you have a minimum of three digits!
+
+1. OK
+
+---
+
+class: inverse, center, middle
+
+# Transcription and Translation
+
+---
+
+# Transcription and Translation
+
+1. Go into Translation Mode.
+
+1. Choose your transcription tier for Column 1.
+
+1. Choose your translation tier for Column 2.
+
+1. Increase your font size (if you want!).
+
+--
+
+&lt;br&gt;&lt;br&gt;
+
+####Any problems?
+
+---
+
+# Transcription Interface
+
+1. Create a new annotation.
+
+1. Play the sound automatically.
+
+1. Go to the annotation below using your keyboard.
+
+1. Change the settings so that you go across using your keyboard instead of down.
+
+1. Replay the sound using your keyboard.
+
+---
+
+class: center, middle
+
+# Free Transcription and Translation Time
+
+<div class="countdown" id="timer_63009480" style="right:34%;bottom:20%;" data-warnwhen="0">
+<code class="countdown-time"><span class="countdown-digits minutes">30</span><span class="countdown-digits colon">:</span><span class="countdown-digits seconds">00</span></code>
+</div>
+
+---
+
+class: inverse, center, middle
+
+# Have a coffee :)
+
+<div class="countdown" id="timer_630094d9" style="right:34%;bottom:20%;" data-warnwhen="0">
+<code class="countdown-time"><span class="countdown-digits minutes">15</span><span class="countdown-digits colon">:</span><span class="countdown-digits seconds">00</span></code>
+</div>
+
+---
+
+class: inverse, center, middle
+
+# Interlinearization Mode
+
+---
+
+# Intro to Interlinearisation
+
+Interlinearisation is the process of creating an interlinear gloss, where you mark up words with more than one annotation.
+
+Interlinearization Mode in ELAN is relatively new and relatively unknown. This mode allows semi-automatic parsing and glossing of annotations within a text using Analyzers. The prerequisites for interlinearisation in ELAN are a transcribed text and a lexicon.
+
+There are three steps to setting up interlinearisation mode: a) creating a lexicon, b) editing your tier type, and c) setting up your analysers.
+
+--
+
+&lt;br&gt;&lt;br&gt;
+
+1. Go into Interlinearization Mode.
+
+---
+
+# Creating a Lexicon
+
+1. Lexicon Actions &gt; Create New Lexicon
+
+1. Lexicon Name: your choice
+
+1. Language: target language
+
+1. Optional: description, author, version
+
+1. Click Apply
+
+--
+
+The name of your lexicon will turn blue if there are any unsaved changes. Saving your lexicon is an independent action from saving your document.
+
+--
+
+Save your lexicon now.
+
+---
+
+# Set Up Your Tier Types
+
+In order to use the analysers effectively, you have to tell them what to analyse.
+
+--
+
+1. Type &gt; Change Tier Type
+
+1. mb &gt; Lexicon Connection &gt; + &gt; Select your lexicon &gt; lexical-unit &gt; OK
+
+1. Change
+
+1. ge &gt; Lexicon Connection &gt; + &gt; sense/gloss &gt; OK
+
+1. Change
+
+1. ps &gt; Lexicon Connection &gt; + &gt; sense/grammatical-category &gt; OK
+
+1. Change
+
+---
+
+# Analyser/Interlinearisers
+
+There are four types of Analyzers in ELAN.
+
+1. Whitespace Text Analyzer: splits annotation up based on whitespace
+
+1. Parse Analyzer: subdivides a unit into further units
+
+1. Gloss Analyzer: labels a unit which is symbolically associated
+
+1. Lexicon Analyzer: combination of parse + gloss analysers
+
+--
+
+We're going to set up 4 Analyzers: 1 x Whitespace, 2 x Gloss, 1 x Parse.
+
+---
+
+# Analyser/Interlinearisers
+
+1. Analyzer &amp; Source-Target Configuration &gt; Edit configurations...
+
+1. Whitespace Text &gt; tx &gt; wd
+
+1. Parse Analyzer &gt; wd &gt; mb
+
+1. Gloss Analyzer &gt; mb &gt; ge
+
+1. Gloss Analyzer &gt; mb &gt; ps
+
+1. Apply
+
+---
+
+# Analyser/Interlinearisers
+
+You also need to configure some settings of the analysers to make your life easier!
+
+1. Parse Analyzer &gt; Configure Parse Analyzer &gt; Global Settings
+
+1. Clitic marker character: =
+
+1. Match longer prefixes/suffixes first
+
+1. Apply Settings
+
+--
+
+1. Whitespace Text Analyzer &gt; Configure ... &gt; Global Settings
+
+1. Add punctuation marks you would like for the parser to remove! (One per row)
+
+1. Apply
+
+---
+
+# Analyser/Interlinearisers
+
+You've successfully set everything up!
+
+To run the analysers, you can either:
+
+- click on the Analyze/Interlinearize button at the top; or
+- right click on a unit affected by the analyser and choose "Analyze/Interlinearize"
+
+Clicking on the button will run only a single parser until the end of the text, or until you have to select a potential analysis. If you want all the parsers to run at once, turn the Recursive option on.
+
+---
+
+# Adding to the Lexicon
+
+Interlinearisation requires some ideas about what lexical items are in a language.
+
+To add items to the lexicon, click on the Add button on the bottom left. You must minimally fill in the Lexical Unit, the Morph Type, the Gram. Category and the Gloss.
+
+Alternatively, you can right-click on an annotation which is tied to the lexicon (mb is best), and add from there.
+
+--
+
+&lt;br&gt;&lt;br&gt;
+
+**Lexical Unit**: the word/affix, including -/=
+
+**Morph Type**: root, stem, pfx, sfx, enc, prc ...
+
+**Gram. Category**: n, v, (v)pfx, (n)sfx ...
+
+**Gloss**: meaning
+
+---
+
+# Some Tips
+
+1. When in doubt, "turn it on and off again". Switch modes to make sure everything works correctly!
+
+1. Capitalisation matters for parsing and glossing. If you have capitals in your word line, you can:
+
+    1. Tier &gt; Change Case of Annotations
+    1. Select which tiers you want this to affect
+    1. Lowercase (no capital at beginning)
+    1. OK
+
+1. If the name of your lexicon is blue, it requires manual saving. Note that lexicons are stored locally on your computer in a different folder, no matter where your ELAN file is stored.
+
+1. You can play your annotation using the button to the left of the Analyze/Interlinearize button, or increase your font size using the buttons on the top right.
+
+1. You can add custom fields to your lexicon by Lexicon Actions &gt; Edit Lexicon Properties &gt; Custom Fields. You can then use these to sort.
+
+---
+
+class: center, middle
+
+# Free Interlinearisation
+
+<div class="countdown" id="timer_63009691" style="right:34%;bottom:20%;" data-warnwhen="0">
+<code class="countdown-time"><span class="countdown-digits minutes">30</span><span class="countdown-digits colon">:</span><span class="countdown-digits seconds">00</span></code>
+</div>
+
+---
+
+class: inverse, center, middle
+
+# Have a second coffee :)
+
+<div class="countdown" id="timer_63009673" style="right:34%;bottom:20%;" data-warnwhen="0">
+<code class="countdown-time"><span class="countdown-digits minutes">15</span><span class="countdown-digits colon">:</span><span class="countdown-digits seconds">00</span></code>
+</div>
+
+---
+
+class: inverse, center, middle
+
+# Annotation Mode
+
+---
+
+# Annotation Mode
+
+Now that we've taken a text most of the way through its analysis, let's check back in with annotation mode.
+
+--
+
+Annotation mode is the easiest mode to edit in, and is the mode that most people who use ELAN know. I recommend only using it at a later stage of your analysis.
+
+---
+
+# Basics
+
+1. Add a new annotation
+
+1. Change its timing
+
+1. Change its value
+
+1. Delete the annotation
+
+1. Use shortcuts to "travel" through your existing annotations
+
+---
+
+class: inverse, middle, center
+
+# That's it!
+
+## Congratulations, you now know how to use ELAN!
+
+---
+
+# Next steps
+
+If you run into any problems, first take a look at the ELAN Manual: https://archive.mpi.nl/tla/elan/documentation
+
+If you are having any software issues, their support team is incredibly helpful: https://archive.mpi.nl/forums/c/elan
+
+&lt;br&gt;
+
+--
+
+Lots of people have created resources for you to learn how to use ELAN and a simple Google search will bring up many of them. Some I recommend are:
+
+- Ulrike Mosel’s guide on regex searching: [Searches with Regular Expressions in ELAN corpora](https://www.isfas.uni-kiel.de/de/linguistik/mitarbeitende/prof.-dr.-ulrike-mosel/publications_mosel/elan-regular-expressions) 
+- Hedvig Skirgard’s guide for speeding up the transcription workflow: [My ELAN workflow for segmenting and transcription](http://humans-who-read-grammars.blogspot.com/2019/07/my-elan-workflow-for-segmenting-and.html)
+- John Mansfield’s guide on the ELAN-FLEx workflow: [Elan - Flex workflow](http://langwidj.org/linguistics/elan-flex-workflow/) 
+- Amalia Skilton’s scripts and guides: [ELAN Scripts](https://blogs.cornell.edu/amaliaskilton/elan-scripts/) 
+- Eri Kashima and T. Mark Ellison’s Praat to ELAN workflow: [Elan/Praat Machine Segmenting](https://yammeringon.wordpress.com/2017/05/01/elanpraat-machine-segmenting/)
+
+---
+
+# Recap
+
+We are now coming to the end of the workshop. Every good field trip needs a debrief afterwards, so let's go over again what you've learnt over the past two days.
+
+--
+
+#### You've learnt what fieldwork is all about the social connections, rather than going somewhere exotic.
+
+--
+
+#### You've learnt about different types of data and how to think critically about what you collect and create.
+
+--
+
+#### You've learnt about how to create data and metadata in a **FAIR** manner.
+
+--
+
+#### You've learnt about different ways to ethically collect data from and with others.
+
+---
+
+# Recap
+
+
+#### You've learnt best practices about recording and how to save your future self from pain when listening back.
+
+--
+
+#### You've made a recording yourself using what you've learned!
+
+--
+
+#### You've even analysed your very own data.
+
+--
+
+#### You've learnt how to use ELAN in less than a day!
+
+---
+
+class: center, middle
+
+### Perhaps most importantly, I hope you learnt that:
+
+# Fieldwork is not easy, but it can be a lot of fun.
+
+---
+
+class: center, middle
+
+# Congratulations on a successful field experience!
+
+---
+
+class: center, middle, inverse
+
+# What did you learn?
+
+---
+
+&lt;div style='position: relative; padding-bottom: 56.25%; padding-top: 35px; height: 0; overflow: hidden;'&gt;&lt;iframe sandbox='allow-scripts allow-same-origin allow-presentation' allowfullscreen='true' allowtransparency='true' frameborder='0' height='315' src='https://www.mentimeter.com/app/presentation/8e6676900f1f12c2a228842734228725/d61c81d5c505/embed' style='position: absolute; top: 0; left: 0; width: 100%; height: 100%;' width='420'&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+---
+
+# Some final remarks from me
+
+Thank you to the Junge Sprachwissenschaft e.V. for inviting me to run this workshop. It's been a blast preparing this and I hope that you enjoyed yourselves over the past two days and learnt as much as I did!
+
+--
+
+If you want to know more about any topic, there are a bunch of resources in the slides on my website. However, you are also more than welcome to reach out via email any time at naomi.peck(at)linguistik.uni-freiburg.de :)
+
+---
+
+# Archiving
+
+Again, if you would like to archive, please let me know by Sunday - ideally by email, so I can let you know about more specifics!
+
+The dates for 'submission' are:
+
+1. Telling me that you wish to archive: &lt;mark&gt;21 August 2022&lt;/mark&gt;
+
+1. Submission of primary data and metadata: &lt;mark&gt;31 August 2022&lt;/mark&gt;
+
+1. Submission of secondary data: &lt;mark&gt;30 September 2022&lt;/mark&gt;
+
+---
+
+class: center, middle, inverse
+
+## Most importantly,
+
+# thank you to all of you!
+
+---
+
+class: center, middle, inverse
+
+# End of Workshop
+    </textarea>
+<style data-target="print-only">@media screen {.remark-slide-container{display:block;}.remark-slide-scaler{box-shadow:none;}}</style>
+<script src="https://remarkjs.com/downloads/remark-latest.min.js"></script>
+<script>var slideshow = remark.create({
+"highlightStyle": "github",
+"highlightLines": true,
+"countIncrementalSlides": false
+});
+if (window.HTMLWidgets) slideshow.on('afterShowSlide', function (slide) {
+  window.dispatchEvent(new Event('resize'));
+});
+(function(d) {
+  var s = d.createElement("style"), r = d.querySelector(".remark-slide-scaler");
+  if (!r) return;
+  s.type = "text/css"; s.innerHTML = "@page {size: " + r.style.width + " " + r.style.height +"; }";
+  d.head.appendChild(s);
+})(document);
+
+(function(d) {
+  var el = d.getElementsByClassName("remark-slides-area");
+  if (!el) return;
+  var slide, slides = slideshow.getSlides(), els = el[0].children;
+  for (var i = 1; i < slides.length; i++) {
+    slide = slides[i];
+    if (slide.properties.continued === "true" || slide.properties.count === "false") {
+      els[i - 1].className += ' has-continuation';
+    }
+  }
+  var s = d.createElement("style");
+  s.type = "text/css"; s.innerHTML = "@media print { .has-continuation { display: none; } }";
+  d.head.appendChild(s);
+})(document);
+// delete the temporary CSS (for displaying all slides initially) when the user
+// starts to view slides
+(function() {
+  var deleted = false;
+  slideshow.on('beforeShowSlide', function(slide) {
+    if (deleted) return;
+    var sheets = document.styleSheets, node;
+    for (var i = 0; i < sheets.length; i++) {
+      node = sheets[i].ownerNode;
+      if (node.dataset["target"] !== "print-only") continue;
+      node.parentNode.removeChild(node);
+    }
+    deleted = true;
+  });
+})();
+// add `data-at-shortcutkeys` attribute to <body> to resolve conflicts with JAWS
+// screen reader (see PR #262)
+(function(d) {
+  let res = {};
+  d.querySelectorAll('.remark-help-content table tr').forEach(tr => {
+    const t = tr.querySelector('td:nth-child(2)').innerText;
+    tr.querySelectorAll('td:first-child .key').forEach(key => {
+      const k = key.innerText;
+      if (/^[a-z]$/.test(k)) res[k] = t;  // must be a single letter (key)
+    });
+  });
+  d.body.setAttribute('data-at-shortcutkeys', JSON.stringify(res));
+})(document);
+(function() {
+  "use strict"
+  // Replace <script> tags in slides area to make them executable
+  var scripts = document.querySelectorAll(
+    '.remark-slides-area .remark-slide-container script'
+  );
+  if (!scripts.length) return;
+  for (var i = 0; i < scripts.length; i++) {
+    var s = document.createElement('script');
+    var code = document.createTextNode(scripts[i].textContent);
+    s.appendChild(code);
+    var scriptAttrs = scripts[i].attributes;
+    for (var j = 0; j < scriptAttrs.length; j++) {
+      s.setAttribute(scriptAttrs[j].name, scriptAttrs[j].value);
+    }
+    scripts[i].parentElement.replaceChild(s, scripts[i]);
+  }
+})();
+(function() {
+  var links = document.getElementsByTagName('a');
+  for (var i = 0; i < links.length; i++) {
+    if (/^(https?:)?\/\//.test(links[i].getAttribute('href'))) {
+      links[i].target = '_blank';
+    }
+  }
+})();
+// adds .remark-code-has-line-highlighted class to <pre> parent elements
+// of code chunks containing highlighted lines with class .remark-code-line-highlighted
+(function(d) {
+  const hlines = d.querySelectorAll('.remark-code-line-highlighted');
+  const preParents = [];
+  const findPreParent = function(line, p = 0) {
+    if (p > 1) return null; // traverse up no further than grandparent
+    const el = line.parentElement;
+    return el.tagName === "PRE" ? el : findPreParent(el, ++p);
+  };
+
+  for (let line of hlines) {
+    let pre = findPreParent(line);
+    if (pre && !preParents.includes(pre)) preParents.push(pre);
+  }
+  preParents.forEach(p => p.classList.add("remark-code-has-line-highlighted"));
+})(document);</script>
+
+<script>
+slideshow._releaseMath = function(el) {
+  var i, text, code, codes = el.getElementsByTagName('code');
+  for (i = 0; i < codes.length;) {
+    code = codes[i];
+    if (code.parentNode.tagName !== 'PRE' && code.childElementCount === 0) {
+      text = code.textContent;
+      if (/^\\\((.|\s)+\\\)$/.test(text) || /^\\\[(.|\s)+\\\]$/.test(text) ||
+          /^\$\$(.|\s)+\$\$$/.test(text) ||
+          /^\\begin\{([^}]+)\}(.|\s)+\\end\{[^}]+\}$/.test(text)) {
+        code.outerHTML = code.innerHTML;  // remove <code></code>
+        continue;
+      }
+    }
+    i++;
+  }
+};
+slideshow._releaseMath(document);
+</script>
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+(function () {
+  var script = document.createElement('script');
+  script.type = 'text/javascript';
+  script.src  = 'https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-MML-AM_CHTML';
+  if (location.protocol !== 'file:' && /^https?:/.test(script.src))
+    script.src  = script.src.replace(/^https?:/, '');
+  document.getElementsByTagName('head')[0].appendChild(script);
+})();
+</script>
+  </body>
+</html>

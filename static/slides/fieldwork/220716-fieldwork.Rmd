@@ -1,0 +1,1136 @@
+---
+title: "Introduction to Fieldwork"
+subtitle: "From elicitation to ELAN"
+author: "Naomi Peck"
+institute: "University of Freiburg"
+date: "19/08/2022-20/08/2022 (updated: `r Sys.Date()`)"
+output:
+  xaringan::moon_reader:
+    seal: false
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+class: inverse, center, middle
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+#devtools::install_github("gadenbuie/countdown")
+library(countdown)
+#xaringan::inf_mr()
+library(DiagrammeR)
+library(tidyverse)
+#devtools::install_github("hadley/emo")
+library(emo)
+```
+
+# Introduction to Fieldwork <br>
+## From elicitation to ELAN &nbsp;
+
+## Naomi Peck &nbsp;
+
+### Albert-Ludwigs-Universität Freiburg <br> 2022-08-20 (updated: `r Sys.Date()`)
+&nbsp;
+
+<img src="freiburg-logo.png" height="125px"/>
+
+---
+
+class: middle, inverse
+
+# You can find all of the slides from this workshop at: https://naomipeck.com/project/fieldwork-workshop
+
+---
+
+# Recap
+
+Apologies to all who were affected by the time mix-up! The slides from yesterday are on my website and you can reach out to me at any time to talk about them.
+
+Yesterday, we discussed the nature of field(work), FAIR (meta)data, and how to go about recording and collecting data from other people.
+
+--
+
+### A tl;dr
+
+1. Fieldwork is about working directly **with** others to collect linguistic data
+1. (Meta)data should be **FAIR**: Findable, Accessible, Interoperable, Reusable
+1. FAIR Data should be "as open as possible and as closed as necessary"
+1. Personal safety comes first
+1. Record for your future self!
+
+---
+
+class: middle, center
+
+# How did you go with the homework?
+
+--
+
+If you don't have a recording, you can download one from my website `r emo::ji("smile")`
+
+---
+
+class: middle, center
+
+# Why ELAN?
+
+---
+
+# Why ELAN?
+
+ELAN allows researchers to directly work with audiovisual data. <br><br>
+
+--
+
+ELAN supports multiple levels of annotation. <br><br>
+
+--
+
+ELAN enables both qualitative and quantitative research.
+
+---
+
+class: middle
+
+# Do you have ELAN experience?
+
+---
+
+<div style='position: relative; padding-bottom: 56.25%; padding-top: 35px; height: 0; overflow: hidden;'><iframe sandbox='allow-scripts allow-same-origin allow-presentation' allowfullscreen='true' allowtransparency='true' frameborder='0' height='315' src='https://www.mentimeter.com/app/presentation/49279aea0f8b188fb2edbaba2ec6a277/1fb0d4635a2e/embed' style='position: absolute; top: 0; left: 0; width: 100%; height: 100%;' width='420'></iframe></div>
+
+---
+
+# Outcomes
+
+By the end of this session, you should be able to:
+
+-   create new .eaf files
+-   turn on automatic backup
+-   create new tier types
+-   create new tiers
+-   create a template
+-   perform basic segmentation
+-   perform basic transcription + translation
+-   add, change and delete annotations
+-   perform basic interlinearisation
+
+---
+
+class: middle, center
+
+# Basics
+
+???
+
+-   create new project
+
+-   save project
+
+-   automatic backup
+
+-   basic interface
+
+---
+
+
+# First of all
+
+We'll be using the recordings we made as homework to learn basics in ELAN.
+
+Pick one of these now!
+
+---
+
+# Creating a new file
+
+1. Open ELAN
+
+1. Navigate to the folder in which your audio is in. Check it's named according to our guidelines!
+
+1. Select all media
+
+1. Drag and drop them into ELAN <br>
+
+# Save your new file
+
+1. File > Save As/Ctrl + Shift + S
+
+1. Save your file with the same name as your recording.
+
+???
+
+Alternate (more traditional) way of creating a new file: 
+1. Open ELAN
+1. File > New
+1. Browse to directory with data
+1. Select all media (and templates, if applicable)
+1. Click OK
+
+---
+
+# Turn on Automatic Backup
+
+1. File > Automatic Backup
+
+1. Choose how often your file should automatically save
+
+<br><br>
+
+Backups will have the file extension .eaf.001. To use them, rename the files to only have the extension .eaf.
+
+---
+
+# Getting used to the interface
+
+Explore the interface! On your own, try to do the following:
+
+1. Play your audio normally
+1. Play just a selection of the audio
+1. Scroll through the data file at light speed
+1. Zoom into the audio file
+1. Increase the size of the peaks of the audio file
+1. Change the rate of the audio track
+1. Change the volume of the audio track
+
+```{r interface, echo = FALSE}
+countdown(minutes = 5)
+```
+
+---
+
+class: middle, center
+
+# Tiers and Types
+
+---
+
+class: middle
+
+# What units of analysis do we need for language description?
+
+---
+
+# Units of analysis
+
+--
+
+-   reference unit
+
+-   transcription
+
+-   translation
+
+-   words
+
+-   morphemes
+
+-   gloss
+
+-   part of speech
+
+-   comment
+
+---
+
+# Task
+
+By yourself, create a diagram on a piece of paper of how these units relate to each other. 
+
+As you draw the diagram, consider the following questions:
+
+1. Does one type of unit depend on another?
+
+1. Is there a one-to-one relation between the units or a one-to-many relation?
+
+<br><br>
+
+--
+
+.pull-left[
+-   reference unit
+-   transcription
+-   translation
+-   words
+]
+
+.pull-right[
+-   morphemes
+-   gloss
+-   part of speech
+-   comment
+]
+
+```{r units, echo = FALSE}
+countdown(minutes = 5)
+```
+
+---
+
+```{r echo = FALSE, fig.width=10, fig.height=8, fig.align='center'}
+
+grViz(diagram = "digraph flowchart {
+  node [fontname = helvetica, shape = box]
+  
+  'Reference Unit'
+  'Reference Unit' -> Transcription
+  Transcription -> Translation
+  Comment
+  Transcription -> Words
+  Words -> Morpheme
+  Morpheme -> Gloss 
+  Morpheme -> 'Parts of Speech'
+  Gloss -> 'Parts of Speech' [dir = both, minlen = 2]
+ 
+  subgraph {
+  rank = same; Gloss; 'Parts of Speech';
+  }
+   
+}
+  
+  ")
+
+```
+
+---
+
+# Tiers and Tier Types
+
+Tiers and types are possibly the most complicated part about learning to use ELAN. 
+
+Tier types provide a template for what kind of annotations you want to make, and how annotations will relate to each other. 
+
+Tiers are the “physical” places where these annotations are made.
+
+Always make sure to set up your tier types before creating your tiers.
+
+---
+
+# Tier Types
+
+All tier types must minimally have a name. 
+
+If you want to create dependent tiers (“children”), then you must select a stereotype. 
+
+These stereotypes differ primarily depending on whether the child will be time-aligned or symbolically-aligned.
+
+You can also limit what values annotations can have using a controlled vocabulary, and associate types with lexicon and data categories.
+
+---
+
+# Q1
+
+```{r echo = FALSE, fig.width=10, fig.height=4, fig.align='center'}
+
+grViz(diagram = "digraph flowchart {
+  graph[layout = dot]
+      
+  node [fontname = helvetica, shape = box]
+  
+  'Are my annotations independent?'
+  'Are my annotations independent?' -> Yes -> 'No tier type needed'
+  'Are my annotations independent?' -> No -> Q2
+
+  
+}
+  
+  ")
+
+```
+
+---
+
+# Q2
+
+```{r echo = FALSE, fig.width=10, fig.height=4, fig.align='center'}
+
+grViz(diagram = "digraph flowchart {
+  graph[layout = dot]
+      
+  node [fontname = helvetica, shape = box]
+  
+  'Should my annotations be time-aligned?'
+  'Should my annotations be time-aligned?' -> Yes
+  Yes -> Q3 
+  'Should my annotations be time-aligned?' -> No
+  No -> Q4
+  
+}
+  
+  ")
+
+```
+
+---
+
+# Q3
+
+```{r echo = FALSE, fig.width=10, fig.height=4, fig.align='center'}
+
+grViz(diagram = "digraph flowchart {
+  graph[layout = dot]
+      
+  node [fontname = helvetica, shape = box]
+  
+  'Do I want gaps in between my annotations?' -> 'I do' -> 'Included In'
+  'Do I want gaps in between my annotations?' -> 'I do not' -> 'Time Subdivision'
+  
+  
+  
+}
+  
+  ")
+
+```
+
+---
+
+# Q4
+
+```{r echo = FALSE, fig.width=10, fig.height=4, fig.align='center'}
+
+grViz(diagram = "digraph flowchart {
+  graph[layout = dot]
+      
+  node [fontname = helvetica, shape = box]
+  
+  'What kind of relation is there between my two tiers?'
+  'What kind of relation is there between my two tiers?' -> 'One-to-one' -> 'Symbolic Association'
+  'What kind of relation is there between my two tiers?' -> 'Many-to-one' -> 'Symbolic Subdivision'
+  
+}
+  
+  ")
+
+```
+
+---
+
+class: middle, center
+
+
+```{r echo = FALSE, fig.width=10, fig.height=8, fig.align='center'}
+grViz(diagram = "digraph flowchart {
+  graph[layout = dot, fontsize = 14]
+      
+  node [fontname = helvetica, shape = box]
+  
+  'Are my annotations independent?'
+  'Should my annotations be time-aligned?'
+  'Do I want gaps in between my annotations?'
+  'What kind of relation is there between my two tiers?'
+  'Are my annotations independent?' -> 'Independent' -> 'No tier type needed'
+  'Are my annotations independent?' -> 'Dependent'
+  'Dependent' -> 'Should my annotations be time-aligned?'
+  'Should my annotations be time-aligned?' -> Yes
+  Yes -> 'Do I want gaps in between my annotations?' -> 'I do' -> 'Included In'
+  'Do I want gaps in between my annotations?' -> 'I do not' -> 'Time Subdivision'
+  'Should my annotations be time-aligned?' -> No
+  No -> 'What kind of relation is there between my two tiers?'
+  'What kind of relation is there between my two tiers?' -> 'One-to-one' -> 'Symbolic Association'
+  'What kind of relation is there between my two tiers?' -> 'Many-to-one' -> 'Symbolic Subdivision'
+  
+  
+}
+  
+  ")
+```
+
+---
+
+# Task
+
+Take a look at your previous diagramme. 
+
+Based on the diagramme and what you've just heard, does your unit of analysis require a tier type? If so, which tier type?
+
+--
+
+<br><br><br><br>
+
+**No Tier Type**: independent, time-aligned
+
+**Included In**: dependent, time-aligned, allows gaps
+
+**Time Subdivision**: dependent, time-aligned, no gaps allowed
+
+**Symbolic Association**: dependent, not time-aligned, one-to-one relation
+
+**Symbolic Subdivision**: dependent, not time-aligned, one-to-many relation
+
+---
+
+# Tier Types and Units of Analysis
+
+--
+
+No tier type = Reference Unit
+
+--
+
+Symbolic Association = Translation, Gloss, Parts of Speech, Comment
+
+--
+
+Symbolic Subdivision = Words, Morphemes
+
+--
+
+The relationship of Transcription to Reference Unit is debatable, depending on how you decide to create your reference units. It's best to have reference units as small as possible, so let's go for a Symbolic Association.
+
+--
+
+Generally, people use the following shorthand:
+.pull-left[
+- reference: ref
+- transcription: tx
+- translation: ft
+- comment: ct
+]
+.pull-right[
+- words: wd
+- morphemes: mb
+- gloss (English): ge
+- gloss (national language): gn
+- part of speech: ps
+]
+
+---
+
+# Adding tier types
+
+1. Create tier types for the following:
+
+    -   transcription
+    -   translation
+    -   comment
+    -   words
+    -   morphemes
+    -   gloss
+    -   part of speech
+
+1. Change the default tier to a reference tier by renaming it.
+    
+.pull-left[
+- reference: ref
+- transcription: tx
+- translation: ft
+- comment: ct
+]
+.pull-right[
+- words: wd
+- morphemes: mb
+- gloss (English): ge
+- gloss (national language): gn
+- part of speech: ps
+]
+
+---
+
+# Tier Naming Coventions
+
+Each tier name should minimally consist of a code for the data type, a separator character (gen. @ or _), and a participant code.
+
+Different people and programs have a range of conventions about how naming should be done. Make sure to double-check if a certain format is required for programs and archives etc.
+
+Minimally, names should make it obvious to anyone accessing the file which tier contains what type of data and who produced which data.
+
+.center[
+##datatype@participant
+]
+
+---
+
+# Adding tiers
+
+.center[
+###datatype@participant
+]
+
+1. Create tiers for the following for one participant:
+
+.pull-left[
+-   reference
+-   transcription
+-   translation
+-   comment
+]
+
+.pull-right[
+-   words
+-   morphemes
+-   gloss
+-   part of speech
+]
+
+Consider which hierarchies we discussed between units earlier. Make sure you use this in selecting which tier is the parent of a dependent tier. 
+
+Once you are done, sort your tiers in the left-hand pane as you like. If you're done even earlier, adjust your settings in the main annotation section (e.g., increasing font size).
+
+---
+
+class: inverse, center, middle
+
+# Does anyone have more than one participant?
+
+---
+
+# Duplicating Tier Hierarchies
+
+1. Tier > Add New Participant
+
+1. Participant > choose a participant with the tier hierarchy you want to duplicate
+
+1. Specify the new participant: Enter a new code in
+
+1. Choose prefix (participant@datatype) or suffix (datatype@participant)
+
+1. Value to be replaced: Existing participant's code
+
+1. Value for replacement: New participant's code
+
+---
+
+# Create a template
+
+If you will be working on analysing multiple files, it saves a lot of time when you create a template. The template retains all of the tier types and tiers created in this file. You can use this template when you make a file (using the menu option) or you can import the tiers/tier types through the dialogue box.
+
+Create a template for yourself now - your choice of name as we won't archive this!
+
+---
+
+class: middle, center, inverse
+
+# Segmentation
+
+---
+
+# Automatic Silence Recognition
+
+1. Go to the Recognizer sub-menu in the menu pane in the top(-right) of ELAN and select the “Silence Recognizer MPI-PL” in the Recognizer drop-down box.
+
+1. Select the audio file you wish to run the silence recogniser on in the Files List drop-down box.
+
+1. Select the silence level and set it to -35dB.
+
+1. Set the minimal silence and non silence duration to 100ms.
+
+1. Click the “Start” button to run the silence recogniser. 
+
+--
+
+You should see annotations populate on the waveform. Annotations with “x” represent the start of a non-silence section; annotations with “s” represent the start of a silence section. Take a look at how the annotations correspond to the waveform and to what you can hear. If it’s not good enough, change the settings and rerun until you are happy with the results.
+
+---
+
+# Automatic Silence Recognition
+
+Once you are relatively satisfied with the output, export the annotations using the “Create Tier(s)” button.
+
+1.    If you are using a mono file, simply deselect the “Include in tier” button next to “s” and click “Create” to get a tier with annotations for all speech sections.
+
+1.    If you are using a stereo file, you have the option to get the segmentation from Channel 1, Channel 2, or both. Export from Channel 1 only, and then follow the steps for mono files.
+
+---
+
+# Copying Results
+
+We need to still do a bit more preparation prior to editing the segments.
+
+1.    Tier > Copy Annotations from Tier to Tier
+
+1.    Select Channel1 as the source tier.
+
+1.    Select your Reference Unit tier as the destination tier.
+
+1.    Click Finish.
+
+1.    Delete the "Channel1" Tier and the "segmentation" tier type.
+
+Copy the annotations twice if you have more than one participant!
+
+---
+
+# Basic Segmentation
+
+1. Switch to Segmentation Mode.
+
+---
+
+# Basic Segmentation
+
+Try out some of the functions in Segmentation Mode while correcting the automated segmentation.
+
+1. Set the working tier to your Reference Unit tier.
+
+1. Create a new segment.
+
+1. Delete a segment.
+
+1. Adjust the time of a segment.
+
+1. Split a segment.
+
+1. Merge a segment.
+
+---
+
+class: center, middle
+
+# Free Segmentation Time
+
+```{r, label = "segment", echo = FALSE}
+countdown(minutes = 15, right = "34%", bottom = "20%")
+```
+
+---
+
+class: inverse, center, middle
+
+# Lunch Time!
+
+```{r, label = "lunch", echo = FALSE}
+countdown(minutes = 60, right = "34%", bottom = "20%")
+```
+
+---
+
+class: center, middle
+
+# Check In
+
+---
+
+# Wrapping Up Segmentation
+
+Let's generate some labels for our reference units before we go any further.
+
+--
+
+1. Tier > Label and Number Annotations
+
+1. Multiple Tiers > select all ref tiers
+
+1. Enter a label of your choice - no spaces!
+
+1. Insert Delimiter > Insert other delimiter > _
+
+1. Prepend leading zeroes > make sure you have a minimum of three digits!
+
+1. OK
+
+---
+
+class: inverse, center, middle
+
+# Transcription and Translation
+
+---
+
+# Transcription and Translation
+
+1. Go into Translation Mode.
+
+1. Choose your transcription tier for Column 1.
+
+1. Choose your translation tier for Column 2.
+
+1. Increase your font size (if you want!).
+
+--
+
+<br><br>
+
+####Any problems?
+
+---
+
+# Transcription Interface
+
+1. Create a new annotation.
+
+1. Play the sound automatically.
+
+1. Go to the annotation below using your keyboard.
+
+1. Change the settings so that you go across using your keyboard instead of down.
+
+1. Replay the sound using your keyboard.
+
+---
+
+class: center, middle
+
+# Free Transcription and Translation Time
+
+```{r, label = "transcribe", echo = FALSE}
+countdown(minutes = 30, right = "34%", bottom = "20%")
+```
+
+---
+
+class: inverse, center, middle
+
+# Have a coffee :)
+
+```{r, label = "short1", echo = FALSE}
+countdown(minutes = 15, right = "34%", bottom = "20%")
+```
+
+---
+
+class: inverse, center, middle
+
+# Interlinearization Mode
+
+---
+
+# Intro to Interlinearisation
+
+Interlinearisation is the process of creating an interlinear gloss, where you mark up words with more than one annotation.
+
+Interlinearization Mode in ELAN is relatively new and relatively unknown. This mode allows semi-automatic parsing and glossing of annotations within a text using Analyzers. The prerequisites for interlinearisation in ELAN are a transcribed text and a lexicon.
+
+There are three steps to setting up interlinearisation mode: a) creating a lexicon, b) editing your tier type, and c) setting up your analysers.
+
+--
+
+<br><br>
+
+1. Go into Interlinearization Mode.
+
+---
+
+# Creating a Lexicon
+
+1. Lexicon Actions > Create New Lexicon
+
+1. Lexicon Name: your choice
+
+1. Language: target language
+
+1. Optional: description, author, version
+
+1. Click Apply
+
+--
+
+The name of your lexicon will turn blue if there are any unsaved changes. Saving your lexicon is an independent action from saving your document.
+
+--
+
+Save your lexicon now.
+
+---
+
+# Set Up Your Tier Types
+
+In order to use the analysers effectively, you have to tell them what to analyse.
+
+--
+
+1. Type > Change Tier Type
+
+1. mb > Lexicon Connection > + > Select your lexicon > lexical-unit > OK
+
+1. Change
+
+1. ge > Lexicon Connection > + > sense/gloss > OK
+
+1. Change
+
+1. ps > Lexicon Connection > + > sense/grammatical-category > OK
+
+1. Change
+
+---
+
+# Analyser/Interlinearisers
+
+There are four types of Analyzers in ELAN.
+
+1. Whitespace Text Analyzer: splits annotation up based on whitespace
+
+1. Parse Analyzer: subdivides a unit into further units
+
+1. Gloss Analyzer: labels a unit which is symbolically associated
+
+1. Lexicon Analyzer: combination of parse + gloss analysers
+
+--
+
+We're going to set up 4 Analyzers: 1 x Whitespace, 2 x Gloss, 1 x Parse.
+
+---
+
+# Analyser/Interlinearisers
+
+1. Analyzer & Source-Target Configuration > Edit configurations...
+
+1. Whitespace Text > tx > wd
+
+1. Parse Analyzer > wd > mb
+
+1. Gloss Analyzer > mb > ge
+
+1. Gloss Analyzer > mb > ps
+
+1. Apply
+
+---
+
+# Analyser/Interlinearisers
+
+You also need to configure some settings of the analysers to make your life easier!
+
+1. Parse Analyzer > Configure Parse Analyzer > Global Settings
+
+1. Clitic marker character: =
+
+1. Match longer prefixes/suffixes first
+
+1. Apply Settings
+
+--
+
+1. Whitespace Text Analyzer > Configure ... > Global Settings
+
+1. Add punctuation marks you would like for the parser to remove! (One per row)
+
+1. Apply
+
+---
+
+# Analyser/Interlinearisers
+
+You've successfully set everything up!
+
+To run the analysers, you can either:
+
+- click on the Analyze/Interlinearize button at the top; or
+- right click on a unit affected by the analyser and choose "Analyze/Interlinearize"
+
+Clicking on the button will run only a single parser until the end of the text, or until you have to select a potential analysis. If you want all the parsers to run at once, turn the Recursive option on.
+
+---
+
+# Adding to the Lexicon
+
+Interlinearisation requires some ideas about what lexical items are in a language.
+
+To add items to the lexicon, click on the Add button on the bottom left. You must minimally fill in the Lexical Unit, the Morph Type, the Gram. Category and the Gloss.
+
+Alternatively, you can right-click on an annotation which is tied to the lexicon (mb is best), and add from there.
+
+--
+
+<br><br>
+
+**Lexical Unit**: the word/affix, including -/=
+
+**Morph Type**: root, stem, pfx, sfx, enc, prc ...
+
+**Gram. Category**: n, v, (v)pfx, (n)sfx ...
+
+**Gloss**: meaning
+
+---
+
+# Some Tips
+
+1. When in doubt, "turn it on and off again". Switch modes to make sure everything works correctly!
+
+1. Capitalisation matters for parsing and glossing. If you have capitals in your word line, you can:
+
+    1. Tier > Change Case of Annotations
+    1. Select which tiers you want this to affect
+    1. Lowercase (no capital at beginning)
+    1. OK
+
+1. If the name of your lexicon is blue, it requires manual saving. Note that lexicons are stored locally on your computer in a different folder, no matter where your ELAN file is stored.
+
+1. You can play your annotation using the button to the left of the Analyze/Interlinearize button, or increase your font size using the buttons on the top right.
+
+1. You can add custom fields to your lexicon by Lexicon Actions > Edit Lexicon Properties > Custom Fields. You can then use these to sort.
+
+---
+
+class: center, middle
+
+# Free Interlinearisation
+
+```{r, label = "interlinearisation", echo = FALSE}
+countdown(minutes = 30, right = "34%", bottom = "20%")
+```
+
+---
+
+class: inverse, center, middle
+
+# Have a second coffee :)
+
+```{r, label = "short2", echo = FALSE}
+countdown(minutes = 15, right = "34%", bottom = "20%")
+```
+
+---
+
+class: inverse, center, middle
+
+# Annotation Mode
+
+---
+
+# Annotation Mode
+
+Now that we've taken a text most of the way through its analysis, let's check back in with annotation mode.
+
+--
+
+Annotation mode is the easiest mode to edit in, and is the mode that most people who use ELAN know. I recommend only using it at a later stage of your analysis.
+
+---
+
+# Basics
+
+1. Add a new annotation
+
+1. Change its timing
+
+1. Change its value
+
+1. Delete the annotation
+
+1. Use shortcuts to "travel" through your existing annotations
+
+---
+
+class: inverse, middle, center
+
+# That's it!
+
+## Congratulations, you now know how to use ELAN!
+
+---
+
+# Next steps
+
+If you run into any problems, first take a look at the ELAN Manual: https://archive.mpi.nl/tla/elan/documentation
+
+If you are having any software issues, their support team is incredibly helpful: https://archive.mpi.nl/forums/c/elan
+
+<br>
+
+--
+
+Lots of people have created resources for you to learn how to use ELAN and a simple Google search will bring up many of them. Some I recommend are:
+
+- Ulrike Mosel’s guide on regex searching: [Searches with Regular Expressions in ELAN corpora](https://www.isfas.uni-kiel.de/de/linguistik/mitarbeitende/prof.-dr.-ulrike-mosel/publications_mosel/elan-regular-expressions) 
+- Hedvig Skirgard’s guide for speeding up the transcription workflow: [My ELAN workflow for segmenting and transcription](http://humans-who-read-grammars.blogspot.com/2019/07/my-elan-workflow-for-segmenting-and.html)
+- John Mansfield’s guide on the ELAN-FLEx workflow: [Elan - Flex workflow](http://langwidj.org/linguistics/elan-flex-workflow/) 
+- Amalia Skilton’s scripts and guides: [ELAN Scripts](https://blogs.cornell.edu/amaliaskilton/elan-scripts/) 
+- Eri Kashima and T. Mark Ellison’s Praat to ELAN workflow: [Elan/Praat Machine Segmenting](https://yammeringon.wordpress.com/2017/05/01/elanpraat-machine-segmenting/)
+
+---
+
+# Recap
+
+We are now coming to the end of the workshop. Every good field trip needs a debrief afterwards, so let's go over again what you've learnt over the past two days.
+
+--
+
+#### You've learnt what fieldwork is all about the social connections, rather than going somewhere exotic.
+
+--
+
+#### You've learnt about different types of data and how to think critically about what you collect and create.
+
+--
+
+#### You've learnt about how to create data and metadata in a **FAIR** manner.
+
+--
+
+#### You've learnt about different ways to ethically collect data from and with others.
+
+---
+
+# Recap
+
+
+#### You've learnt best practices about recording and how to save your future self from pain when listening back.
+
+--
+
+#### You've made a recording yourself using what you've learned!
+
+--
+
+#### You've even analysed your very own data.
+
+--
+
+#### You've learnt how to use ELAN in less than a day!
+
+---
+
+class: center, middle
+
+### Perhaps most importantly, I hope you learnt that:
+
+# Fieldwork is not easy, but it can be a lot of fun.
+
+---
+
+class: center, middle
+
+# Congratulations on a successful field experience!
+
+---
+
+class: center, middle, inverse
+
+# What did you learn?
+
+---
+
+<div style='position: relative; padding-bottom: 56.25%; padding-top: 35px; height: 0; overflow: hidden;'><iframe sandbox='allow-scripts allow-same-origin allow-presentation' allowfullscreen='true' allowtransparency='true' frameborder='0' height='315' src='https://www.mentimeter.com/app/presentation/8e6676900f1f12c2a228842734228725/d61c81d5c505/embed' style='position: absolute; top: 0; left: 0; width: 100%; height: 100%;' width='420'></iframe></div>
+
+---
+
+# Some final remarks from me
+
+Thank you to the Junge Sprachwissenschaft e.V. for inviting me to run this workshop. It's been a blast preparing this and I hope that you enjoyed yourselves over the past two days and learnt as much as I did!
+
+--
+
+If you want to know more about any topic, there are a bunch of resources in the slides on my website. However, you are also more than welcome to reach out via email any time at naomi.peck(at)linguistik.uni-freiburg.de :)
+
+---
+
+# Archiving
+
+Again, if you would like to archive, please let me know by Sunday - ideally by email, so I can let you know about more specifics!
+
+The dates for 'submission' are:
+
+1. Telling me that you wish to archive: <mark>21 August 2022</mark>
+
+1. Submission of primary data and metadata: <mark>31 August 2022</mark>
+
+1. Submission of secondary data: <mark>30 September 2022</mark>
+
+---
+
+class: center, middle, inverse
+
+## Most importantly,
+
+# thank you to all of you!
+
+---
+
+class: center, middle, inverse
+
+# End of Workshop
