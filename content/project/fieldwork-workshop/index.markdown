@@ -25,7 +25,7 @@ Collecting linguistic data from face-to-face interactions is becoming ever easie
 
 {{< staticref "/slides/fieldwork/220715-fieldwork" "newtab" >}} <b>Day 1</b> {{< /staticref >}}<br>
 
-Day 2 will be updated tomorrow.
+{{< staticref "/slides/fieldwork/220716-fieldwork" "newtab" >}} <b>Day 2</b> {{< /staticref >}}<br>
 
 # Additional Resources
 
