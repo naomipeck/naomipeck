@@ -31,4 +31,4 @@ Curious about what I've done?
 
 Here you can find a summary of my skills, accomplishments, work experience and publications. 
 
-You can find a full list of my {{< staticref "publication/" >}}publications{{< /staticref >}} here and  download my full {{< icon name="download" pack="fas" >}}{{< staticref "media/CV_NP-202201.pdf" "newtab" >}}CV{{< /staticref >}} here.
+You can find a full list of my {{< staticref "publication/" >}}publications{{< /staticref >}} here and  download my full {{< icon name="download" pack="fas" >}}{{< staticref "media/CV_NP-202304.pdf" "newtab" >}}CV{{< /staticref >}} here.

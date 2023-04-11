@@ -1,0 +1,27 @@
+---
+title: An initial exploration of the interaction of tone and intonation in Kera'a
+date: '2021-12-31'
+slug: kalandetal2021
+#categories: []
+tags: [Himalayas, Kera'a, intonation, tone]
+subtitle: ''
+summary: 'This paper provides a ﬁrst acoustic analysis of the lexical tones found in Kera’a, an endangered language spoken in the North-East of India (Arunachal Pradesh).'
+authors: 
+- Constantijn Kaland
+- admin
+- T. Mark Ellison
+- Uta Reinöhl
+lastmod: '2023-04-10T15:16:36+01:00'
+featured: no
+#image:
+#  caption: ''
+#  focal_point: ''
+#  preview_only: no
+#projects: []
+abstract: This paper provides a ﬁrst acoustic analysis of the lexical tones found in Kera’a, an endangered language spoken in the North-East of India (Arunachal Pradesh). Minimal existing work provides impressionistic descriptions of the tone system and leads to diverging claims. Apart from lexical contrasts, tones are reported to be affected by sociolinguistic variables such as clan and gender, as well as by elicitation setting. The present study explores these factors using f0 contours found in monosyllabic words that were produced by speakers that differed in gender, clanlectal background and in different elicitation contexts. Cluster analyses were used to explore the f0 variation. Preliminary results suggest interactions between speaker and elicitation context and shed a new light on the realisation of tones in Kera’a.
+publication: "Proceedings of the 1st International Conference on Tone and Intonation (TAI)"
+publication_short: "TAI2021"
+publication_types:
+- "1"
+url_pdf: "https://www.isca-speech.org/archive/pdfs/tai_2021/kaland21_tai.pdf"
+---
