@@ -559,11 +559,14 @@ people dying already given in anjaji_009 (2 IU prior)
 
 ## Acknowledgements {.smaller}
 
+::: middle-t
 My first thanks go to the Kera'a, Galo, and Duhumbi communities, who made this work possible. Special thanks go to Hane Mipi, Khuna Tayu, Kamadi Tayu, Tokhi Mihu, Apasi Tayu and Jagri Mipi for helping me with the data collection and analysis, to Mark Post and Tim Bodt for making their corpora available for further scientific use, and to Laura Schleicher for her help with data processing.
 
 Further thanks go to Uta Reinöhl, Maria Vollmer, Simon Fries, Kirsten Culhane, T. Mark Ellison and Maria Bardají i Farré for discussing various aspects of the research with me.
 
 This project was funded by Deutsche Forschungsgemeinschaft (DFG) Project number 406074683.
+:::
+
 
 ## References {.smaller .scrollable}
 
@@ -577,5 +580,6 @@ Email: [naomi.peck\@linguistik.uni-freiburg.de](mailto:naomi.peck@linguistik.uni
 
 Website: [naomipeck.com](https://www.naomipeck.com/)
 
-Find the presentation here: QR code
+Find the presentation here:\
+![QR code](img/iclc-qr.png){width=25%}
 :::
