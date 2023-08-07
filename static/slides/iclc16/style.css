@@ -1,0 +1,49 @@
+p.caption {
+  color: #777;
+  margin-top: 10px;
+}
+p code {
+  white-space: inherit;
+}
+pre {
+  word-break: normal;
+  word-wrap: normal;
+}
+pre code {
+  white-space: inherit;
+}
+
+/* file: style.css */
+.v-center-container {
+  display: flex !important;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
+#vcenter {
+  vertical-align: middle;
+}
+
+.middle-t {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  transform: translate(0%, -50%);
+}
+
+.backgrounded-text {
+ color: #5A5A5A;
+}
+
+.highlighted-text {
+ color: #C5E90B;
+ font-weight: 600;
+}
+
+.center {
+  display: flex !important;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
