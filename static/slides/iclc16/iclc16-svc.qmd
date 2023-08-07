@@ -1,0 +1,581 @@
+---
+pagetitle: "Serial verbs package information, not events"
+#title: "Serial verbs package information, not events"
+#author: "Naomi Peck"
+#institute: "University of Freiburg"
+date-meta: 10/08/2023
+format: 
+  revealjs:
+    theme: dark
+    footer: "Serial verbs package information, not events"
+    slide-number: c
+    hash-type: number
+    css: style.css
+    mouse-wheel: true
+    email-obfuscation: references
+    #logo: img/ufr-white.png
+    auto-animate-duration: 0.5
+bibliography: [references.bib, packages.bib]
+---
+
+```{r setup, include = FALSE}
+library(glossr)
+use_glossr(styling = list(
+#  source = "b",
+  first = "i"
+))
+```
+
+# Serial verbs package information, not events
+
+::: footer
+[Naomi Peck]{style="font-weight: 600; font-size: 2.5em;"}
+
+![](img/ufr-white.png){width="30%"}
+:::
+
+## What is an SVC?
+
+::: incremental
+-   two or more independent verbs
+-   monoclausal construction
+-   no linker
+-   shared TAM(E)P values
+:::
+
+::: aside
+@foleyolson1985; @pawley1987; @durie1997; @aikhenvald2006; @bisang2009; @haspelmath2016 among others
+:::
+
+## 
+
+::: middle-t
+```{r component-svc}
+as_gloss( "man^2^ **paat^5^** khòò^2^ **taaj^3^**",
+  "3SG slice neck die",
+  label = "lao",
+  translation = "He killed (it) by slicing (its) neck.",
+  source = "Lao (Tai-Kadai, Laos)"
+)
+
+```
+:::
+
+::: aside
+@enfield2008, 134
+:::
+
+## 
+
+::: middle-t
+```{r narrative-svc}
+as_gloss( "As nb-ak **yg** **pak** **d** **ap** **ñb**-l...",
+  "small_mammal like-this dig kill get come eat-SS.PRIOR",
+  label = "kalam",
+  translation = "After digging up, killing, bringing (home) and eating this kind of animal...",
+  source = "Kalam (Trans-New-Guinea, Papua New Guinea)"
+)
+
+```
+:::
+
+::: aside
+@pawley2011a, 36
+:::
+
+## What is an SVC?
+
+::: backgrounded-text
+-   two or more independent verbs
+-   monoclausal construction
+-   no linker
+-   shared TAM(E)P values
+:::
+
+::: aside
+@foleyolson1985; @pawley1987; @durie1997; @aikhenvald2006; @bisang2009; @haspelmath2016 among others
+:::
+
+. . .
+
+\
+→ this doesn't say anything about the [function]{.highlighted-text} of an SVC
+
+## 
+
+::: {.columns .v-center-container}
+::: {.column width="30%"}
+one SVC
+:::
+
+::: {.column width="30%"}
+=
+:::
+
+::: {.column width="40%"}
+::: {.fragment fragment-index="2"}
+multiple subevents
+:::
+
+::: {.fragment fragment-index="1"}
+one event
+:::
+
+::: {.fragment fragment-index="3"}
+one macroevent
+:::
+
+::: {.fragment fragment-index="4"}
+multiple events
+:::
+:::
+:::
+
+::: aside
+@pawley1987; @aikhenvald2006; @bohnemeyeretal2007; @vanstadenreesink2008; @bisang2009; @pawley2011a
+:::
+
+## 
+
+::: v-center-container
+::: r-fit-text
+None of these.
+:::
+:::
+
+## Outline
+
+-   Eventhood
+-   Eventhood in Discourse
+-   Events in Discourse
+-   Information Flow
+-   What's an SVC then?
+
+# Eventhood
+
+## What's an event? {auto-animate=true}
+
+::: middle-t
+> "a [segment of time]{data-id="time"} at a given location that is perceived by an observer to have a beginning and an end"
+:::
+
+::: aside
+@zackstversky2001, 4-5
+:::
+
+## What's an event? {visibility="uncounted" auto-animate=true auto-animate-unmatched=false}
+
+::: middle-t
+> "a [segment of time]{data-id="time" .highlighted-text} at a [given location]{data-id="location"} that is perceived by an observer to have a beginning and an end"
+:::
+
+::: aside
+@zackstversky2001, 4-5
+:::
+
+## What's an event? {visibility="uncounted" auto-animate=true auto-animate-unmatched=false}
+
+::: middle-t
+> "a [segment of time]{.highlighted-text} at a [given location]{data-id="location" .highlighted-text} that is [perceived]{data-id="perception"} by an observer to have a beginning and an end"
+:::
+
+::: aside
+@zackstversky2001, 4-5
+:::
+
+## What's an event? {visibility="uncounted" auto-animate=true auto-animate-unmatched=false}
+
+::: middle-t
+> "a [segment of time]{.highlighted-text} at a [given location]{.highlighted-text} that is [perceived]{data-id="perception" .highlighted-text} by an observer to have [a beginning and an end]{data-id="boundary"}"
+:::
+
+::: aside
+@zackstversky2001, 4-5
+:::
+
+
+## What's an event? {visibility="uncounted" auto-animate=true auto-animate-unmatched=false}
+
+::: middle-t
+> "a [segment of time]{.highlighted-text} at a [given location]{.highlighted-text} that is [perceived]{.highlighted-text} by an observer to have [a beginning and an end]{data-id="boundary" .highlighted-text}"
+:::
+
+::: aside
+@zackstversky2001, 4-5
+:::
+
+::: {.notes}
+-   perceptual slice of conscious experience
+-   typically recognised with respect to its boundaries, which can be fuzzy
+-   typically with animate agents and goal-directed, but not necessarily
+:::
+
+## Event Boundaries
+
+::: middle-t
+::: r-stack
+![](img/timeline.png)
+
+![](img/episode.png){.fragment}
+
+![](img/event.png){.fragment}
+
+![](img/subevent.png){.fragment}
+:::
+:::
+
+::: aside
+@zacksetal2007; @shipley2008; @radvanskyzacks2014
+:::
+
+::: {.notes}
+-   changes in:
+
+    -   body position of actors
+    -   motion features
+    -   situational features (actors, goals of actors, spatial location)
+:::
+
+## Event Hierarchy
+
+::: center
+![](img/episode.png){height="150"} ![](img/event.png){.fragment height="150"} ![](img/subevent.png){.fragment height="150"}
+:::
+
+::: aside
+@zacksetal2001a
+:::
+
+::: {.notes}
+segmentation into smaller units vs. unitisation into gestalt -\> two sides of the same coin; partonomic hierarchy
+
+-   partonomically related: whole vs. part; scripts and schemas
+:::
+
+
+# Eventhood in Discourse
+
+## {auto-animate=true}
+
+::: middle-t
+> Do mental models of eventhood underlie acts of reporting, or is it rather that [actual acts of narration are the *source*]{data-id="narration"}\
+of notions about abstract, mentalistic eventhood?
+:::
+
+::: aside
+@hopper1995, 149
+:::
+
+::: {.notes}
+-   event = construal of action [@zwaan2004, 48]
+:::
+
+##  {visibility="uncounted" auto-animate=true}
+
+::: middle-t
+> Do mental models of eventhood underlie acts of reporting, or is it rather that [actual acts of narration are the *source*]{data-id="narration" .highlighted-text}\
+of notions about abstract, mentalistic eventhood?
+:::
+
+::: aside
+@hopper1995, 149
+:::
+
+## One New Idea {auto-animate=true auto-animate-restart=true}
+
+::: middle-t
+> ... an intonation unit can express [no more than one new idea]{data-id="new"}. In other words thought, or at least language, proceeds in terms of one such activation at a time, and each activation applies to a single referent, event, or\
+> state, but not to more than one.
+:::
+
+::: aside
+@chafe1994, 109
+:::
+
+::: {.notes}
+idea = cognitive unit in consciousness ideas can be active, semiactive, inactive
+:::
+
+## One New Idea {visibility="uncounted" auto-animate=true auto-animate-unmatched=false}
+
+::: middle-t
+> ... an intonation unit can express [no more than one new idea]{data-id="new" .highlighted-text}. In other words thought, or at least language, proceeds in terms of one such activation at a time, and [each activation applies to a single referent, event, or\
+> state]{data-id="activation"}, but not to more than one.
+:::
+
+::: aside
+@chafe1994, 109
+:::
+
+## One New Idea {visibility="uncounted" auto-animate=true auto-animate-unmatched=false}
+
+::: middle-t
+> ... an intonation unit can express [no more than one new idea]{.highlighted-text}. In other words thought, or at least language, proceeds in terms of one such activation at a time, and [each activation applies to a single referent, event, or state]{data-id="activation" .highlighted-text}, but not to more than one.
+:::
+
+::: aside
+@chafe1994, 109
+:::
+
+::: {.notes}
+if one IU can verbalise at most a single new event, how do SVCs map onto this?
+:::
+
+## Multiple Verbs, One New Idea
+
+@chafe1994:
+
+::: incremental
+- independent activation of ideas
+- low-content verbs
+- lexicalisations, collocations, idioms
+:::
+
+. . .
+
+@reinohletal2023:
+
+::: incremental
+- elaboration of idea
+- generic-specific
+:::
+
+# Corpus Study
+
+## The Data {.smaller}
+
+::: columns
+::: {.column width="40%"}
+-   three languages from Northeast India
+
+    -   Kera'a (idum1241; "Idu")
+    -   Duhumbi (chug1252)
+    -   Galo (galo1242)
+
+-   \~30 minutes of text annotated per language for
+
+    -   grammatical relations
+    -   prosody (inc. intonation units)
+    -   newness of lexeme choice
+    -   newness of event
+    -   identity of event
+:::
+
+::: {.column width="60%"}
+```{r language-map-wrangling, include=FALSE}
+corpora <- c("galo1242", "chug1252", "idum1241")
+full_glottolog <- lingtypology::glottolog
+full <- full_glottolog[full_glottolog$glottocode %in% corpora,]
+
+m <- lingtypology::map.feature(language = full$language, 
+            label = full$language,
+            label.fsize = 20,
+            label.hide = FALSE,
+            label.emphasize = list(1:3, "black"),
+            #tile = "Esri.WorldPhysical",
+            color = c("#D2981A"),
+            zoom.level = 7)
+
+#fix dimensions here - needs to be more close up
+#fix names of languages
+# Soft Pressure - Kandinsky palette
+
+```
+
+```{r language-map, out.width="100%"}
+m
+```
+:::
+:::
+
+
+# Events in Discourse
+
+## New Events {.smaller}
+
+```{r galo2}
+as_gloss("paadᵊm-ə aa-la | pa-pak-daa-ku-da",
+  "Padam-DET come-CV (85ms) kill-rid-ACHV-CMPL-RCUR",
+  "{} {**`129`**} {} {**`130`**}",
+  label = "galo3",
+  translation = "(When one of the Mising's children grew up enough...) the Padam would come and just kill (them) flat out.",
+  source = "Galo (origins_0236)"
+)
+
+# include audio
+```
+
+::: {.notes}
+
+Paadam - last overt mention in 0153; here, a new idea
+child still active from previous 1/2 IUs
+final intonation for both IUs
+
+:::
+
+## Multiple New Events {.smaller}
+
+```{r keraa1}
+as_gloss("paku=wa | iyi ja-me u su-te-ya-ba",
+  "field=TOP (=) pig come-CV dig put_in_hole-TEL-PFV-go",
+  "{} {} {} {**`007`**} {**`008`**} {}",
+  label = "keraa1",
+  translation = "The pig was working hard at digging the field with its nose.",
+  source = "Kera'a (dogstory_018)"
+)
+
+# include audio
+```
+
+::: aside
+A more literal translation would be something like: "As for the field, the pig had come and was digging (it) with its nose."
+:::
+
+::: {.notes}
+
+pig active, mentioned 2 IU prior
+
+:::
+
+## Same Events {.smaller}
+
+```{r galo1}
+as_gloss("tollo in-da | aa-nɨk-da | tollo in-da aa-nɨk-da",
+  "up go-fast (=) come-near-fast (=) up go-fast come-near-fast",
+  "{} {`033`} {} {`034`} {} {} {**`033`**} {**`034`**}",
+  label = "galo1",
+  translation = "...he starts going up and back, going up and back...",
+  source = "Galo (MKDiimi_075)"
+)
+
+# include audio
+```
+
+## Same Events {.smaller}
+
+```{r duhumbi2}
+as_gloss("ogi | namsa tor-da | yet-da ong-ba=le",
+  "that (1315ms) consciousness spread-CV (=) flee-CV go-NMLZ-COP",
+  "{} {} {} {`017`} {} {`019`} {}",
+  label = "duhumbi2",
+  translation = "it (the deer) ... fled away being startled.",
+  source = "Duhumbi (butterfly_053)"
+)
+
+as_gloss("yet-ong-ba-kho=na",
+  "flee-go-NMLZ-LOC=COND",
+  "{**`019`**}",
+  label = "duhumbi3",
+  translation = "so when fleeing away...",
+  source = "Duhumbi (butterfly_054)"
+)
+
+# include audio
+```
+
+## Gestalt Events {.smaller}
+
+```{r keraa3}
+as_gloss("u-me e=wa-da | do-ya-da",
+  "LOG-NOM do=TOP-DECL (178ms) finish-PFV-DECL",
+  "{} {`016`} {} {`017`}",
+  label = "keraa4",
+  translation = "He (said), I did it, I finished it.",
+  source = "Kera'a (dogstory_034)"
+)
+
+as_gloss("iku-me e do-ya a=bu-da",
+  "dog-NOM do finish-PFV like_this=ADD-DECL",
+  "{} {**`016`**} {**`017`**} {`025`}",
+  label = "keraa5",
+  translation = "The dog was like, I finished doing it.",
+  source = "Kera'a (dogstory_043)"
+)
+
+# include audio
+```
+
+## Episodic Events {.smaller}
+
+```{r keraa2}
+as_gloss("imu shi a-ja-ne | imu dõ a-za",
+  "people die like_this-VEN-CV (=) people finish like_this-VEN",
+  "{} {`003`} {} {} {} {`004`} {}",
+  label = "keraa2",
+  translation = "when all people die and no-one remained...",
+  source = "Kera'a (anjaji_009)"
+)
+
+as_gloss("... imu shi-ndõ-ba-da-ho",
+  "{} people die-finish-go-DECL-WHEN",
+  "{} {} {**`007`**}",
+  label = "keraa3",
+  translation = "... when all the people died (completely)...",
+  source = "Kera'a (anjaji_014)"
+)
+
+# include audio
+```
+
+::: {.notes}
+people dying already given in anjaji_009 (2 IU prior)
+:::
+
+# What's an SVC then?
+
+## {auto-animate=true}
+
+::: middle-t
+> Meanings represent a conceptualization of experience -- that is, [how speakers package that experience]{data-id="experience"} for the\
+> goals that they wish to attain in discourse.
+:::
+
+::: aside
+@croft2014, 16
+:::
+
+##  {visibility="uncounted" auto-animate=true}
+
+::: middle-t
+> Meanings represent a conceptualization of experience -- that is, [how speakers package that experience]{data-id="experience" .highlighted-text} for the\
+> goals that they wish to attain in discourse.
+:::
+
+::: aside
+@croft2014, 16
+:::
+
+## From Events to Episodes
+
+::: center
+![](img/episode1.png){.fragment .fade-up fragment-index="3" height="150"} ![](img/event1.png){.fragment .fade-up fragment-index="2" height="150"} ![](img/subevent1.png){.fragment .fade-up fragment-index="1" height="150"}
+:::
+
+::: {.notes}
+> Episodic memories, on the other hand, consist of sensory-perceptual-conceptual-affective information derived from single experiences. Episodic memories are samples of experience, although they are not usually literal or veridical copies of experience but rather represent psychological or cognitive summaries of experience. (Williams et al. 2008:590)
+:::
+
+# Thank you!
+
+## Acknowledgements {.smaller}
+
+My first thanks go to the Kera'a, Galo, and Duhumbi communities, who made this work possible. Special thanks go to Hane Mipi, Khuna Tayu, Kamadi Tayu, Tokhi Mihu, Apasi Tayu and Jagri Mipi for helping me with the data collection and analysis, to Mark Post and Tim Bodt for making their corpora available for further scientific use, and to Laura Schleicher for her help with data processing.
+
+Further thanks go to Uta Reinöhl, Maria Vollmer, Simon Fries, Kirsten Culhane, T. Mark Ellison and Maria Bardají i Farré for discussing various aspects of the research with me.
+
+This project was funded by Deutsche Forschungsgemeinschaft (DFG) Project number 406074683.
+
+## References {.smaller .scrollable}
+
+::: {#refs}
+:::
+
+## Contact Me
+
+::: middle-t
+Email: [naomi.peck\@linguistik.uni-freiburg.de](mailto:naomi.peck@linguistik.uni-freiburg.de)
+
+Website: [naomipeck.com](https://www.naomipeck.com/)
+
+Find the presentation here: QR code
+:::
