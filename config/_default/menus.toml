@@ -23,10 +23,15 @@
 #  url = "teaching/"
 #  weight = 40
 
+#[[main]]
+#  name = "Public Engagement"
+#  url = "engagement/"
+#  weight = 50
+
 [[main]]
   name = "Resumé"
   url = "resume/"
-  weight = 50
+  weight = 60
 
 
 # Link to a PDF of your resume/CV from the menu.
