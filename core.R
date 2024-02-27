@@ -3,7 +3,7 @@ remotes::install_github("rstudio/blogdown")
 library(blogdown)
 blogdown::install_hugo("0.81.0")
 
-# c0reate new site
+# create new site
 new_site(theme = "wowchemy/starter-academic")
 
 #load/stop loading site
@@ -11,9 +11,9 @@ blogdown::serve_site()
 blogdown::stop_server()
 
 #Create new post
-blogdown::new_post(title = "Speeding Up Segmentation",
+blogdown::new_post(title = "Serial verb constructions package information, not events",
                    ext = '.Rmarkdown',
-                   subdir = "post")
+                   subdir = "publication")
 
 
 # adjust settings 

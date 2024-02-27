@@ -17,7 +17,7 @@ doi: ""
 publication: "Poster presentation at the 2nd ANU Student Research Conference"
 publication_short: "ANUSRC 2"
 publication_types:
-- "0"
+- "12"
 publishDate: "2016-07-14T00:00:00Z"
 #slides: example
 summary: The noun phrase structure in Bumthang can help us fill in the blanks of Himalayan and central Asian history.

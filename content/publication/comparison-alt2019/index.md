@@ -25,7 +25,7 @@ image:
 publication: "Poster presentation at the 13th Conference of the Association for Linguistic Typology, University of Pavia"
 publication_short: "ALT2019"
 publication_types:
-- "0"
+- "12"
 publishDate: "2019-09-01T00:00:00Z"
 #slides: example
 summary: This talk discusses and accounts for instances in which the comparative is instead less marked than the positive, focusing on Bumthang, a Tibeto-Burman language of Bhutan.

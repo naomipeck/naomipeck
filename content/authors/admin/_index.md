@@ -50,4 +50,4 @@ I am a PhD student in linguistics at the University of Freiburg and member of th
 
 I am fascinated by how we 'group' bits of languages together, whether this be how we construct noun phrases, chain verbs in serial verb constructions or clause chains, or chunk information together prosodically. My research aims to investigate the reasons why we group bits of languages together, whether this be cognitive, physiological, historical or something completely different.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/CV_NP-202304.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/CV_NP-202402.pdf" "newtab" >}}resumé{{< /staticref >}}.
