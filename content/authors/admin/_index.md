@@ -22,7 +22,7 @@ interests:
 organizations:
 - name: University of Bremen
   url: https://www.uni-bremen.de/fb-10/fachbereich/wissenschaftlerinnen-wissenschaftler/wiss-mitarb/dr-naomi-peck
-role: POstdoc
+role: Postdoc
 social:
 - icon: envelope
   icon_pack: fas
