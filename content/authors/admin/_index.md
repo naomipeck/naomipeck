@@ -46,8 +46,8 @@ My research interests span from the typology of complex predicates to the
 patterns of pausing in spontaneous speech, and many other things along the way.
 
 I was previously a PhD student at the University of Freiburg, 
-where I was a member of the {{< staticref "https://uni-freiburg.de/linguistics/non-hierarchicality-in-grammar-nongram/" "newtab" >}}Emmy-Noether-Gruppe Non-Hierarchicality in Grammar (NonGram){{< /staticref >}} 
-and a research assistant on {{< staticref "https://grambank.clld.org/" "newtab" >}}Grambank{{< /staticref >}}. 
+where I was a member of the {{< staticref "https://uni-freiburg.de/linguistics/non-hierarchicality-in-grammar-nongram/" "newtab" >}}Emmy-Noether-Gruppe Non-Hierarchicality in Grammar (NonGram){{< /staticref >}}. 
 {{< staticref "https://freidok.uni-freiburg.de/data/274498" "newtab" >}}My dissertation{{< /staticref >}} looked at how complex verbal constructions are realised by speakers in Northeast India.
+Before that, I was a research assistant on {{< staticref "https://grambank.clld.org/" "newtab" >}}Grambank{{< /staticref >}}. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/CV_NP-202402.pdf" "newtab" >}}resumé{{< /staticref >}} (to be updated soon).
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/CV_NP-202607.pdf" "newtab" >}}resumé{{< /staticref >}}.

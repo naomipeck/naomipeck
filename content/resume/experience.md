@@ -29,7 +29,7 @@ experience:
     company_url: ''
     location: Freiburg
     date_start: '2019-05-01'
-    date_end: ''
+    date_end: '2025-08-18'
     description: Contextualising serialisation -- Multi-verbal expressions in the East Himalaya (working title)
   - title: Bachelor of Arts (Honours)/Bachelor of Asia-Pacific Studies (Year in Asia)
     company: Australian National University

@@ -28,8 +28,11 @@ design:
     padding: ["100px", "0", "100px", "0"]
 ---
 
-My name is Naomi Peck and I originally hail from Melbourne, Australia. I currently live in Freiburg, where I do my PhD, but I have also previously lived and worked in Canberra (Australia), Seoul (South Korea) and Mainz (Germany). I also have done fieldwork in Roing and Anini (Arunachal Pradesh, India).
+My name is Naomi Peck and I originally hail from Melbourne, Australia. 
+I currently live in Bremen, but I have also previously lived and worked in Canberra (Australia), Seoul (South Korea), Mainz (Germany) and Freiburg (Germany). 
+I also have done fieldwork in Roing and Anini (Arunachal Pradesh, India).
 
 I have always loved the feeling you get when you solve a mental puzzle, and nothing has given me more satisfaction than chipping away at solving the puzzle that is Language.
 
-I am a native English speaker and I also speak Korean and German at a high intermediate level. I have good passive knowledge of French and Japanese, but my active use of both is a bit rusty. 
+I am a native English speaker and I also speak German at an advanced level. 
+I have good passive knowledge of French, Korean, and Japanese, but my active use of all is a bit rusty. 
