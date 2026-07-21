@@ -11,7 +11,7 @@ blogdown::serve_site()
 blogdown::stop_server()
 
 #Create new post
-blogdown::new_post(title = "Serial verb constructions package information, not events",
+blogdown::new_post(title = "verbalisation",
                    ext = '.Rmarkdown',
                    subdir = "publication")
 
